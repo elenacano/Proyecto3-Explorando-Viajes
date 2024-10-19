@@ -1,0 +1,101 @@
+,precio,origen_ida,destino_ida,min_duracion_ida,escalas_ida,hora_salida_ida,hora_llegada_ida,aerolinea_ida,origen_vuelta,destino_vuelta,min_duracion_vuelta,escalas_vuelta,hora_salida_vuelta,hora_llegada_vuelta,aerolinea_vuelta
+0,82.73,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+1,119.72,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+2,127.18,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+3,184.78,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+4,164.17,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+5,104.97,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+6,87.98,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+7,214.58,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair
+8,170.13,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair
+9,100.73,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+10,213.47,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+11,101.97,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+12,202.78,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+13,124.97,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+14,145.18,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+15,175.38,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair
+16,117.87,Madrid,Rome Fiumicino,310,1,18:15,23:25,Vueling Airlines,Madrid,Rome Fiumicino,310,1,18:15,23:25,Vueling Airlines
+17,170.37,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+18,129.78,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+19,210.73,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+20,188.24,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+21,220.28,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+22,132.3,Madrid,Rome Fiumicino,295,1,18:15,23:10,Vueling Airlines,Madrid,Rome Fiumicino,295,1,18:15,23:10,Vueling Airlines
+23,215.86,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+24,209.9,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+25,217.34,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+26,221.77,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+27,119.97,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+28,136.45,Madrid,Rome Fiumicino,295,1,18:15,23:10,Vueling Airlines,Madrid,Rome Fiumicino,295,1,18:15,23:10,Vueling Airlines
+29,235.78,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+30,239.87,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+31,242.22,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways
+32,249.0,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+33,142.69,Madrid,Rome Fiumicino,365,1,18:00,00:05,TAP Air Portugal,Madrid,Rome Fiumicino,365,1,18:00,00:05,TAP Air Portugal
+34,255.18,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+35,261.98,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+36,267.47,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways
+37,264.98,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+38,272.18,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair
+39,274.25,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways
+40,267.09,Madrid,Rome Fiumicino,150,0,11:50,14:20,ITA Airways,Madrid,Rome Fiumicino,150,0,11:50,14:20,ITA Airways
+41,275.97,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair
+42,273.33,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia
+43,181.42,Madrid,Rome Fiumicino,310,1,18:15,23:25,Vueling Airlines,Madrid,Rome Fiumicino,310,1,18:15,23:25,Vueling Airlines
+44,278.82,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+45,288.8,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair,Madrid,Rome Fiumicino,145,0,21:45,00:10,Ryanair
+46,284.35,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+47,289.83,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+48,298.12,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+49,293.8,Madrid,Rome Fiumicino,150,0,11:50,14:20,ITA Airways,Madrid,Rome Fiumicino,150,0,11:50,14:20,ITA Airways
+50,298.97,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+51,307.36,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+52,305.84,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+53,316.58,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways
+54,311.47,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+55,312.78,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+56,313.14,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+57,320.85,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair,Madrid,Rome Fiumicino,145,0,18:55,21:20,Ryanair
+58,319.05,Madrid,Rome Fiumicino,145,0,15:00,17:25,ITA Airways,Madrid,Rome Fiumicino,145,0,15:00,17:25,ITA Airways
+59,335.74,Madrid,Rome Fiumicino,145,0,17:05,19:30,Vueling Airlines,Madrid,Rome Fiumicino,145,0,17:05,19:30,Vueling Airlines
+60,331.92,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+61,335.47,Madrid,Rome Fiumicino,145,0,15:45,18:10,Iberia,Madrid,Rome Fiumicino,145,0,15:45,18:10,Iberia
+62,335.47,Madrid,Rome Fiumicino,145,0,21:50,00:15,Iberia,Madrid,Rome Fiumicino,145,0,21:50,00:15,Iberia
+63,341.38,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+64,351.17,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia
+65,351.83,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways,Madrid,Rome Fiumicino,145,0,05:50,08:15,ITA Airways
+66,201.02,Madrid,Rome Fiumicino,370,1,13:00,19:10,KLM,Madrid,Rome Fiumicino,370,1,13:00,19:10,KLM
+67,349.38,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair,Madrid,Rome Fiumicino,145,0,12:50,15:15,Ryanair
+68,351.83,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+69,352.2,Madrid,Rome Fiumicino,145,0,13:05,15:30,Iberia,Madrid,Rome Fiumicino,145,0,13:05,15:30,Iberia
+70,208.13,Madrid,Rome Fiumicino,365,1,18:00,00:05,TAP Air Portugal,Madrid,Rome Fiumicino,365,1,18:00,00:05,TAP Air Portugal
+71,361.96,Madrid,Rome Fiumicino,145,0,15:00,17:25,ITA Airways,Madrid,Rome Fiumicino,145,0,15:00,17:25,ITA Airways
+72,356.67,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+73,370.77,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+74,374.33,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia
+75,369.07,Madrid,Rome Fiumicino,145,0,11:30,13:55,Iberia,Madrid,Rome Fiumicino,145,0,11:30,13:55,Iberia
+76,242.46,Madrid,Rome Fiumicino,310,1,18:15,23:25,Vueling Airlines,Madrid,Rome Fiumicino,310,1,18:15,23:25,Vueling Airlines
+77,377.58,Madrid,Rome Fiumicino,145,0,17:05,19:30,Vueling Airlines,Madrid,Rome Fiumicino,145,0,17:05,19:30,Vueling Airlines
+78,372.09,Madrid,Rome Fiumicino,150,0,11:50,14:20,ITA Airways,Madrid,Rome Fiumicino,150,0,11:50,14:20,ITA Airways
+79,373.54,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+80,156.65,Madrid,Rome Fiumicino,365,1,18:00,00:05,TAP Air Portugal,Madrid,Rome Fiumicino,365,1,18:00,00:05,TAP Air Portugal
+81,377.22,Madrid,Rome Fiumicino,145,0,07:05,09:30,Air Europa,Madrid,Rome Fiumicino,145,0,07:05,09:30,Air Europa
+82,378.78,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+83,227.99,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+84,392.73,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia
+85,383.65,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+86,396.4,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+87,391.54,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+88,400.86,Madrid,Rome Fiumicino,145,0,15:45,18:10,Iberia,Madrid,Rome Fiumicino,145,0,15:45,18:10,Iberia
+89,399.02,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia,Madrid,Rome Fiumicino,145,0,17:05,19:30,Iberia
+90,400.86,Madrid,Rome Fiumicino,145,0,21:50,00:15,Iberia,Madrid,Rome Fiumicino,145,0,21:50,00:15,Iberia
+91,388.73,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+92,400.79,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,09:40,12:10,Wizz Air Malta
+93,401.78,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways,Madrid,Rome Fiumicino,150,0,18:00,20:30,ITA Airways
+94,412.37,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa,Madrid,Rome Fiumicino,145,0,15:00,17:25,Air Europa
+95,405.71,Madrid,Rome Fiumicino,150,0,18:00,20:30,Air Europa,Madrid,Rome Fiumicino,150,0,18:00,20:30,Air Europa
+96,415.74,Madrid,Rome Fiumicino,145,0,15:45,18:10,Iberia,Madrid,Rome Fiumicino,145,0,15:45,18:10,Iberia
+97,415.74,Madrid,Rome Fiumicino,145,0,21:50,00:15,Iberia,Madrid,Rome Fiumicino,145,0,21:50,00:15,Iberia
+98,410.36,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta
+99,408.93,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta,Madrid,Rome Fiumicino,150,0,22:25,00:55,Wizz Air Malta

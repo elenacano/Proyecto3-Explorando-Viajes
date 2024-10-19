@@ -1,19 +1,17 @@
-from bs4 import BeautifulSoup
-import requests
+from bs4 import BeautifulSoup # type: ignore
 import numpy as np
-from tqdm import tqdm
 from time import sleep
 import math
 
-import pandas as pd
+import pandas as pd # type: ignore
 
-from selenium import webdriver  
-from webdriver_manager.chrome import ChromeDriverManager  
-from selenium.webdriver.common.keys import Keys  
-from selenium.webdriver.support.ui import Select 
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException
+from selenium import webdriver   # type: ignore
+from webdriver_manager.chrome import ChromeDriverManager   # type: ignore
+from selenium.webdriver.common.keys import Keys   # type: ignore
+from selenium.webdriver.support.ui import Select  # type: ignore
+from selenium.webdriver.support.ui import WebDriverWait # type: ignore
+from selenium.webdriver.support import expected_conditions as EC # type: ignore
+from selenium.common.exceptions import NoSuchElementException # type: ignore
 
 def obtencion_html(lista_urls, ciudades):
     driver = webdriver.Chrome()
@@ -171,7 +169,7 @@ def creacion_df(ciudades):
         df["opiniones"]=df["opiniones"].str.replace(" Opiniones)", "").str.replace("(","")
         
         print(f"Estamos haciendo el df de {ciudad}")
-        df.to_csv(f"../datos/df_{ciudad}.csv")
+        df.to_csv(f"../datos/df_actividades_{ciudad}.csv")
         
     return
 
