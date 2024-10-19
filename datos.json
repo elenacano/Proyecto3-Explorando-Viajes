@@ -1,0 +1,2036 @@
+{
+    "status": true,
+    "timestamp": 1729291405742,
+    "sessionId": "b1d26c96-b647-4b47-92d6-5e1e2c80131a",
+    "data": {
+        "context": {
+            "status": "incomplete",
+            "sessionId": "ClQIARJQCk4KJGIxZDI2Yzk2LWI2NDctNGI0Ny05MmQ2LTVlMWUyYzgwMTMxYRACGiQ0ZGQ1NjMxMy00MWY3LTQ5MTctYjQ2ZC1mMTJlZGJmNmRjN2ESKHVzc180YTkwOTA3Ni1mZWUwLTQ2ODEtYmE0Ni1jMjVjM2ZjNzE1ZTc=",
+            "totalResults": 10
+        },
+        "itineraries": [
+            {
+                "id": "13870-2412062145--31915-0-11493-2412070010|11493-2412080710--31915-0-13870-2412080945",
+                "price": {
+                    "raw": 79.63,
+                    "formatted": "80 \u20ac",
+                    "pricingOptionId": "3kUbWLsOqJiK"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412062145--31915-0-11493-2412070010",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T21:45:00",
+                        "arrival": "2024-12-07T00:10:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412062145-2412070010--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T21:45:00",
+                                "arrival": "2024-12-07T00:10:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "2436",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080710--31915-0-13870-2412080945",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T07:10:00",
+                        "arrival": "2024-12-08T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080710-2412080945--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T07:10:00",
+                                "arrival": "2024-12-08T09:45:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9601",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "cheapest",
+                    "shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.999
+            },
+            {
+                "id": "13870-2412061855--31915-0-11493-2412062120|11493-2412080710--31915-0-13870-2412080945",
+                "price": {
+                    "raw": 118.3,
+                    "formatted": "119 \u20ac",
+                    "pricingOptionId": "giCMu2FtE-hx"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412061855--31915-0-11493-2412062120",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T18:55:00",
+                        "arrival": "2024-12-06T21:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412061855-2412062120--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T18:55:00",
+                                "arrival": "2024-12-06T21:20:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "9674",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080710--31915-0-13870-2412080945",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T07:10:00",
+                        "arrival": "2024-12-08T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080710-2412080945--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T07:10:00",
+                                "arrival": "2024-12-08T09:45:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9601",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.788767
+            },
+            {
+                "id": "13870-2412062145--31915-0-11493-2412070010|11493-2412080930--31915-0-13870-2412081205",
+                "price": {
+                    "raw": 125.5,
+                    "formatted": "126 \u20ac",
+                    "pricingOptionId": "Zl6Qq5G-Gff-"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412062145--31915-0-11493-2412070010",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T21:45:00",
+                        "arrival": "2024-12-07T00:10:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412062145-2412070010--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T21:45:00",
+                                "arrival": "2024-12-07T00:10:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "2436",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080930--31915-0-13870-2412081205",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T09:30:00",
+                        "arrival": "2024-12-08T12:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080930-2412081205--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T09:30:00",
+                                "arrival": "2024-12-08T12:05:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9673",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_shortest"
+                ],
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.693427
+            },
+            {
+                "id": "13870-2412062145--31915-0-11493-2412070010|11493-2412081435--31915-0-13870-2412081710",
+                "price": {
+                    "raw": 183.1,
+                    "formatted": "184 \u20ac",
+                    "pricingOptionId": "0RqVrIi4DZW9"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412062145--31915-0-11493-2412070010",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T21:45:00",
+                        "arrival": "2024-12-07T00:10:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412062145-2412070010--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T21:45:00",
+                                "arrival": "2024-12-07T00:10:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "2436",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412081435--31915-0-13870-2412081710",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T14:35:00",
+                        "arrival": "2024-12-08T17:10:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412081435-2412081710--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T14:35:00",
+                                "arrival": "2024-12-08T17:10:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9684",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.583799
+            },
+            {
+                "id": "13870-2412062225--30596-0-11493-2412070055|11493-2412080615--30596-0-13870-2412080855",
+                "price": {
+                    "raw": 103.99,
+                    "formatted": "104 \u20ac",
+                    "pricingOptionId": "BYy-bzqgwATR"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412062225--30596-0-11493-2412070055",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 150,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T22:25:00",
+                        "arrival": "2024-12-07T00:55:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -30596,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                    "name": "Wizz Air Malta"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412062225-2412070055--30596",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T22:25:00",
+                                "arrival": "2024-12-07T00:55:00",
+                                "durationInMinutes": 150,
+                                "flightNumber": "6014",
+                                "marketingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080615--30596-0-13870-2412080855",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 160,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T06:15:00",
+                        "arrival": "2024-12-08T08:55:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -30596,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                    "name": "Wizz Air Malta"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080615-2412080855--30596",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T06:15:00",
+                                "arrival": "2024-12-08T08:55:00",
+                                "durationInMinutes": 160,
+                                "flightNumber": "6011",
+                                "marketingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 19.965536
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.562523
+            },
+            {
+                "id": "13870-2412061855--31915-0-11493-2412062120|11493-2412080930--31915-0-13870-2412081205",
+                "price": {
+                    "raw": 164.17,
+                    "formatted": "165 \u20ac",
+                    "pricingOptionId": "hpeH17bUH2ck"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412061855--31915-0-11493-2412062120",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T18:55:00",
+                        "arrival": "2024-12-06T21:20:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412061855-2412062120--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T18:55:00",
+                                "arrival": "2024-12-06T21:20:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "9674",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080930--31915-0-13870-2412081205",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T09:30:00",
+                        "arrival": "2024-12-08T12:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080930-2412081205--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T09:30:00",
+                                "arrival": "2024-12-08T12:05:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9673",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.557556
+            },
+            {
+                "id": "13870-2412062145--31915-0-11493-2412070010|11493-2412080615--30596-0-13870-2412080855",
+                "price": {
+                    "raw": 86.3,
+                    "formatted": "87 \u20ac",
+                    "pricingOptionId": "4RcY5cn84Diw"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412062145--31915-0-11493-2412070010",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T21:45:00",
+                        "arrival": "2024-12-07T00:10:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412062145-2412070010--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T21:45:00",
+                                "arrival": "2024-12-07T00:10:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "2436",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080615--30596-0-13870-2412080855",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 160,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T06:15:00",
+                        "arrival": "2024-12-08T08:55:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -30596,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                    "name": "Wizz Air Malta"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080615-2412080855--30596",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T06:15:00",
+                                "arrival": "2024-12-08T08:55:00",
+                                "durationInMinutes": 160,
+                                "flightNumber": "6011",
+                                "marketingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 8.99927
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "second_cheapest"
+                ],
+                "isMashUp": true,
+                "hasFlexibleOptions": false,
+                "score": 0.554989
+            },
+            {
+                "id": "13870-2412061250--31915-0-11493-2412061515|11493-2412080710--31915-0-13870-2412080945",
+                "price": {
+                    "raw": 168.71,
+                    "formatted": "169 \u20ac",
+                    "pricingOptionId": "OU4R8XGqqyL9"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412061250--31915-0-11493-2412061515",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T12:50:00",
+                        "arrival": "2024-12-06T15:15:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412061250-2412061515--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T12:50:00",
+                                "arrival": "2024-12-06T15:15:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "9602",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080710--31915-0-13870-2412080945",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T07:10:00",
+                        "arrival": "2024-12-08T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080710-2412080945--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T07:10:00",
+                                "arrival": "2024-12-08T09:45:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9601",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.54604
+            },
+            {
+                "id": "13870-2412061250--31915-0-11493-2412061515|11493-2412080930--31915-0-13870-2412081205",
+                "price": {
+                    "raw": 214.58,
+                    "formatted": "215 \u20ac",
+                    "pricingOptionId": "7UfOR8zC89WP"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412061250--31915-0-11493-2412061515",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 145,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T12:50:00",
+                        "arrival": "2024-12-06T15:15:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412061250-2412061515--31915",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T12:50:00",
+                                "arrival": "2024-12-06T15:15:00",
+                                "durationInMinutes": 145,
+                                "flightNumber": "9602",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080930--31915-0-13870-2412081205",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T09:30:00",
+                        "arrival": "2024-12-08T12:05:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080930-2412081205--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T09:30:00",
+                                "arrival": "2024-12-08T12:05:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9673",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "fareAttributes": {},
+                "isMashUp": false,
+                "hasFlexibleOptions": false,
+                "score": 0.542292
+            },
+            {
+                "id": "13870-2412062225--30596-0-11493-2412070055|11493-2412080710--31915-0-13870-2412080945",
+                "price": {
+                    "raw": 99.31,
+                    "formatted": "100 \u20ac",
+                    "pricingOptionId": "7vDlxvi-wJZK"
+                },
+                "legs": [
+                    {
+                        "id": "13870-2412062225--30596-0-11493-2412070055",
+                        "origin": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 150,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-06T22:25:00",
+                        "arrival": "2024-12-07T00:55:00",
+                        "timeDeltaInDays": 1,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -30596,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                    "name": "Wizz Air Malta"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "13870-11493-2412062225-2412070055--30596",
+                                "origin": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "departure": "2024-12-06T22:25:00",
+                                "arrival": "2024-12-07T00:55:00",
+                                "durationInMinutes": 150,
+                                "flightNumber": "6014",
+                                "marketingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -30596,
+                                    "name": "Wizz Air Malta",
+                                    "alternateId": "I*",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11493-2412080710--31915-0-13870-2412080945",
+                        "origin": {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino",
+                            "displayCode": "FCO",
+                            "city": "Rome",
+                            "country": "Italy",
+                            "isHighlighted": false
+                        },
+                        "destination": {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid",
+                            "displayCode": "MAD",
+                            "city": "Madrid",
+                            "country": "Spain",
+                            "isHighlighted": false
+                        },
+                        "durationInMinutes": 155,
+                        "stopCount": 0,
+                        "isSmallestStops": false,
+                        "departure": "2024-12-08T07:10:00",
+                        "arrival": "2024-12-08T09:45:00",
+                        "timeDeltaInDays": 0,
+                        "carriers": {
+                            "marketing": [
+                                {
+                                    "id": -31915,
+                                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                                    "name": "Ryanair"
+                                }
+                            ],
+                            "operationType": "fully_operated"
+                        },
+                        "segments": [
+                            {
+                                "id": "11493-13870-2412080710-2412080945--31915",
+                                "origin": {
+                                    "flightPlaceId": "FCO",
+                                    "displayCode": "FCO",
+                                    "parent": {
+                                        "flightPlaceId": "ROME",
+                                        "displayCode": "ROM",
+                                        "name": "Rome",
+                                        "type": "City"
+                                    },
+                                    "name": "Rome Fiumicino",
+                                    "type": "Airport",
+                                    "country": "Italy"
+                                },
+                                "destination": {
+                                    "flightPlaceId": "MAD",
+                                    "displayCode": "MAD",
+                                    "parent": {
+                                        "flightPlaceId": "MADR",
+                                        "displayCode": "MAD",
+                                        "name": "Madrid",
+                                        "type": "City"
+                                    },
+                                    "name": "Madrid",
+                                    "type": "Airport",
+                                    "country": "Spain"
+                                },
+                                "departure": "2024-12-08T07:10:00",
+                                "arrival": "2024-12-08T09:45:00",
+                                "durationInMinutes": 155,
+                                "flightNumber": "9601",
+                                "marketingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                },
+                                "operatingCarrier": {
+                                    "id": -31915,
+                                    "name": "Ryanair",
+                                    "alternateId": "FR",
+                                    "allianceId": 0,
+                                    "displayCode": ""
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "isSelfTransfer": false,
+                "isProtectedSelfTransfer": false,
+                "farePolicy": {
+                    "isChangeAllowed": false,
+                    "isPartiallyChangeable": false,
+                    "isCancellationAllowed": false,
+                    "isPartiallyRefundable": false
+                },
+                "eco": {
+                    "ecoContenderDelta": 8.99927
+                },
+                "fareAttributes": {},
+                "tags": [
+                    "third_cheapest"
+                ],
+                "isMashUp": true,
+                "hasFlexibleOptions": false,
+                "score": 0.505811
+            }
+        ],
+        "messages": [],
+        "filterStats": {
+            "duration": {
+                "min": 155,
+                "max": 160,
+                "multiCityMin": 300,
+                "multiCityMax": 310
+            },
+            "airports": [
+                {
+                    "city": "Madrid",
+                    "airports": [
+                        {
+                            "id": "MAD",
+                            "entityId": "95565077",
+                            "name": "Madrid"
+                        }
+                    ]
+                },
+                {
+                    "city": "Rome",
+                    "airports": [
+                        {
+                            "id": "FCO",
+                            "entityId": "95565065",
+                            "name": "Rome Fiumicino"
+                        }
+                    ]
+                }
+            ],
+            "carriers": [
+                {
+                    "id": -31915,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/FR.png",
+                    "name": "Ryanair"
+                },
+                {
+                    "id": -30596,
+                    "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                    "name": "Wizz Air Malta"
+                }
+            ],
+            "stopPrices": {
+                "direct": {
+                    "isPresent": true,
+                    "formattedPrice": "80 \u20ac"
+                },
+                "one": {
+                    "isPresent": false
+                },
+                "twoOrMore": {
+                    "isPresent": false
+                }
+            }
+        },
+        "flightsSessionId": "b1d26c96-b647-4b47-92d6-5e1e2c80131a",
+        "destinationImageUrl": "https://content.skyscnr.com/m/3719e8f4a5daf43d/original/Flights-Placeholder.jpg"
+    }
+}
