@@ -1,11 +1,11 @@
-import dotenv
+import dotenv # type: ignore
 import json
 import os
-import pandas as pd
+import pandas as pd # type: ignore
 import numpy as np
-import requests
-from geopy.geocoders import Nominatim
-from geopy.distance import geodesic
+import requests # type: ignore
+from geopy.geocoders import Nominatim # type: ignore
+from geopy.distance import geodesic # type: ignore
 
 dotenv.load_dotenv()
 

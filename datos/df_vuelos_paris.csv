@@ -1,101 +1,101 @@
 ,precio,origen_ida,destino_ida,min_duracion_ida,escalas_ida,hora_salida_ida,hora_llegada_ida,aerolinea_ida,origen_vuelta,destino_vuelta,min_duracion_vuelta,escalas_vuelta,hora_salida_vuelta,hora_llegada_vuelta,aerolinea_vuelta
-0,150.73,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-1,341.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-2,210.54,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-3,350.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-4,341.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-5,273.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-6,349.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-7,300.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-8,350.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-9,273.11,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia
-10,358.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-11,273.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-12,293.51,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-13,282.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-14,244.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-15,271.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-16,334.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-17,244.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-18,253.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-19,305.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-20,267.97,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Vueling Airlines
-21,329.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines
-22,250.04,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-23,258.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines
-24,344.0,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines
-25,361.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-26,361.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-27,368.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-28,370.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-29,357.65,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-30,377.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-31,380.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-32,380.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-33,388.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-34,389.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-35,393.83,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines
-36,408.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-37,401.2,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-38,409.3,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-39,401.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-40,400.75,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet Europe,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet Europe
-41,410.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-42,422.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-43,448.53,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines
-44,441.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-45,469.11,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-46,476.65,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia
-47,309.15,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways
-48,512.02,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines
-49,317.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM
-50,531.68,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia
-51,346.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM
-52,343.45,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,British Airways,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,British Airways
-53,570.44,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-54,596.23,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines
-55,308.55,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-56,325.95,Madrid,Paris Charles de Gaulle,370,1,16:45,22:55,British Airways,Madrid,Paris Charles de Gaulle,370,1,16:45,22:55,British Airways
-57,353.77,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-58,395.31,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,Iberia,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,Iberia
-59,413.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM
-60,411.24,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways
-61,659.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines
-62,681.0,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines
-63,408.88,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France
-64,408.88,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France
-65,372.0,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-66,422.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM
-67,430.58,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways
-68,426.87,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,Iberia,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,Iberia
-69,417.88,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France
-70,434.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM
-71,407.02,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-72,435.88,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France
-73,453.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM
-74,422.11,Madrid,Paris Charles de Gaulle,330,1,11:50,17:20,ITA Airways,Madrid,Paris Charles de Gaulle,330,1,11:50,17:20,ITA Airways
-75,379.47,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-76,424.69,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-77,428.89,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-78,426.87,Madrid,Paris Charles de Gaulle,340,1,15:05,20:45,Iberia,Madrid,Paris Charles de Gaulle,340,1,15:05,20:45,Iberia
-79,443.02,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-80,776.5,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines
-81,384.9,Madrid,Paris Charles de Gaulle,395,1,12:50,19:25,British Airways,Madrid,Paris Charles de Gaulle,395,1,12:50,19:25,British Airways
-82,435.15,Madrid,Paris Charles de Gaulle,335,1,17:20,22:55,Iberia,Madrid,Paris Charles de Gaulle,335,1,17:20,22:55,Iberia
-83,405.44,Madrid,Paris Charles de Gaulle,370,1,14:35,20:45,British Airways,Madrid,Paris Charles de Gaulle,370,1,14:35,20:45,British Airways
-84,789.62,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-85,444.1,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-86,469.88,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France
-87,789.62,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-88,398.88,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet
-89,481.88,Madrid,Paris Charles de Gaulle,305,1,08:25,13:30,Lufthansa,Madrid,Paris Charles de Gaulle,305,1,08:25,13:30,Lufthansa
-90,497.41,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways
-91,448.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-92,451.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines
-93,503.86,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,British Airways,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,British Airways
-94,365.0,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia
-95,477.88,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia
-96,841.01,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines
-97,840.0,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines
-98,841.01,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines
-99,800.54,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Scandinavian Airlines,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Scandinavian Airlines
+0,150.73,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+1,341.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,125,0,14:55,17:00,Air France
+2,210.54,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+3,350.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,130,0,13:15,15:25,Air France
+4,341.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,125,0,14:55,17:00,Air France
+5,273.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+6,349.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,125,0,14:55,17:00,Air France
+7,300.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+8,350.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,130,0,13:15,15:25,Air France
+9,273.11,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+10,358.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,130,0,13:15,15:25,Air France
+11,273.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+12,293.51,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+13,282.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+14,244.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+15,271.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+16,334.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+17,244.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+18,253.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+19,305.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+20,267.97,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Vueling Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Vueling Airlines
+21,329.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Vueling Airlines
+22,250.04,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+23,258.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+24,344.0,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+25,361.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Air France
+26,361.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Air France
+27,368.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,125,0,14:55,17:00,Air France
+28,370.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Air France
+29,357.65,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+30,377.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,130,0,13:15,15:25,Air France
+31,380.73,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Air France
+32,380.73,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Air France
+33,388.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Air France
+34,389.73,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Air France
+35,393.83,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Vueling Airlines
+36,408.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Air France
+37,401.2,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+38,409.3,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+39,401.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,125,0,14:55,17:00,Air France
+40,400.75,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet Europe,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet Europe
+41,410.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,130,0,13:15,15:25,Air France
+42,422.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Air France
+43,448.53,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+44,441.73,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Air France
+45,469.11,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+46,476.65,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+47,309.15,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+48,512.02,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+49,317.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+50,531.68,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Iberia,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+51,346.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+52,343.45,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,British Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+53,570.44,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+54,596.23,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+55,308.55,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,390,1,06:30,13:00,Lufthansa
+56,325.95,Madrid,Paris Charles de Gaulle,370,1,16:45,22:55,British Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+57,353.77,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,335,1,07:05,12:40,British Airways
+58,395.31,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+59,413.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Paris Charles de Gaulle,Madrid,125,0,14:55,17:00,Air France
+60,411.24,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Air France
+61,659.73,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+62,681.0,Madrid,Paris Charles de Gaulle,130,0,09:45,11:55,Vueling Airlines,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+63,408.88,Madrid,Paris Charles de Gaulle,130,0,12:25,14:35,Air France,Paris Charles de Gaulle,Madrid,305,1,07:10,12:15,KLM
+64,408.88,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Air France,Paris Charles de Gaulle,Madrid,305,1,07:10,12:15,KLM
+65,372.0,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,350,1,12:15,18:05,Royal Air Maroc
+66,422.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Paris Charles de Gaulle,Madrid,130,0,13:15,15:25,Air France
+67,430.58,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Paris Charles de Gaulle,Madrid,125,0,09:25,11:30,Air France
+68,426.87,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+69,417.88,Madrid,Paris Charles de Gaulle,130,0,17:55,20:05,Air France,Paris Charles de Gaulle,Madrid,305,1,07:10,12:15,KLM
+70,434.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Air France
+71,407.02,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,325,1,11:45,17:10,ITA Airways
+72,435.88,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Air France,Paris Charles de Gaulle,Madrid,305,1,07:10,12:15,KLM
+73,453.88,Madrid,Paris Charles de Gaulle,295,1,13:00,17:55,KLM,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Air France
+74,422.11,Madrid,Paris Charles de Gaulle,330,1,11:50,17:20,ITA Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+75,379.47,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,390,1,06:30,13:00,Lufthansa
+76,424.69,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,335,1,07:05,12:40,British Airways
+77,428.89,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,335,1,07:05,12:40,British Airways
+78,426.87,Madrid,Paris Charles de Gaulle,340,1,15:05,20:45,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+79,443.02,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,325,1,08:50,14:15,Lufthansa
+80,776.5,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+81,384.9,Madrid,Paris Charles de Gaulle,395,1,12:50,19:25,British Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+82,435.15,Madrid,Paris Charles de Gaulle,335,1,17:20,22:55,Iberia,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+83,405.44,Madrid,Paris Charles de Gaulle,370,1,14:35,20:45,British Airways,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+84,789.62,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Scandinavian Airlines
+85,444.1,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,335,1,07:05,12:40,British Airways
+86,469.88,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Air France,Paris Charles de Gaulle,Madrid,305,1,07:10,12:15,KLM
+87,789.62,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Scandinavian Airlines
+88,398.88,Madrid,Paris Charles de Gaulle,135,0,14:45,17:00,easyJet,Paris Charles de Gaulle,Madrid,390,1,06:30,13:00,Lufthansa
+89,481.88,Madrid,Paris Charles de Gaulle,305,1,08:25,13:30,Lufthansa,Paris Charles de Gaulle,Madrid,130,0,07:00,09:10,Iberia
+90,497.41,Madrid,Paris Charles de Gaulle,295,1,18:00,22:55,British Airways,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+91,448.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,350,1,12:15,18:05,Royal Air Maroc
+92,451.0,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Vueling Airlines,Paris Charles de Gaulle,Madrid,350,1,12:15,18:05,Royal Air Maroc
+93,503.86,Madrid,Paris Charles de Gaulle,295,1,15:50,20:45,British Airways,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet
+94,365.0,Madrid,Paris Charles de Gaulle,130,0,21:40,23:50,Iberia,Paris Charles de Gaulle,Madrid,465,1,10:10,17:55,Bulgaria Air
+95,477.88,Madrid,Paris Charles de Gaulle,130,0,15:45,17:55,Iberia,Paris Charles de Gaulle,Madrid,325,1,11:45,17:10,ITA Airways
+96,841.01,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,130,0,20:55,23:05,Scandinavian Airlines
+97,840.0,Madrid,Paris Charles de Gaulle,130,0,10:00,12:10,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,130,0,18:45,20:55,Iberia
+98,841.01,Madrid,Paris Charles de Gaulle,130,0,16:20,18:30,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,130,0,17:05,19:15,Scandinavian Airlines
+99,800.54,Madrid,Paris Charles de Gaulle,140,0,06:00,08:20,Scandinavian Airlines,Paris Charles de Gaulle,Madrid,135,0,17:35,19:50,easyJet

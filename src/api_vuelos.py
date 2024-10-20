@@ -99,7 +99,7 @@ def creacion_dic_vuelos(lista_itinerario):
         dic_itinerarios["aerolinea_ida"].append(leg_ida["carriers"]["marketing"][0]["name"])
 
         # vuelos vuelta
-        leg_vuelta = itinerario["legs"][0]
+        leg_vuelta = itinerario["legs"][1]
 
         dic_itinerarios["origen_vuelta"].append(leg_vuelta["origin"]["name"])
         dic_itinerarios["destino_vuelta"].append(leg_vuelta["destination"]["name"])
