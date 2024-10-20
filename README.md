@@ -33,9 +33,10 @@ Los objetivos principales del análisis son:
 ## Conclusiones 
 
 1. **Vuelos**: En los vuelos a Roma la media del precio de ida y vuelta es de 274 euros, bastante cerca de la mediana con 281 euros. Los precios de los vuelos van desde 80 hasta 415 euros. En el caso de París la media de los precios de los trayectos ida y vuelta es de casi 420 euros, cifra bastante más elevada que para Roma, y los precios de los vuelos van desde 150 hasta los 841 euros. Podemos observarlo de maner más gráfica:
+
 ![Descripción de la imagen](imagenes/boxplot_vuelos.png)
 
-<img src="imagenes/boxplot_vuelos.png" alt="Descripción de la imagen" width="600"/>
+<img src="imagenes/boxplot_vuelos.png" alt="Descripción de la imagen" width="300"/>
 
 Observando el top 5 vuelos más baratos para cada ciudad los de roma oscilan entre 82 y 105 euros mientras que para París van desde 150 hasta 253, por lo que se puede concluir que a nivel económico la mejor opción en cuanto a vuelos sería Roma. Luego pueden entrar a considerarse otros factores como las horas de salida de los vuelos o la comapñía de la aerolínea, si se desea más información en cuanto a los vuelos puede consultar el archivo `1-EDA.ipynb` en la carpeta de `notebooks`.
 
