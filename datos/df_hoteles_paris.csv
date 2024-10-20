@@ -1,0 +1,21 @@
+,hotel,puntuacion,precio_total,direccion,cancelacion_gratuita,hora_checkout
+0,Maison Mère,9.1,492.44,"Maison Mère, 9, Rue Mayran, Quartier de Rochechouart, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",0,12:00
+1,Le 12 Hôtel,9.0,446.52,"10, Rue de Stockholm, Quartier de l'Europe, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
+2,"Hotel Litteraire Marcel Ayme, BW Premier Collection",8.7,450.72,"Hôtel Littéraire Marcel Aymé, 16, Rue Tholozé, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",0,12:00
+3,Le 123 Sébastopol - Astotel,9.1,1315.52,"123, Boulevard de Sébastopol, Quartier de Bonne-Nouvelle, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",0,12:00
+4,Les Rives de Notre-Dame,9.3,1032.52,"Quai B, Rue du Chat Qui Pêche, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",1,11:30
+5,Majestic Hotel Spa - Champs Elysées,8.1,890.92,"30, Rue la Pérouse, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",0,12:00
+6,Le jardin du stade by UTA HOUSE,8.7,456.545454545455,"3, Rue Micheline Ostermeyer, Franc-Moisin - Bel-Air - Stade de France, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93200, France",0,11:00
+7,Hôtel Des Grands Voyageurs,9.0,560.52,"45, Rue de l'Abbé Grégoire, Quartier Notre-Dame-des-Champs, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",0,12:00
+8,Hôtel Eiffel Turenne,8.6,515.8,"20, Avenue de Tourville, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",1,12:00
+9,GuestReady - Bel Apt à 5 minutes de Chinatown,7.6,414.15,"8, Rue Philibert Lucot, Quartier de la Maison-Blanche, Paris 13e Arrondissement, Paris, Île-de-France, France métropolitaine, 75013, France",0,11:00
+10,Residhome Paris Gare de Lyon - Jacqueline de Romilly,8.2,310.8,"40, Rue Jorge Semprún, Quartier de Bercy, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",0,11:00
+11,Apollon Montparnasse,8.0,574.8,"Hôtel Apollon Montparnasse, 91, Rue de l'Ouest, Quartier de Plaisance, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",0,12:00
+12,Aparthotel Adagio Access La Défense - Léonard De Vinci,7.0,238.0,"88, Rue des Étudiants, Faubourg de l'Arche, Quartier du Faubourg de l'Arche, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France",0,11:00
+13,My Maison In Paris - Louvre,9.1,617.9,"14, Rue Coquillière, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",0,11:00
+14,Hotel Etoile Maillot,8.8,541.2,"143, Avenue de Malakoff, Quartier de la Porte-Dauphine, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",0,12:00
+15,Fauchon l'Hôtel Paris,9.3,1537.82,"Pierre Herme, Boulevard Malesherbes, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
+16,Royal Madeleine Hotel & Spa,8.5,646.32,"Royal au Bar, Passage Puteaux, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
+17,2 pièces lumineux aux portes de Paris,9.3,343.272727272727,"Cité Victor Hugo, Clamart, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92140, France",1,11:00
+18,Hotel Splendide Royal Paris - Relais & Châteaux,9.0,3485.66,"18, Rue du Cirque, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
+19,Hôtel Langlois,8.5,432.8,"63, Rue Saint-Lazare, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",0,12:00
