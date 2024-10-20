@@ -10,7 +10,15 @@ from geopy.distance import geodesic
 dotenv.load_dotenv()
 
 
-def get_coordenadas(ciudades): 
+def get_coordenadas(ciudades):
+    """Hacemos varias llamdas a la API para obtener las coordenadas de las ciudades deseadas.
+
+    Args:
+        ciudades (list): lista de las ciudades de las cuales queremos saber las coordenadas.
+
+    Returns:
+        dict: un diccionario con clave la ciudad y valor otro diccionario con claves la latitud y longitud de dicha ciudad.
+    """
     url = "https://booking-com15.p.rapidapi.com/api/v1/meta/locationToLatLong"    
     api_key_hoteles = os.getenv("api_key_hoteles")
     dic_coordenadas_ciudades={}
@@ -41,12 +49,33 @@ def get_coordenadas(ciudades):
 
 
 def get_direccion(latitud, longitud):
+    """Calculamos la dirección de un punto a través de sus coordenadas.
+
+    Args:
+        latitud (float): latitud del sitio cuya dirección queremos saber.
+        longitud (float): longitud del sitio cuya dirección queremos saber.
+
+    Returns:
+        str: dirección del sitio.
+    """
     geolocator = Nominatim(user_agent="hoteles")
     location = geolocator.reverse(""+str(latitud)+", "+str(longitud))
     return location.address
 
 
 def  get_pto_ref(ciudad, latitud, longitud, dic_hoteles):
+
+    """Calculamos los km de un punto a otro punto de referencia.
+
+    Args:
+        ciudad(str): ciudad donde esta el punto de partida.
+        latitud (float): latitud del sitio de partida.
+        longitud (float): longitud del sitio de partida.
+        dic_hoteles(dict): diccionario al cual queremos añadir la dictancia al punto de referencia.
+
+    Returns:
+        dict: el diccionario con una nueva clave y los kilometros al punto de referencia desde el punto pasado como argumento.
+    """
     
     geolocator = Nominatim(user_agent="SetMagic")
 
@@ -79,6 +108,14 @@ def  get_pto_ref(ciudad, latitud, longitud, dic_hoteles):
 
 
 def llamada_api_hoteles(ciudades, dic_coordenadas):
+
+    """llemada a la API para obtener hoteles cercanos a unas coordenadas y almacenaros en un json.
+
+    Args:
+        ciudades (list): lista de las ciudades donde vamos a buscar los hoteles.
+        dic_coordenadas (dict): diccionario con las cordenadas de dichas ciudades.
+    """
+
     url = "https://booking-com15.p.rapidapi.com/api/v1/hotels/searchHotelsByCoordinates"
     api_key_hoteles = os.getenv("api_key_hoteles")
 
@@ -115,6 +152,12 @@ def llamada_api_hoteles(ciudades, dic_coordenadas):
                   
 
 def limieza_json_hoteles(ciudades):
+
+    """A partir de un json obtenemos los datos deseados de cada hotel y los almacenado en un dataframe.
+
+    Args:
+        ciudades (list): lista de ciudades para las cuales hemos creado los json.
+    """
 
     for ciudad in ciudades:
         print(f"Creando df de hoteles para {ciudad}")
@@ -154,6 +197,8 @@ def limieza_json_hoteles(ciudades):
 
             
 def main():
+    """Para unas ciudades dadas llamamos a la API para obtener hoteles cercanos, limpiamos los datos y los almacenamos en un DataFrame.
+    """
     ciudades = ["rome", "paris"]
     dic_coordenadas = get_coordenadas(ciudades)
     print("Coordenadas calculadas: OK")
