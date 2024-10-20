@@ -60,10 +60,10 @@ También se lleva a cabo un estudio por puntuación y distancia a los puntos de 
     <img src="imagenes/actividades.png" alt="Descripción de la imagen" width="700"/>
 </div>
 
-Además, también podemos tener en cuenta el precio de media de las actividades por categorías, siendo las más baratas en Roma los free tours, tours en bus turístico y tours en barco y en París: tours a pie, experiencias gastronómicas y paseos en barco
+Además, también podemos tener en cuenta el precio de media de las actividades por categorías, siendo las más baratas en Roma los free tours, tours en bus turístico y tours en barco y en París: tours a pie, experiencias gastronómicas y paseos en barco.
 
 
-Por lo tanto, en cuanto a vuelos la opción más económica es Roma, aunque dependerá también de las horas de los vuelos. En cuanto a hotel depende mucho de la ubicación y puntuación elegida, si se desea más cerca del centro y con mayor puntuación será más caro pero es verdad que tanto para Roma como para París se puede alcanzar un buen equilibrio con un precio de hotel relativamente bajo/medio, buena ubicación y una buena puntuación. Sin embargo, esta decisión queda totalmente en manos del cliente y sus necesidades. Finalmente en cuanto a actividades ambas ciudades tienen una amplia gama de opciones y siempre se pueden coger opciones más o menos economicas. Por lo que la principal sección verdaderamente influyente a nivel económico serían los vuelos ya que tanto los hoteles como las actividades despendiendo de los gustos y necesidades sus precios van variando.
+Por lo tanto, en cuanto a vuelos la opción más económica es Roma, aunque dependerá también de las horas de los vuelos. En cuanto al hotel depende mucho de la ubicación y puntuación elegida, si se desea más cerca del centro y con mayor puntuación será más caro pero es verdad que tanto para Roma como para París se puede alcanzar un buen equilibrio con un precio de hotel relativamente bajo/medio, buena ubicación y una buena puntuación. Sin embargo, esta decisión queda totalmente en manos del cliente y sus necesidades. Finalmente, en cuanto a actividades, ambas ciudades tienen una amplia gama de opciones y siempre se pueden coger opciones más o menos económicas. Por lo que la principal sección verdaderamente influyente a nivel económico serían los vuelos, ya que tanto los hoteles como las actividades dependiendo de los gustos y necesidades del cliente sus precios van variando.
 
 
 ## Estructura del Proyecto
