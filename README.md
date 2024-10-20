@@ -50,12 +50,20 @@ Observando el top 5 vuelos más baratos para cada ciudad los de roma oscilan ent
 También se lleva a cabo un estudio por puntuación y distancia a los puntos de referencia en el notebook anteriormente mencionado. Como la ubicación del hotel respecto a lugares emblemáticos de la ciudad es una de las principales características para elegir un hotel hemos realizado dos gráficas comparando ubicación y precio cuyas explicaciones se pueden encontrar en el EDA.
 
 <div align="center">
-    <img src="imagenes/dist_precio_roma.png" alt="Descripción de la imagen" width="500"/>
-    <img src="imagenes/dist_precio_paris.png" alt="Descripción de la imagen" width="500"/>
+    <img src="imagenes/dist_precio_roma.png" alt="Descripción de la imagen" width="700"/>
+    <img src="imagenes/dist_precio_paris.png" alt="Descripción de la imagen" width="700"/>
 </div>
 
+3. **Actividades**: En cuanto a las actividades hay una gran variedad para ambas ciudades, como se puede observar en la gráfica a continuación.
+
+<div align="center">
+    <img src="imagenes/actividades.png" alt="Descripción de la imagen" width="700"/>
+</div>
+
+Además, también podemos tener en cuenta el precio de media de las actividades por categorías, siendo las más baratas en Roma los free tours, tours en bus turístico y tours en barco y en París: tours a pie, experiencias gastronómicas y paseos en barco
 
 
+Por lo tanto, en cuanto a vuelos la opción más económica es Roma, aunque dependerá también de las horas de los vuelos. En cuanto a hotel depende mucho de la ubicación y puntuación elegida, si se desea más cerca del centro y con mayor puntuación será más caro pero es verdad que tanto para Roma como para París se puede alcanzar un buen equilibrio con un precio de hotel relativamente bajo/medio, buena ubicación y una buena puntuación. Sin embargo, esta decisión queda totalmente en manos del cliente y sus necesidades. Finalmente en cuanto a actividades ambas ciudades tienen una amplia gama de opciones y siempre se pueden coger opciones más o menos economicas. Por lo que la principal sección verdaderamente influyente a nivel económico serían los vuelos ya que tanto los hoteles como las actividades despendiendo de los gustos y necesidades sus precios van variando.
 
 
 ## Estructura del Proyecto
