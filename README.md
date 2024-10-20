@@ -34,11 +34,15 @@ Los objetivos principales del análisis son:
 
 1. **Vuelos**: En los vuelos a Roma la media del precio de ida y vuelta es de 274 euros, bastante cerca de la mediana con 281 euros. Los precios de los vuelos van desde 80 hasta 415 euros. En el caso de París la media de los precios de los trayectos ida y vuelta es de casi 420 euros, cifra bastante más elevada que para Roma, y los precios de los vuelos van desde 150 hasta los 841 euros. Podemos observarlo de maner más gráfica:
 ![Descripción de la imagen](imagenes/boxplot_vuelos.png)
+
+<img src="imagenes/boxplot_vuelos.png" alt="Descripción de la imagen" width="600"/>
+
 Observando el top 5 vuelos más baratos para cada ciudad los de roma oscilan entre 82 y 105 euros mientras que para París van desde 150 hasta 253, por lo que se puede concluir que a nivel económico la mejor opción en cuanto a vuelos sería Roma. Luego pueden entrar a considerarse otros factores como las horas de salida de los vuelos o la comapñía de la aerolínea, si se desea más información en cuanto a los vuelos puede consultar el archivo `1-EDA.ipynb` en la carpeta de `notebooks`.
 
 2. **Hoteles**: En Roma la media de puntuación de los hoteles obtenidos es de 8.6, practicamente igual a la mediana. El precio total por las dos noches del fin de semana es de 496 euros un poco por encima de la mediana que es 425, lo que nos indica que hay algún hotel bastante caro, siendo el precio máximo de 2000 euros y el mínimo unos 90. En cuanto a la distancia a nuestro punto de referencia que es el coliseo, la media está a unos 2km. Para París tenemos una puntuación media en los hoteles de 8.2. El precio medio para las dos noches en París es de 450 euros, bastante por encima de la mediana que son 361. De nuevo esto indica que hay valores muy altos como podemos corroborar viendo que el precio máximo es de 4260 mientras que el mínimo es de 135. Finalmente, al punto de referencia que es el Louvre están todos de media a unos 4.75km, lo cual es bastante, pero cuanto más nos acerquemos al centro más subirán los precios. Podemos ver estos datos de una manera más gráfica oservando la siguiente imagen:
 ![Descripción de la imagen](imagenes/boxplot_hoteles.png)
-También se lleva a cabo un estudio por puntuación y distancia a los puntos de referencia en el notebook anteriormente mencionado. Como la ubicación del hotel respecto a lugares emblemáticos de la ciudad es una de las principales características para elegir un hotel hemos realizado dos gráficas comparando ubicación y precio cuyas explicaciones pueden encontraren el EDA:
+
+También se lleva a cabo un estudio por puntuación y distancia a los puntos de referencia en el notebook anteriormente mencionado. Como la ubicación del hotel respecto a lugares emblemáticos de la ciudad es una de las principales características para elegir un hotel hemos realizado dos gráficas comparando ubicación y precio cuyas explicaciones se pueden encontrar en el EDA.
 ![Descripción de la imagen](imagenes/dist_precio_roma.png)
 ![Descripción de la imagen](imagenes/dist_precio_paris.png)
 
