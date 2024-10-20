@@ -1,5 +1,4 @@
-# Explorando Viajes con APIs y Web Scraping: 
-# Paris vs Roma
+# Explorando Viajes con APIs y Web Scraping:                         Paris vs Roma
 ![Descripción de la imagen](imagenes/parisvsroma.jpeg)
 
 En este proyecto representamos a una agencia de viajes que recaba información para diseñar viajes personalizados. En esta ocasión nuestro cliente nos ha comunicado que viajará en solitario y lo hará durante el puente de diciembre, del 6 al 8 de diciembre de 2024. Sus dos destinos estrella son París y Roma, por lo que nos ha pedido que para ambos destinos le ofrezcamos una variedad de vuelos, hoteles y actividades y un cierto análisis de cuál sería mejor elegir.
