@@ -1,4 +1,5 @@
-# Explorando Viajes con APIs y Web Scraping: Paris vs Roma
+# Explorando Viajes con APIs y Web Scraping: 
+# Paris vs Roma
 ![Descripción de la imagen](imagenes/parisvsroma.jpeg)
 
 En este proyecto representamos a una agencia de viajes que recaba información para diseñar viajes personalizados. En esta ocasión nuestro cliente nos ha comunicado que viajará en solitario y lo hará durante el puente de diciembre, del 6 al 8 de diciembre de 2024. Sus dos destinos estrella son París y Roma, por lo que nos ha pedido que para ambos destinos le ofrezcamos una variedad de vuelos, hoteles y actividades y un cierto análisis de cuál sería mejor elegir.
@@ -46,9 +47,10 @@ El proyecto está organizado de la siguiente manera:
   - `0-scrapeo_actividades.ipynb`
   - `0-vuelos.ipynb`
   - `1-EDA.ipynb`
+ 
   Los tres primeros archivos son primeros bocetos de las funciones que posteriormente se han pasado a limpio y se encuentran en los archivos de la carpeta `src`. Las comparativas para cada sección del viaje y conclusiones se encuentran en el notebook de EDA.
 
-- **src/**: Carpeta que contiene los archivos `.py` usados para hacer las llamadas a las APIs o el scraping y llevar a cabo la creación de los dataframes con la información relevante.
+- **src/**: Carpeta que contiene los archivos `.py` usados para hacer las llamadas a las APIs y el scraping y llevar a cabo la creación de los dataframes con la información relevante.
   - `api_hoteles.py`
   - `api_vuelos.py`
   - `scraping_actividades.py`
@@ -78,8 +80,9 @@ Para visualizar el proyecto en tu máquina local, sigue estos pasos:
    cd Proyecto3-Explorando-Viajes
 
 2. **Ejecutar o visualizar los archivos**:
-   Podrás acceder a la carpeta `src` y ejecutar cada archivo indistintamente con 
+   Podrás acceder a la carpeta `src` y ejecutar cada archivo indistintamente escribiendo: 
    ```bash
    pyhton [nombre_archivo]
+   ```
 
    O también puedes acceder a la carpeta notebooks/1-EDA.ipynb y visualizar las gráficas y el análisis sobre los destinos.
