@@ -1,0 +1,21 @@
+,hotel,puntuacion,precio_total,direccion,cancelacion_gratuita,hora_checkout,dist_louvre
+0,Appart Hôtel Victoria,9.2,281.72,"The Glam Factory, Rue Robert Giraudineau, Centre Ville, Vincennes, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94300, France",SI,12:00,7.32
+1,Parici Hôtel Boulogne Billancourt,8.1,203.97,"63, Rue Thiers, Jardin de la Mairie, Les Princes-Marmottan, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France",NO,12:00,7.09
+2,"""Appartement Jeux Olympiques, Stade de France, moderne, lumineux, rénové en 2024""",8.9,333.95,"48 ter, Rue du Bailly, La Montjoie, La Plaine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93210, France",NO,10:30,6.12
+3,Hôtel Elysées Régencia,8.5,864.12,"41, Avenue Marceau, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,12:00,3.01
+4,La Belle Ville,8.7,374.34,"La belle ville, Rue du Léman, Quartier d'Amérique, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France",NO,12:00,5.28
+5,Le Petit Oberkampf Hotel & Spa,9.0,612.12,"3, Rue Oberkampf, Quartier de la Folie-Méricourt, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,2.18
+6,B&B HOTEL Paris Ivry Quai de Seine,8.0,209.52,"B&B Hotel, Rue François Mitterrand, Ivry Port, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,12:00,5.57
+7,B&B HOTEL Paris Italie Porte de Choisy,7.7,199.72,"B&B Hôtel Paris Italie Porte de Choisy, 3-15, Rue Charles Leroy, Quartier de la Maison-Blanche, Paris 13e Arrondissement, Petit-Ivry, Paris, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 75013, France",NO,12:00,5.33
+8,Appart'City Confort Paris Clichy - Mairie,8.8,252.52,"1, Rue Palloy, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",SI,11:00,5.09
+9,Mercure Paris Centre Tour Eiffel,7.5,447.24,"Hôtel Mercure, Rue de la Fédération, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,3.43
+10,Camping Paris-Est,7.9,165.96,"Boulevard des Alliés, Le Tremblay, Champigny-sur-Marne, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94500, France",SI,10:00,11.05
+11,Residence Hoche,8.0,150.0,"49, Rue Charles Nodier, Villa du Pré, Mairie - Hoche, Le Pré-Saint-Gervais, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93310, France",NO,11:00,5.6
+12,Break & Home Paris Italie Porte de Choisy,7.7,171.52,"Break & Home Ivry, Avenue de Verdun, Quartier de la Gare, Paris 13e Arrondissement, Petit-Ivry, Paris, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 75013, France",SI,12:00,5.45
+13,Comfort Hotel Paris Porte d'Ivry,6.9,179.13,"7, Rue René Villars, Louis Bertrand - Mirabeau - Sémard, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,11:00,5.38
+14,MOB HOTEL Paris Les Puces,8.1,187.48,"MOB Hôtel, 6, Rue Gambetta, Rosiers - Les Puces, Saint-Ouen-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93400, France",NO,12:00,4.95
+15,Hotel Charlemagne,8.0,267.6,"A2B9Y5, Rue Charcot, Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France",NO,11:30,6.39
+16,Hotel Reseda,7.1,174.8,"Hôtel Reseda Paris, 2, Avenue du Général de Gaulle, Centre, Bagnolet, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93170, France",NO,12:00,5.86
+17,B&B HOTEL Saint-Maur Créteil,8.0,183.52,"Boulevard de Créteil, Adamville, Saint-Maur-des-Fossés, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94100, France",NO,12:00,11.95
+18,Kyriad Le Bourget Centre- Parc Des Expositions,7.3,134.56,"Parking Zenpark Le Bourget - Parc des Expositions, 134, Avenue de la Division Leclerc, Le Bourget, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93350, France",NO,12:00,11.09
+19,hotelF1 Paris Porte de Châtillon,7.3,137.97,"Dojo de Paris, 21/25, Avenue de la Porte de Châtillon, Quartier de Plaisance, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",NO,12:00,4.6

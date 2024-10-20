@@ -1,21 +1,197 @@
-,hotel,puntuacion,precio_total,direccion,cancelacion_gratuita,hora_checkout
-0,Hotel Ercoli House,8.4,258.0,"Hotel Ercoli, Via Collina, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",0,11:00
-1,B&B Sol Romae,8.9,203.52,"75, Via della Madonna del Riposo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia",1,11:00
-2,Internazionale Domus,9.3,608.0,"20, Piazza di Spagna, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",1,11:00
-3,Hotel Eliseo,7.0,355.2,"Hotel Eliseo, 30, Via di Porta Pinciana, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",0,11:00
-4,Luxury Domus AmaDora,9.4,383.6,"Via Germano Sommeiller, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00182, Italia",1,10:00
-5,Domus Ponte Milvio,9.2,184.0,"Banca Assicurazione, 413/a, Via Flaminia, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00196, Italia",1,10:00
-6,Internouno,8.1,318.0,"Via Campaldino, Nomentano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00162, Italia",1,10:00
-7,Courtyard Rome Suite,7.5,268.5,"Ambasciata di Libia presso la Santa Sede, 31, Via Orazio, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",0,11:00
-8,Magic Double,7.6,214.0,"Via dello Statuto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",0,10:30
-9,MC Guest House,8.4,239.0,"Via Pandosia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",1,10:00
-10,Raffaela's Suite & Rooms Vatican Guest House,8.4,291.1,"Via Costantino Morin, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",0,10:00
-11,Hotel Valentino Palace,8.2,282.0,"Bar, 32, Via Filippo Turati, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",1,10:30
-12,Hotel Impero,8.0,473.34,"19, Via del Viminale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",0,12:00
-13,Il Giardino Dell'Argano Rosso,8.5,248.52,"AMA - Sede di Zona 1B, 25 - 9/a3, Via Angelo Bellani, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia",0,10:00
-14,Augusta Lucilla Palace,8.4,541.68,"Hotel Augusta Lucilla Palace, 24, Via Massimo D'Azeglio, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",0,12:00
-15,Vatican Style,8.7,351.2,"Borgo Vittorio, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",0,10:00
-16,Hotel Aniene,7.3,249.6,"Hotel Aniene, 74, Viale Tirreno, Monte Sacro, Municipio Roma III, Roma, Roma Capitale, Lazio, 00141, Italia",0,11:00
-17,Piazza Farnese Luxury Suites,9.0,435.23,"Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",0,10:30
-18,Relais Rione Ponte,9.0,860.0,"Porcetta di Arricia, Piazza di Tor Sanguigna, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",1,11:00
-19,Suite art Pigneto,9.3,389.68,"Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",0,10:00
+,hotel,puntuacion,precio_total,direccion,cancelacion_gratuita,hora_checkout,dist_coliseo
+0,Trevi Elite Rome,8.9,523.36,"Blue Ice, 89-94, Via delle Muratte, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,1.45
+1,Nikis Collection Navona,8.9,446.83,"Campo de Fiori Suites, 15, Vicolo de' Chiodaroli, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,1.62
+2,Zefiro Home,9.4,362.24,"177, Via dei Serpenti, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:30,0.48
+3,Hotel Romano,8.9,440.56,"Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:30,0.52
+4,SM Vatican Relais B&B,9.6,583.32,"39, Via Muzio Clementi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,2.5
+5,Casa San Giuseppe,8.8,255.88,"Via Iberia, San Giovanni, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00183, Italia",NO,10:00,1.57
+6,Rhea Silvia Luxury Navona,9.1,683.34,"11, Corsia Agonale, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.89
+7,Navona Living Rome,8.3,390.91,"3, Via di Tor Sanguigna, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,2.01
+8,Just Chilling Suite,8.9,265.48,"83, Largo Brancaccio, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:00,0.75
+9,Suites Rome,9.4,376.2,"57, Via della Croce, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.11
+10,Guest House Cavour 278,9.5,456.61,"280, Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:00,0.46
+11,Black Rooms Colosseo,8.7,364.73,"Via Labicana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,0.58
+12,Hotel Barrett,8.8,436.76,"Teatro Argentina, Via di Torre Argentina, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.51
+13,Nikis Collection Trastevere,9.0,428.51,"Vicolo del Bologna, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00120, Italia",NO,10:00,1.99
+14,Hotel Villa Pamphili Roma,8.7,291.55,"Villa Pamphili, Via della Nocetta, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia",NO,11:00,5.13
+15,SuiteSistina for Brave Lovers,8.8,490.25,"Borsalino boutique, 58A, Via Sistina, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,12:00,1.8
+16,La Residenza del Sole al Pantheon,8.6,501.68,"Tazza dOro, 84, Via degli Orfani, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,1.66
+17,Leonardo Suite Navona,9.5,981.46,"Ra Digital Photo, 19, Via Arenula, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,1.48
+18,Escape Luxury Suite - CA Domus Collection,9.2,438.06,"Galleria Nazionale d'Arte Antica, 13, Via delle Quattro Fontane, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:00,1.37
+19,hu Roma Camping In Town,7.9,86.76,"Camping Village Roma, Via di Villa Troili, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00163, Italia",SI,10:00,7.36
+0,Boutique Suites della Croce,8.8,356.45,"56, Via della Croce, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.12
+1,MILLINA SUITES IN NAVONA,8.9,410.31,"Ristorante Biolosophy, 34a, Via di Tor Millina, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,2.06
+2,Palazzo Navona Hotel,9.0,698.2,"Via del Melone, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,1.75
+3,VATICAN GREEN GARDEN,8.5,212.72,"Via della Balduina, Balduina, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00136, Italia",NO,11:00,5.21
+4,Hotel Lirico,8.2,283.58,"33, Via del Viminale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",SI,11:00,1.11
+5,Barberini Dream,9.5,803.79,"23, Via di San Nicola da Tolentino, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.61
+6,Pantheon - Argentina Luxury,8.7,913.868672566372,"13, Via di Torre Argentina, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,1.56
+7,Habito Suites,9.8,271.85,"Valli, 37/39, Via Bergamo, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",NO,10:30,2.43
+8,The Britannia Hotel,8.5,330.9,"59, Via Napoli, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.17
+9,Navona Central Suites,8.8,639.97,"Alfredo Allá, 104, Via della Scrofa, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.0
+10,Top Floor Colosseo Guesthouse,9.5,366.3,"L'antica Cornetteria, 78, Via Labicana, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,10:30,0.61
+11,Bramble Luxury Suites,8.7,365.11,"101, Via del Tritone, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,1.54
+12,Little Queen Suite,8.3,417.14,"22, Via Florida, Sant'Angelo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.43
+13,Palazzo Nainer,9.3,774.11,"Stravinsky, 9, Via del Babuino, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,2.52
+14,SM Mellini Relais B&B,9.7,572.9,"Stella d'oro, 3, Via Marianna Dionigi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,2.41
+15,Hotel Le Petit,8.7,373.55,"Palazzo Nathan, 129, Via Torino, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.28
+16,La Primavera Holidayhouse BEST PLACE FOR JUBILEE 2024-2025,8.6,840.0,"Via di Porta Fabbrica, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia",NO,10:00,3.47
+17,DrsRome - Roman's Ruins Colosseum,9.4,709.52,"Via della Polveriera, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:00,0.26
+18,Piazza Venezia Grand Suite,8.6,525.36,"Piazza Grazioli, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,1.31
+0,White Rooms Colosseo,8.4,362.73,"85, Via di San Giovanni in Laterano, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.63
+1,Trastevere Royal Suite,8.5,461.98,"Pizza Re, Via Cardinale Marmaggi, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",NO,10:00,1.64
+2,Seven,8.5,427.87,"249, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.27
+3,Guesthouse Sant'Angelo,8.8,256.72,"Via Pietro della Valle, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",SI,10:30,2.9
+4,Terrace Pantheon Relais,9.2,541.61,"21, Via di Torre Argentina, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.54
+5,San Pietro Grand Suite,8.8,459.12,"Lemongrass, 29, Via Ottaviano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,10:30,3.44
+6,Trevi Monti House,9.8,407.3,"53, Via Palermo, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.95
+7,La Maison Dell'Orologio,8.9,335.42,"Murano max, 6, Via dei Banchi Nuovi, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,2.35
+8,AltaDomus Roma,6.9,275.36,"7/i, Via Principe Amedeo, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,1.16
+9,Ottaviano Smart Rooms,8.3,300.18,"Ottaviano, Via Ottaviano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",SI,10:00,3.6
+10,Suite Art Navona,8.0,463.74,"Anni '60, Piazza di Tor Sanguigna, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,2.03
+11,Piazza Venezia Luxury Suite,8.7,743.93,"Via Cesare Battisti, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:30,1.14
+12,Elegantia Luxury Rooms,9.5,768.98,"Via Pietro Cavallini, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,2.42
+13,Hotel Pacific,8.2,293.89,"Pacific, 51, Viale delle Medaglie d'Oro, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",SI,11:00,4.51
+14,Hotel Maximus,8.9,413.66,"Hotel Centro, 12, Via Firenze, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.19
+15,Guardabassi Collection - Vatican White by Varental,8.5,708.56,"4, Via Alessandro Terzo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00165, Italia",NO,10:30,3.29
+16,Hotel dei Barbieri,8.2,785.04,"29, Via dei Barbieri, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.52
+17,Hotel Varese,8.7,422.64,"Comando Carabinieri antifalsificazione monetaria, 9, Via Varese, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:30,1.73
+18,Passepartout,8.7,472.59,"Cinzia Vestiti Usati, 45, Via del Governo Vecchio, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.1
+0,Horti 14 Borgo Trastevere Hotel,9.1,624.41,"16, Via di San Francesco di Sales, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00120, Italia",NO,11:00,2.52
+1,Hotel Dorica,8.3,383.68,"13, Piazza del Viminale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.09
+2,Hotel Roma Vaticano,8.4,329.59,"12d, Via Attilio Regolo, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,10:00,3.09
+3,River Palace Hotel,8.3,310.76,"21, Via Flaminia, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia",NO,11:30,2.96
+4,Borgognona Rooms,8.4,524.46,"2, Via Borgognona, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",SI,10:00,1.92
+5,Luxury Trastevere,8.6,568.76,"Via della Paglia, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00120, Italia",SI,10:30,1.94
+6,Splendor Suite Rome - Suites & Apartments,8.5,874.46,"Louis Vuitton, 41, Piazza di San Lorenzo in Lucina, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,1.9
+7,The Steps at Eitch Belsiana,9.2,443.4,"Laura Biagiotti, 57, Via Belsiana, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.89
+8,Affreschi Su Roma Luxury B&B,8.5,606.5,"5, Via Giuseppe Zanardelli, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,10:30,2.11
+9,Bloom Hotel Rome,8.6,362.14,"Via Giuseppe Missori, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00120, Italia",NO,11:00,2.96
+10,The Boutique Hotel,8.9,352.0,"Sabon, 225/229, Via Cola di Rienzo, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",SI,11:00,3.19
+11,Take You Rome - Campo De Fiori - Luxury Apartment,9.1,1975.6,"Trattoria Moderna, 16, Vicolo de' Chiodaroli, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,1.58
+12,Fontana di Trevi Roma Luxury Suite,8.6,733.93,"Piccolo Arancio, 112, Vicolo Scanderbeg, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,1.36
+13,YourSuiteRome,9.1,747.71,"Loft campo di fiori, 154, Via di Monserrato, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,2.16
+14,Hotel Millerose,8.2,273.87,"50, Via Principe Amedeo, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,10:00,1.14
+15,Viminale Domus,8.8,275.1,"36, Via Palermo, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.04
+16,Gracchi Guest House,8.6,255.92,"258, Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,10:00,3.04
+17,LUXURY APARTMENT VATICANO-S'PETER BASILICA - NETFLIX Wifi - AirCond,9.4,648.76,"Arcaplanet, 62, Via Marcantonio Colonna, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,10:00,3.2
+18,DolceVeneto,9.0,357.26,"6, Via Lazio, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,2.09
+0,48 Fourty Eight Luxury Suites,9.1,786.18,"60, Via Angelo Brunetti, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.58
+1,Atlantis Inn Roma,7.9,378.0,"Atlantis Inn Roma, 9, Via Muzio Clementi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,2.42
+2,Freedom Love B&B,9.3,326.64,"25, Via Gaeta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,10:00,1.71
+3,Hotel Relais Dei Papi,8.0,384.63,"Frame Vatican Inn, 81, Via dei Gracchi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,11:00,3.12
+4,HT Residence Maximus,8.1,344.87,"Change, Via dei Santi Quattro, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.13
+5,Hotel Parker - Gruppo BLAM HOTELS,8.1,262.06,"433/a, Via Giovanni Giolitti, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,1.65
+6,Deko Rome,8.2,250.46,"Via Toscana, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:30,2.0
+7,Esposizione Palace Hotel,7.9,315.26,"66, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.02
+8,Casale De Santis,8.5,211.37,"Via Labico, Municipio Roma V, Roma, Roma Capitale, Lazio, 00177, Italia",NO,10:30,4.58
+9,Màs Boutique Hotel Rome,8.6,449.18,"PROJ3CT Store - Roma Centro, 502, Via del Corso, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:30,2.4
+10,Home at Rome Vatican Suites,8.6,286.32,"Via Innocenzo Terzo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia",NO,11:00,3.23
+11,Take me Rome - Roman Forum Apartments,8.4,690.0,"Santa Maria del Buon Consiglio, 19, Via del Buon Consiglio, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:00,0.47
+12,Hotel Paolo II,8.7,398.31,"Via Paolo Secondo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia",NO,10:30,3.36
+13,Mia Suites,7.8,420.24,"10, Via Francesco Crispi, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.57
+14,A Peace Of Rome,9.1,405.47,"Tekno Toys, 56/58, Via Fabio Massimo, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",SI,10:00,3.3
+15,Operà Suites Pinciana,8.6,379.41,"28a, Via di Porta Pinciana, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:30,1.93
+16,Frattina Grand Suite Guesthouse,8.1,401.64,"Doctors in Italy, 48, Via Frattina, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",SI,11:00,1.84
+17,Sora Luxury Inn,8.2,417.0,"Billabong, 206, Corso Vittorio Emanuele Secondo, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,2.06
+18,Fellini Design Suites,9.0,698.09,"Ambasciata di Spagna presso la Santa Sede, 57, Piazza di Spagna, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.9
+0,LHG Comfy Rooms,8.1,279.74,"Europa, 107, Corso d'Italia, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",NO,10:30,2.33
+1,Hotel Fiori,8.6,366.12,"WOW, 162, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.89
+2,Le Stanze Di Orazio,9.1,343.2,"Via Orazio, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",SI,10:30,2.99
+3,Bhr Cavour 150,8.4,326.05,"Hotel Borromeo, 117, Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.72
+4,Hotel Giolli Nazionale,8.0,358.12,"Sabry, 70, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.01
+5,Madonna de' Monti Suites,8.3,584.826818181818,"Alle Carrette, 95, Via della Madonna dei Monti, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",SI,10:00,0.54
+6,St. Peter' Six Rooms & Suites,8.6,508.8,"St. Peter Six, 15, Via della Conciliazione, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",SI,10:30,2.92
+7,Pantheon house by Varental,9.0,903.486818181818,"Armando al Pantheon, 31, Salita de' Crescenzi, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,1.71
+8,Rome Frattina27,8.7,541.78,"30, Via Frattina, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,1.82
+9,Dimora ai Fori - Guest House,9.4,684.6,"Baires Imperiale, 315, Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",SI,11:00,0.52
+10,NAMAN HOTELLERIE - Spagna,8.3,452.9,"Via di San Sebastianello, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,2.13
+11,Residenza Sciarra B&B,8.2,568.13,"Farmacia Del Corso, Vicolo Sciarra, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,1.41
+12,Opera Private Suites by Premium Suites Collection,8.5,363.77,"32, Via Modena, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:30,1.23
+13,My Tiny Home Alchemy,8.1,367.47,"63, Via Carlo Alberto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,10:00,0.97
+14,Imperial Suite Guest House,8.5,411.92,"Europa, 107, Corso d'Italia, Salario, Municipio Roma II, Roma, Roma Capitale, Lazio, 00198, Italia",SI,10:00,2.34
+15,My Suites Piazza di Spagna,8.8,831.53,"Via di San Sebastianello, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,2.05
+16,Palazzo Goldoni Condotti Collection,9.6,684.68,"Chiesa della Santissima Trinità degli Spagnoli, Via dei Condotti, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.96
+17,Unique luxury apartment and rooms,8.4,311.55,"Lemon Ice, 13/15, Via Giambattista Vico, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00195, Italia",NO,10:00,2.98
+18,Charme Spagna Boutique Hotel,8.7,444.63,"Presidenza del Consiglio dei Ministri (Uffici), 43, Via della Mercede, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.71
+19,Hotel La Rovere,8.3,540.5,"14, Vicolo di Sant'Onofrio, Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",NO,10:30,2.71
+0,DC Collection Spagna,9.3,644.73,"Via della Vite, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.82
+1,La Finestra su Fontana di Trevi - Charming View,8.4,716.0,"Vicolo del Forno, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",SI,10:00,1.41
+2,Domus Domas - Golden Keys Collection,8.5,422.69,"55, Via Carlo Alberto, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,0.96
+3,Hotel Via Veneto,8.0,1051.81,"Neve di Latte Via Veneto, 112, Via Vittorio Veneto, Ludovisi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,12:00,2.06
+4,Telier Belsiana,9.0,471.0,"99, Via Belsiana, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,10:00,2.15
+5,La Cupola del Vaticano,8.6,428.0,"Lemongrass, 29, Via Ottaviano, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,10:30,3.44
+6,Relais Badoer,8.2,547.55,"Pizza Florida, 25, Via Florida, Sant'Angelo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,1.45
+7,Esposizione Roof,8.2,538.8,"29, Via Torino, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.33
+8,Caos Calmo,8.0,225.84,"11, Via Luigi Vittorio Bertarelli, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00159, Italia",NO,10:30,3.98
+9,Hotel Windrose,8.1,281.96,"47, Via Gaeta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",SI,11:00,1.68
+10,Piazza di Spagna 9,9.8,985.73,"Piazza di Spagna, Piazza della Trinità dei Monti, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,2.07
+11,Royal Suite Trinità Dei Monti,8.5,660.84,"Scalinata della Trinità dei Monti, Piazza della Trinità dei Monti, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",SI,11:00,1.94
+12,Mellini Palace Suites by Premium Suites Collection,8.8,441.81,"Lungotevere dei Mellini, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,2.65
+13,Aparthotel Colombo Roma,8.8,294.68,"Gruppo Editoriale L'Espresso, Via Cristoforo Colombo, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",SI,11:00,2.73
+14,DOM Hotel Roma - Preferred Hotels & Resorts,8.6,1114.0,"Palazzo dei Tribunali, Via delle Carceri, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,12:00,2.28
+15,Hotel Best Roma,7.6,329.31,"10, Via Balilla, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,1.58
+16,Aurelia Vatican Apartments,8.5,211.64,"Via dei Laterizi, Municipio Roma XIV, Roma, Roma Capitale, Lazio, 00167, Italia",NO,12:00,5.23
+17,FOURHEADS Private Suites,9.2,548.31,"5, Via di Capo le Case, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:30,1.85
+18,Relais Cola Di Rienzo,9.2,317.9,"Mondadori, 81/83, Piazza Cola di Rienzo, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",SI,11:00,2.96
+19,Hotel Scenario,7.9,669.12,"I Love Roma Souvenir, 40, Via dei Cestari, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.52
+0,Hotel Locarno,9.3,1020.22,"Locarno, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,12:00,2.64
+1,Tmark Hotel Vaticano,7.9,409.96,"99, Viale Vaticano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00165, Italia",NO,10:00,3.82
+2,Vaticano Julia Guest House,8.2,248.46,"Giuliana/Pretura, Via della Giuliana, Municipio Roma I, Roma, Roma Capitale, Lazio, 00195, Italia",NO,10:00,4.28
+3,Barcaccia Luxury Suites,9.3,452.31,"12A, Via delle Carrozze, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,10:00,2.04
+4,The Club Navona Guesthouse o Affittacamere,8.6,313.48,"Billabong, 206, Corso Vittorio Emanuele Secondo, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:00,2.01
+5,Imperial Rhome Guest House,9.6,535.64,"Forno, Via Cavour, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,10:00,0.48
+6,Trastevere’s Flower,9.0,1087.6,"Bar Quadrani, 110, Viale di Trastevere, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00153, Italia",SI,10:00,2.16
+7,Residenza Canova Tadolini - Guesthouse,8.5,579.06,"154A, Via del Babuino, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,2.29
+8,Babuino Palace&Suites,9.0,711.09,"Stone Island, 175, Via del Babuino, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,2.45
+9,47 Boutique Hotel,8.7,578.04,"Roma Capitale - Dipartimento coordinamento sviluppo infrastrutture e manutenzione urbana, 45, Via Luigi Petroselli, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,12:00,1.0
+10,Hotel Select Garden,7.4,1999.2,"4/a, Via Vittorio Bachelet, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,1.79
+11,LE RÊVE DE NAIM Roma,8.3,712.07,"131, Via Frattina, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.84
+12,Home at Rome Vatican Apartment&Rooms,8.7,369.2,"Via Innocenzo Terzo, Municipio Roma XIII, Roma, Roma Capitale, Lazio, 00193, Italia",NO,11:00,3.23
+13,Cesare ai Cavalieri Suites,8.6,386.22,"Viale Giulio Cesare, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,11:00,3.38
+14,Profumo Collection Ripetta,8.3,507.38,"Atelier 19.03 jewels, Via Angelo Brunetti, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.55
+15,Accommodation Corallo,8.1,311.76,"Consiglio Superiore della Magistratura, 45, Via Palestro, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,10:00,1.86
+16,"Palazzo Velabro, a Member of Design Hotels",9.3,637.75,"Via del Velabro, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",NO,12:00,0.89
+17,Morin 10 Rome Exclusive Suites,8.7,268.97,"Pewex supermercato, 32/36, Via Costantino Morin, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",NO,10:00,3.99
+18,Baboon Room,8.6,576.64,"154A, Via del Babuino, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",SI,10:00,2.29
+19,Hotel Roma Tiburtina Metro,8.2,188.99,"Ponte Mammolo, Municipio Roma IV, Roma, Roma Capitale, Lazio, 00156, Italia",NO,11:00,7.35
+0,Atypical Rooms,8.7,569.11,"66, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.02
+1,Residenza Ruspoli Bonaparte,8.8,1055.28,"Via della Fontanella di Borghese, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,1.98
+2,L'Imperiale RomaTrastevere,7.8,221.95,"Easy Fit Trastevere, 205, Viale di Trastevere, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00120, Italia",NO,11:00,2.57
+3,My Trevi Charming & Luxury Rooms,9.2,462.85,"La Prosciutteria Roma Trevi - Cantina dei Papi, 34a, Via della Panetteria, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,12:00,1.46
+4,TB Place Roma,9.4,930.26,"93, Via Mario de' Fiori, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",NO,11:00,1.77
+5,Le Stanze di Elisa,8.6,340.44,"Via Plinio, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",NO,10:30,2.92
+6,"Alloggio Turistico Cadorna - Fontana di Trevi , Via Veneto Piazza di Spagna",8.4,392.0,"Fiaschetteria Marini, 9, Via Raffaele Cadorna, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00198, Italia",SI,11:00,2.07
+7,Profumo Collection Colosseo,8.3,369.98,"I clementini, 106, Via di San Giovanni in Laterano, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.38
+8,Il Campo Marzio,8.8,650.2,"46, Via di Campo Marzio, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.89
+9,Hotel Lunetta,8.9,583.56,"Pasticceria De Bellis, 56/57, Piazza del Paradiso, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,1.71
+10,Hotel Martis Palace,9.1,749.16,"Piazza dei Massimi, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,1.79
+11,Moderno Hotel Roma,8.3,271.0,"Monte dei Paschi di Siena, 1, Via Magenta, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",SI,11:00,1.68
+12,Residenza Cavallini,7.7,292.21,"Atlantis Inn Roma, 9, Via Muzio Clementi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,2.43
+13,Barberini Retreat,8.6,438.18,"171, Via delle Quattro Fontane, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.47
+14,La Mia Casa Romana,8.6,258.36,"Viale Ezra Pound, Casal Boccone, Municipio Roma III, Roma, Roma Capitale, Lazio, 00137, Italia",NO,10:00,8.79
+15,Stefano House Roma,8.8,370.04,"Studio Legale Avv. Mario Sabatino, 14, Piazza del Risorgimento, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00192, Italia",SI,10:30,3.5
+16,Biancorèroma B&B,8.3,475.96,"12/a, Piazza di Santa Maria Maggiore, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,0.88
+17,Vibe Nazionale,7.9,358.12,"69, Via Nazionale, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.02
+18,Gonfalone 6,9.0,497.27,"Oratorio del Gonfalone, 32a, Via del Gonfalone, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,2.39
+19,Ponte Milvio Luxury House,8.7,672.0,"Punto Simply, 18, Via Riano, Tor di Quinto, Municipio Roma XV, Roma, Roma Capitale, Lazio, 00194, Italia",SI,11:00,5.67
+0,Hotel Infinito - Gruppo BLAM HOTELS,7.9,233.9,"1, Via Ettore Perrone, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,1.49
+1,City Guest House,8.3,182.5,"72, Viale Opita Oppio, Quadraretto, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00174, Italia",NO,10:00,5.73
+2,Hotel Lodi,8.0,258.4,"Via Oristano, Municipio Roma VII, Roma, Roma Capitale, Lazio, 00182, Italia",NO,11:00,2.51
+3,The First Arte - Preferred Hotels & Resorts,9.0,809.91,"All'oro, 14, Via del Vantaggio, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,12:00,2.51
+4,Karisma Suites,9.8,856.56,"243, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.25
+5,NAVONA VITA SUITES,8.7,519.6,"5, Vicolo di Febo, Ponte, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,10:30,2.07
+6,Michelangelo Vatican Rooms,8.5,373.28,"Gianni Style, Circonvallazione Clodia, Municipio Roma I, Roma, Roma Capitale, Lazio, 00136, Italia",NO,10:00,4.37
+7,AD Suites Nazionale,8.2,291.46,"243, Via Nazionale, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,1.25
+8,Palazzo Dama - Hotel & SPA - Preferred Hotels & Resorts,8.8,960.0,"Palazzo Dama, 2, Lungotevere Arnaldo da Brescia, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00196, Italia",SI,12:00,2.76
+9,The RomeHello,9.2,346.57,"The RomeHello, 45, Via Torino, Castro Pretorio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",SI,11:00,1.46
+10,Hotel Abitart,8.4,329.64,"Abitart Hotel, 10, Via Pellegrino Matteucci, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",SI,12:00,2.25
+11,Unicum Roma Suites,9.3,250.46,"Via Vittorio Spinazzola, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00164, Italia",SI,10:00,4.81
+12,Albergo Etico Roma,9.2,346.45,"Via Giuseppe Pisanelli, Flaminio, Municipio Roma II, Roma, Roma Capitale, Lazio, 00195, Italia",NO,11:00,3.16
+13,Vatican Relais Rome Suite,8.6,368.4,"Angelico Fisio Medica srl, 20a, Borgo Angelico, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",NO,10:00,3.24
+14,Rohome Stay,9.0,336.38,"Satur, 20, Via Merulana, Esquilino, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia",NO,11:00,0.86
+15,BePlace Aventino,9.2,312.98,"Via di San Saba, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",NO,13:00,1.47
+16,The Couper Colonna,8.6,447.03,"Fincato, 34, Via della Colonna Antonina, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,11:00,1.6
+17,The Spanish Suite Campo de' Fiori,7.4,409.44,"Salumeria Roscioli, 21, Via dei Giubbonari, Regola, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",NO,11:00,1.59
+18,Roma Luxus Hotel,8.3,518.92,"Via Panisperna, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",NO,11:00,0.81
+19,Residenza Elizabeth,9.1,414.0,"39, Via Muzio Clementi, Prati, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",SI,10:00,2.5

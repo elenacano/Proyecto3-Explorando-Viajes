@@ -1,21 +1,201 @@
-,hotel,puntuacion,precio_total,direccion,cancelacion_gratuita,hora_checkout
-0,Maison Mère,9.1,492.44,"Maison Mère, 9, Rue Mayran, Quartier de Rochechouart, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",0,12:00
-1,Le 12 Hôtel,9.0,446.52,"10, Rue de Stockholm, Quartier de l'Europe, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
-2,"Hotel Litteraire Marcel Ayme, BW Premier Collection",8.7,450.72,"Hôtel Littéraire Marcel Aymé, 16, Rue Tholozé, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",0,12:00
-3,Le 123 Sébastopol - Astotel,9.1,1315.52,"123, Boulevard de Sébastopol, Quartier de Bonne-Nouvelle, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",0,12:00
-4,Les Rives de Notre-Dame,9.3,1032.52,"Quai B, Rue du Chat Qui Pêche, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",1,11:30
-5,Majestic Hotel Spa - Champs Elysées,8.1,890.92,"30, Rue la Pérouse, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",0,12:00
-6,Le jardin du stade by UTA HOUSE,8.7,456.545454545455,"3, Rue Micheline Ostermeyer, Franc-Moisin - Bel-Air - Stade de France, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93200, France",0,11:00
-7,Hôtel Des Grands Voyageurs,9.0,560.52,"45, Rue de l'Abbé Grégoire, Quartier Notre-Dame-des-Champs, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",0,12:00
-8,Hôtel Eiffel Turenne,8.6,515.8,"20, Avenue de Tourville, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",1,12:00
-9,GuestReady - Bel Apt à 5 minutes de Chinatown,7.6,414.15,"8, Rue Philibert Lucot, Quartier de la Maison-Blanche, Paris 13e Arrondissement, Paris, Île-de-France, France métropolitaine, 75013, France",0,11:00
-10,Residhome Paris Gare de Lyon - Jacqueline de Romilly,8.2,310.8,"40, Rue Jorge Semprún, Quartier de Bercy, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",0,11:00
-11,Apollon Montparnasse,8.0,574.8,"Hôtel Apollon Montparnasse, 91, Rue de l'Ouest, Quartier de Plaisance, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",0,12:00
-12,Aparthotel Adagio Access La Défense - Léonard De Vinci,7.0,238.0,"88, Rue des Étudiants, Faubourg de l'Arche, Quartier du Faubourg de l'Arche, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France",0,11:00
-13,My Maison In Paris - Louvre,9.1,617.9,"14, Rue Coquillière, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",0,11:00
-14,Hotel Etoile Maillot,8.8,541.2,"143, Avenue de Malakoff, Quartier de la Porte-Dauphine, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",0,12:00
-15,Fauchon l'Hôtel Paris,9.3,1537.82,"Pierre Herme, Boulevard Malesherbes, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
-16,Royal Madeleine Hotel & Spa,8.5,646.32,"Royal au Bar, Passage Puteaux, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
-17,2 pièces lumineux aux portes de Paris,9.3,343.272727272727,"Cité Victor Hugo, Clamart, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92140, France",1,11:00
-18,Hotel Splendide Royal Paris - Relais & Châteaux,9.0,3485.66,"18, Rue du Cirque, Quartier de la Madeleine, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",0,12:00
-19,Hôtel Langlois,8.5,432.8,"63, Rue Saint-Lazare, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",0,12:00
+,hotel,puntuacion,precio_total,direccion,cancelacion_gratuita,hora_checkout,dist_louvre
+0,Appart Hôtel Victoria,9.2,281.72,"The Glam Factory, Rue Robert Giraudineau, Centre Ville, Vincennes, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94300, France",SI,12:00,7.32
+1,Parici Hôtel Boulogne Billancourt,8.1,203.97,"63, Rue Thiers, Jardin de la Mairie, Les Princes-Marmottan, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France",NO,12:00,7.09
+2,"""Appartement Jeux Olympiques, Stade de France, moderne, lumineux, rénové en 2024""",8.9,333.95,"48 ter, Rue du Bailly, La Montjoie, La Plaine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93210, France",NO,10:30,6.12
+3,Hôtel Elysées Régencia,8.5,864.12,"41, Avenue Marceau, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,12:00,3.01
+4,La Belle Ville,8.7,374.34,"La belle ville, Rue du Léman, Quartier d'Amérique, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France",NO,12:00,5.28
+5,B&B HOTEL Paris Ivry Quai de Seine,8.0,209.52,"B&B Hotel, Rue François Mitterrand, Ivry Port, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,12:00,5.57
+6,B&B HOTEL Paris Italie Porte de Choisy,7.7,199.72,"B&B Hôtel Paris Italie Porte de Choisy, 3-15, Rue Charles Leroy, Quartier de la Maison-Blanche, Paris 13e Arrondissement, Petit-Ivry, Paris, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 75013, France",NO,12:00,5.33
+7,Appart'City Confort Paris Clichy - Mairie,8.8,253.52,"1, Rue Palloy, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",SI,11:00,5.09
+8,Mercure Paris Centre Tour Eiffel,7.5,447.24,"Hôtel Mercure, Rue de la Fédération, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,3.43
+9,Camping Paris-Est,7.9,165.96,"Boulevard des Alliés, Le Tremblay, Champigny-sur-Marne, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94500, France",SI,10:00,11.05
+10,Residence Hoche,8.0,150.0,"49, Rue Charles Nodier, Villa du Pré, Mairie - Hoche, Le Pré-Saint-Gervais, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93310, France",NO,11:00,5.6
+11,Break & Home Paris Italie Porte de Choisy,7.7,171.52,"Break & Home Ivry, Avenue de Verdun, Quartier de la Gare, Paris 13e Arrondissement, Petit-Ivry, Paris, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 75013, France",SI,12:00,5.45
+12,Comfort Hotel Paris Porte d'Ivry,6.9,179.13,"7, Rue René Villars, Louis Bertrand - Mirabeau - Sémard, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,11:00,5.38
+13,MOB HOTEL Paris Les Puces,8.1,187.48,"MOB Hôtel, 6, Rue Gambetta, Rosiers - Les Puces, Saint-Ouen-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93400, France",NO,12:00,4.95
+14,Hotel Charlemagne,8.0,267.6,"A2B9Y5, Rue Charcot, Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France",NO,11:30,6.39
+15,Hotel Reseda,7.1,174.8,"Hôtel Reseda Paris, 2, Avenue du Général de Gaulle, Centre, Bagnolet, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93170, France",NO,12:00,5.86
+16,B&B HOTEL Saint-Maur Créteil,8.0,183.52,"Boulevard de Créteil, Adamville, Saint-Maur-des-Fossés, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94100, France",NO,12:00,11.95
+17,Kyriad Le Bourget Centre- Parc Des Expositions,7.3,134.56,"Parking Zenpark Le Bourget - Parc des Expositions, 134, Avenue de la Division Leclerc, Le Bourget, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93350, France",NO,12:00,11.09
+18,hotelF1 Paris Porte de Châtillon,7.3,137.97,"Dojo de Paris, 21/25, Avenue de la Porte de Châtillon, Quartier de Plaisance, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",NO,12:00,4.6
+19,Pullman Paris Tour Eiffel,8.3,804.15,"26, Rue Jean Rey, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,11:00,3.39
+0,Le Petit Beaumarchais Hotel & Spa,8.8,723.72,"Le Petit Beaumarchais, 8, Boulevard Beaumarchais, Quartier de la Roquette, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",SI,12:00,2.38
+1,Hotel de L'Esperance,8.5,463.52,"15, Rue Pascal, Quartier du Jardin des Plantes, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",NO,12:00,2.69
+2,Villa Marquis Member of Meliá Collection,8.6,1130.12,"35, Rue Jean-Goujon, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",NO,12:00,2.5
+3,Le Petit Oberkampf Hotel & Spa,9.0,612.12,"3, Rue Oberkampf, Quartier de la Folie-Méricourt, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,2.18
+4,Grand Hôtel Amelot,8.1,586.0,"Grand hôtel amelot, Rue Amelot, Quartier Saint-Ambroise, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,2.24
+5,COQ Hotel Paris,8.9,463.44,"15, Rue Édouard Manet, Quartier de la Salpêtrière, Paris 13e Arrondissement, Paris, Île-de-France, France métropolitaine, 75013, France",NO,12:00,3.45
+6,Timhotel Montmartre,8.3,367.3,"Place Émile Goudeau, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",NO,12:00,2.74
+7,Le Grey Hotel,8.6,478.02,"12, Rue de Parme, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,12:00,2.38
+8,Welcome Hotel,8.3,737.53,"Welcome Hotel, Rue de Seine, Quartier de Saint-Germain-des-Prés, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",NO,12:00,0.89
+9,Les Jardins Du Marais,8.3,556.52,"74, Rue Amelot, Quartier Saint-Ambroise, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,2.2
+10,Hotel De Seine,8.7,988.1,"Bensimon, Rue de Seine, Quartier de Saint-Germain-des-Prés, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",NO,12:00,0.76
+11,UCPA SPORT STATION HOSTEL PARIS,8.0,188.6,"Rue de l'Évangile, Quartier du Pont-de-Flandre, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France",NO,10:00,4.61
+12,Villa Escudier Appart-hôtel,8.7,271.58,"64, Rue Escudier, Les Princes-Marmottan, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France",NO,11:00,7.39
+13,Chalgrin Boutique Hotel,8.0,511.32,"3, Rue d'Argentine, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,12:00,3.83
+14,Hôtel Parisianer,8.7,484.32,"Hôtel Parisianer, Rue Hector Malot, Quartier des Quinze-Vingts, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",NO,11:00,3.23
+15,Hotel Elysees Opera,8.4,396.84,"17, Rue de Turin, Quartier de l'Europe, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",NO,12:00,2.46
+16,Hotel Verneuil Saint Germain,8.4,743.52,"8, Rue de Verneuil, Quartier Saint-Thomas-d'Aquin, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",NO,12:00,0.65
+17,Aparthotel Adagio Access Paris Quai d'Ivry,7.8,184.0,"50bis, Boulevard de Brandebourg, Ivry Port, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,11:00,6.73
+18,Café Hôtel de l'Avenir,7.7,208.4,"Café de l'Avenir, 1, Rue Charles Schmidt, Garibaldi, Saint-Ouen-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93400, France",NO,11:00,5.02
+19,City Résidence Paris Saint-Maurice,8.0,146.2,"Appart'City Saint-Maurice, 18, Rue du Maréchal Leclerc, Saint-Maurice, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94410, France",NO,11:00,7.88
+0,L'Hôtel du Collectionneur Paris,8.4,934.52,"L'Hôtel du Collectionneur, 51-57, Rue de Courcelles, Quartier du Faubourg-du-Roule, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",SI,12:00,2.88
+1,Solly Hôtel Paris,8.7,685.92,"6, Rue Salomon de Caus, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France",NO,12:00,1.36
+2,Timhotel Opéra Blanche Fontaine,8.0,382.52,"Voie A/9, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,12:00,2.41
+3,Résidence Nell Paris,8.6,728.04,"60, Rue Richer, Quartier du Faubourg-Montmartre, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,12:00,1.48
+4,Hotel L’Antoine,8.5,541.32,"Cubik Partners, 10, Rue de Charonne, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,2.84
+5,Hotel Des Deux Continents,8.2,1120.0,"Hôtel des 2 Continents, Rue Jacob, Quartier de Saint-Germain-des-Prés, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",NO,12:00,0.71
+6,Apart hotel Centre de Paris by Studio prestige,8.0,514.2,"Galerie Wawi, Rue Albert Thomas, Quartier de la Porte-Saint-Martin, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France",SI,10:00,2.03
+7,Hôtel L'Interlude,8.1,253.9,"258, Avenue Daumesnil, Quartier du Bel-Air, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",NO,12:00,5.55
+8,Grand Hotel Francais,8.6,312.4,"Grand Hôtel Français, 223, Boulevard Voltaire, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,4.02
+9,Normandy Le Chantier,8.2,722.64,"7, Rue de l'Échelle, Quartier du Palais Royal, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",NO,11:00,0.42
+10,Appartement douillet 1 chambre - centre ville,8.0,197.48,"Boulevard Jeanne d'Arc, Argenteuil, Val-d'Oise, Île-de-France, France métropolitaine, 95100, France",NO,10:00,11.54
+11,Hôtel La Conversation,9.0,361.6,"Da Pupetta, Rue Brancion, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,4.0
+12,Austin's Arts Et Metiers Hotel,8.2,642.96,"Austin's Arts et Métiers, Rue Montgolfier, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France",NO,11:00,1.5
+13,Hôtel Montecristo,8.8,685.38,"20, Rue Pascal, Quartier du Val-de-Grâce, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",NO,12:00,2.71
+14,Hôtel Eden Opéra,8.1,372.7,"Hôtel Eden Opéra, 35, Rue Jean-Baptiste Pigalle, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",SI,11:00,2.09
+15,Maison Eugenie,8.2,360.67,"167, Rue de Rome, Quartier des Batignolles, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,11:00,3.38
+16,Kyriad Paris Saint Ouen,7.3,158.92,"Hôtel Kyriad Paris Nord Porte de Saint Ouen, 9, Rue La Fontaine, Pasteur - Zola, Saint-Ouen-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93400, France",NO,12:00,4.57
+17,B&B HOTEL Paris Malakoff Parc des Expositions,7.2,214.92,"B&B Hôtel, Boulevard Charles de Gaulle, Malakoff, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92240, France",NO,12:00,4.87
+18,Hôtel National Des Arts et Métiers,8.6,878.52,"Hôtel National des Arts et Métiers, Rue Saint-Martin, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France",NO,12:00,1.22
+19,Hôtel Paris Neuilly,8.3,273.05,"Hôtel Paris Neuilly, Avenue Charles de Gaulle, Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France",NO,12:00,6.25
+0,Hotel 29 Lepic,8.2,466.8,"29, Rue Lepic, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",NO,11:00,2.74
+1,Hôtel Des Marronniers,8.3,776.96,"21, Rue Jacob, Quartier de Saint-Germain-des-Prés, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",NO,12:00,0.71
+2,Plaza Tour Eiffel,8.6,1022.34,"37, Rue des Sablons, Quartier de la Porte-Dauphine, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,12:00,4.1
+3,Hotel Villa Romantic & Spa,8.9,445.62,"Hôtel Rubens, Rue du Banquier, Quartier de la Salpêtrière, Paris 13e Arrondissement, Paris, Île-de-France, France métropolitaine, 75013, France",NO,12:00,3.2
+4,Hotel Residence Foch,8.1,455.52,"10, Rue Marbeau, Quartier de la Porte-Dauphine, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,12:00,4.42
+5,"""Joie de vivre"" - Parisian Spacious & Charming flat",8.2,628.02,"13, Rue Gaston Bonnier, Asnières-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92600, France",SI,11:00,8.5
+6,Le Relais du Marais,7.9,567.28,"76, Rue de Turbigo, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France",NO,11:00,1.78
+7,Hôtel Aiglon,8.7,450.52,"232, Boulevard Raspail, Quartier du Montparnasse, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",NO,12:00,2.45
+8,Yuna Montmartre - ApartHotel,9.4,429.18,"5, Rue du Baigneur, Quartier de Clignancourt, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",NO,10:00,3.28
+9,La Dépendance,8.9,773.29,"22, Rue Molière, Quartier du Palais Royal, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",NO,11:00,0.48
+10,Grand Hotel Dore,8.3,476.8,"201, Avenue Daumesnil, Quartier de Picpus, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",NO,12:00,5.0
+11,Le Robinet d'Or,8.9,458.8,"17, Rue Robert Blache, Quartier de l'Hôpital Saint-Louis, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France",NO,11:00,2.72
+12,Appartement 3 pièces avec parking couvert gratuit.,9.1,414.2,"105, Avenue du Belvédère, Quartier d'Amérique, Villa du Pré, Paris, Le Pré-Saint-Gervais, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 75019, France",NO,11:00,5.48
+13,Le Katorze Hôtel,8.3,375.72,"Meridional, Rue du Docteur Heulin, Quartier des Épinettes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,11:00,3.38
+14,Maison Colbert Member of Meliá Collection,8.7,1102.95,"Melia Paris Notre Dame, 7, Rue de l'Hôtel Colbert, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",NO,12:00,1.32
+15,Novotel Paris Centre Tour Eiffel,7.4,381.12,"61, Quai de Grenelle, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,4.2
+16,Pavillon Nation,8.1,359.06,"13, Boulevard de Charonne, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,11:00,4.65
+17,Campanile Paris Est - Pantin,7.4,150.4,"70, Avenue Jean Lolive, Mairie - Hoche, Pantin, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93500, France",NO,12:00,5.84
+18,B&B HOTEL Paris Porte de Bagnolet,7.5,178.8,"B&B Hotel Paris Porte de Bagnolet, 44, Avenue Gambetta, Centre, Bagnolet, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93170, France",NO,12:00,5.77
+19,B&B HOTEL Saint-Denis Porte de Paris,7.9,157.52,"1, Avenue du Docteur Lamaze, Joliot-Curie - Lamaze - Cosmonautes, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93200, France",NO,12:00,8.77
+0,Yuna Porte-Maillot - ApartHotel,9.4,492.47,"1, Rue Chaptal, Quartier de la Plaine-de-Monceau, Paris 17e Arrondissement, Paris, Levallois-Perret, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 75017, France",NO,10:00,4.77
+1,3-room separate unit in Sceaux (80 sq.m/860 sq.ft),9.1,277.9,"Boulevard Colbert, Sceaux, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92330, France",SI,11:00,9.69
+2,Kraft Hotel,8.6,392.55,"Pavillon Porte de Versailles, Rue du Hameau, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,11:00,4.83
+3,"Paris-Oasis ""All Inclusive""",9.6,525.52,"Paris Oasis, Rue André del Sarte, Quartier de Clignancourt, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",SI,15:00,2.83
+4,Hotel de Nell,8.4,748.4,"Rue du Conservatoire, Quartier du Faubourg-Montmartre, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,12:00,1.48
+5,J.K. Place Paris,9.4,2750.42,"Hôtel de Seignelay, Rue de Lille, Quartier des Invalides, Paris 7e Arrondissement, Faubourg Saint-Germain, Paris, Île-de-France, France métropolitaine, 75007, France",SI,12:00,1.2
+6,Hôtel de Bellevue Paris Gare du Nord,8.1,449.2,"79, Rue Philippe de Girard, Quartier de la Chapelle, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France",SI,12:00,3.4
+7,Le Patio Bastille,8.3,298.0,"Le Patio Bastille, 289, Rue du Faubourg Saint-Antoine, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France",NO,12:00,4.06
+8,The Originals Résidence Le Monde Paris Ivry Confluence,8.1,197.8,"5, Allée Jacques Laloë, Ivry Port, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,12:00,7.23
+9,Hôtel Joe M,8.4,377.2,"6, Rue Geoffroy Marie, Quartier du Faubourg-Montmartre, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,12:00,1.43
+10,Appart’City Confort Paris Villejuif,7.6,159.02,"4, Place Oscar Niemeyer, Villejuif, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94800, France",SI,11:00,6.6
+11,Hotel Atrium by Happyculture,8.4,209.8,"68, Boulevard Henri Sellier, Quartier Mont-Valérien, Suresnes, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92150, France",NO,11:00,8.61
+12,HotelHome Paris 16,8.4,423.93,"36, Rue George Sand, Quartier d'Auteuil, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75016, France",SI,10:30,5.31
+13,Hôtel Plaza Athénée - Dorchester Collection,9.2,4259.8,"Hôtel Plaza Athénée, Avenue Montaigne, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",SI,12:00,2.54
+14,Hotel Residence Europe & Spa,8.0,271.52,"52, Boulevard du Général Leclerc, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",NO,12:00,4.95
+15,Greet Hôtel Villeneuve la Garenne - rénové,7.6,161.59,"Coulée Verte, Villeneuve-la-Garenne, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92390, France",NO,12:00,8.87
+16,citizenM Paris La Défense,8.7,303.2,"Mosai, 194, Tunnel de la Défense, La Défense 10, Quartier du Parc Nord, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92000, France",NO,11:00,8.73
+17,ibis Styles Paris Romainville,8.3,209.12,"50, Avenue Gaston Roussel, Bas-Pays, Romainville, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93230, France",NO,12:00,7.69
+18,Elysées Union,8.3,592.8,"44, Rue de l'Amiral Hamelin, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,12:00,3.49
+19,Hotel Bastille Speria,8.6,490.6,"Hôtel Bastille Speria, 1, Rue de la Bastille, Quartier de l'Arsenal, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France",NO,11:30,2.31
+0,Hotel Bastille Speria,8.6,490.6,"Hôtel Bastille Speria, 1, Rue de la Bastille, Quartier de l'Arsenal, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France",NO,11:30,2.31
+1,Grand Hotel des Balcons,8.3,588.0,"Hôtel des Balcons, Rue Casimir Delavigne, Quartier de l'Odéon, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",SI,12:00,1.2
+2,Melia Paris La Defense,8.3,369.21,"Esplanade Sud, La Défense 2, Quartier Gambetta, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France",NO,12:00,7.16
+3,Hotel De La Jatte,7.8,229.8,"Hôtel de la Jatte, Boulevard du Parc, Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France",NO,11:00,6.41
+4,KoalaWakeup,8.4,195.437386363636,"72, Rue Gagnée - Rue Amédée Huon, Le Fort, Vitry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,11:00,7.25
+5,Hôtel Eiffel Rive Gauche,7.7,461.8,"1, Rue du Gros Caillou, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",SI,11:00,2.64
+6,YOOMA Urban Lodge Eiffel,8.3,705.8,"51, Quai de Grenelle, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,11:00,4.11
+7,Vue panoramique - proche Paris,9.6,453.582727272727,"Quai Blanqui, Le Confluent, Alfortville, Créteil, Val-de-Marne, Île-de-France, France métropolitaine, 94140, France",NO,11:00,7.76
+8,Hotel Royal Phare,8.4,558.8,"Avenue de la Motte-Picquet, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",SI,12:00,2.44
+9,Kyriad Paris Est - Bois de Vincennes,7.1,171.0,"12, Rue du Maréchal Leclerc, Saint-Maurice, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94410, France",SI,12:00,7.81
+10,HOTEL ROYAL Paris Ivry,7.9,184.14,"Vesta Auto, 82, Avenue Jean Jaurès, Ivry Port, Ivry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94200, France",NO,11:00,7.57
+11,Cozy Paris Gateway Apartments Groups with free parking,9.3,272.31,"43, Avenue Anatole France, Port à l'Anglais, Vitry-sur-Seine, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94400, France",NO,11:00,8.03
+12,Austin's Saint Lazare Hotel,8.1,432.06,"Austin's Saint-Lazare, Rue d'Amsterdam, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,11:00,1.93
+13,Hôtel Gérando,8.2,366.9,"9, Rue Gérando, Quartier de Rochechouart, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,12:00,2.45
+14,Novotel Paris Porte Versailles,8.4,460.92,"Pedzouille La Grange, 4, Avenue de la Porte de la Plaine, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,4.82
+15,Best Western Seine West Hotel,8.3,182.2,"Best Western - Seine West, 19, Quai de Dion Bouton, Puteaux, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92800, France",SI,12:00,7.26
+16,Aparthotel Adagio Access Paris Porte De Charenton,7.6,172.37,"10, Voie AI/12, Quartier de Bercy, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",NO,11:00,5.84
+17,MBA Splendide Appart - Girardot - Montreuil Centre,8.1,483.96,"6bis, Rue Girardot, Centre-ville, Montreuil, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93100, France",SI,11:00,7.53
+18,Neuilly Park Hotel,7.9,350.6,"Neuilly Park Hotel, 23, Rue Madeleine Michelis, Neuilly-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92200, France",NO,12:00,5.05
+19,Hotel des Grandes Ecoles,8.8,716.32,"75, Rue du Cardinal Lemoine, Quartier Saint-Victor, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",SI,12:00,1.98
+0,Séjours & Affaires Créteil Le Magistere,7.6,151.72,"98, Avenue du Maréchal de Lattre de Tassigny, Bleuets - Bordières - Buttes - Halage- Pinsons, Créteil, Val-de-Marne, Île-de-France, France métropolitaine, 94000, France",NO,12:00,10.63
+1,CAMPANILE PARIS - Clichy Centre,8.5,177.92,"1, Place du Marché, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",NO,12:00,5.3
+2,Princesse Caroline,8.6,560.8,"Quartier des Ternes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,12:00,3.5
+3,Hôtel Patio Brancion,7.3,202.6,"35, Rue Edgar Quinet, Malakoff, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92240, France",NO,12:00,5.09
+4,MEININGER Hotel Paris Porte de Vincennes,7.9,252.5,"29, Boulevard Carnot, Quartier du Bel-Air, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",NO,11:00,5.82
+5,Villa Sunshine,8.4,185.2,"21, Avenue Paul Vaillant-Couturier, Résidence du Port Galand, Bagneux, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92220, France",SI,11:00,7.65
+6,Le Meurice – Dorchester Collection,9.2,3759.8,"228, Rue de Rivoli, Quartier Vendôme, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",SI,12:00,0.85
+7,Art Hotel Eiffel,8.1,316.0,"136, Boulevard de Grenelle, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",SI,12:00,3.22
+8,Jardins Eiffel,8.4,510.8,"10, Rue Amélie, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",SI,12:00,2.25
+9,Hotel Eiffel Blomet,8.7,557.52,"Hôtel Effeil-Blomet, Rue Blomet, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,3.4
+10,Mercure Paris Vaugirard Porte De Versailles,8.3,532.32,"Porte de Versailles, Boulevard Victor, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,4.83
+11,B&B HOTEL Paris Romainville Noisy-le-Sec,7.2,151.0,"B&B Hôtel Paris Romainville Noisy-le-Sec, 103, Rue Paul Vaillant-Couturier, Léo Lagrange, Noisy-le-Sec, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93130, France",NO,12:00,8.37
+12,Best Western Plus Paris Meudon Ermitage,7.9,159.95,"Route du Colonel Marcel Moraine, La Grange Dame Rose, Meudon-la-Forêt, Meudon, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92360, France",NO,12:00,11.41
+13,Hôtel Des Batignolles,8.4,342.1,"26, Rue des Batignolles, Quartier des Batignolles, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,11:00,2.92
+14,Longchamp Elysées,8.4,444.8,"68, Rue de Longchamp, Quartier de la Porte-Dauphine, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",SI,12:00,3.87
+15,Les Lilas Serviced Apartments,8.0,176.4,"6, Rue Lucien Noël, Cité des Sentes, Les Lilas, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93260, France",NO,11:00,6.2
+16,Citadines Saint-Germain-des-Prés Paris,8.0,762.52,"4, Rue des Grands Augustins, Quartier de la Monnaie, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France",SI,11:00,0.73
+17,B&B HOTEL Paris Rosny-sous-Bois,7.2,153.0,"1, Rue de Lisbonne, Bois Perrier, Rosny-sous-Bois, Le Raincy, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93110, France",SI,12:00,10.24
+18,Best Western M-Treize Paris Asnieres,8.3,239.86,"Rue Ladji Doucouré, Asnières-sur-Seine, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92600, France",NO,12:00,8.74
+19,My Maison In Paris - Champ de Mars,9.1,1616.0,"Marcelle, 159, Rue de Grenelle, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",NO,11:00,2.35
+0,My Maison In Paris - Champ de Mars,9.1,1616.0,"Marcelle, 159, Rue de Grenelle, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",NO,11:00,2.35
+1,Staycity Aparthotels Paris La Defense,8.9,201.8,"EfficientIP HQ, 4, Rue de l'Abreuvoir, Quartier Cœur de Ville, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France",NO,11:00,6.89
+2,Novotel Paris Créteil Le Lac,6.9,190.12,"Novotel, Rue Jean Gabin, Front de Lac - Ormetteau -Port, Créteil, Val-de-Marne, Île-de-France, France métropolitaine, 94000, France",NO,12:00,12.02
+3,Hôtel Clauzel Paris,7.5,261.0,"31, Rue des Martyrs, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,11:00,1.96
+4,Médicis Home Puteaux,8.4,248.7,"3, Rue Pierre et Marie Curie, Quartier du Plateau - Mont-Valérien, Puteaux, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92800, France",SI,10:00,8.67
+5,MOB House,8.4,271.84,"MOB HOUSE, 70, Rue des Rosiers, Rosiers - Les Puces, Saint-Ouen-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93400, France",NO,12:00,4.86
+6,Grand Hôtel De Paris,7.3,270.4,"72, Boulevard de Strasbourg, Quartier de la Porte-Saint-Martin, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France",NO,11:00,2.15
+7,citizenM Paris Champs-Élysées,8.6,516.72,"Show Room 66, Rue La Boétie, Quartier du Faubourg-du-Roule, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",NO,11:00,2.61
+8,Hotel Opera Maintenon,8.3,593.0,"36, Rue Sainte-Anne, Quartier du Palais Royal, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France",SI,12:00,0.65
+9,Best Western Empire Elysees,8.2,467.92,"1, Rue de Montenotte, Quartier des Ternes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,12:00,3.64
+10,Novotel Paris Charenton le Pont,7.5,236.36,"Itaglio - Pizza al taglio, 3, Place des Marseillais, Valmy, Charenton-le-Pont, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94220, France",NO,12:00,6.27
+11,Passy Eiffel,8.5,454.8,"10, Rue de Passy, Quartier de la Muette, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75016, France",NO,11:00,4.02
+12,Mode Paris Aparthotel,9.2,498.06,"4, Rue Leroux, Chaillot, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, 75116, France",NO,11:00,3.89
+13,Mercure Paris Saint-Ouen,7.8,178.09,"115, Avenue Gabriel Péri, Garibaldi, Saint-Ouen-sur-Seine, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93400, France",NO,12:00,4.66
+14,Le Ruisseau,7.7,200.9,"137, Avenue Gallieni, Quartier du Bel-Air, Paris 12e Arrondissement, Paris, Saint-Mandé, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 75012, France",NO,12:00,5.98
+15,Hotel Mimosa Paris,7.4,318.2,"16, Rue du Faubourg Saint-Martin, Quartier de la Porte-Saint-Martin, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France",SI,12:00,1.63
+16,B&B HOTEL Paris Saint-Denis Pleyel,7.7,171.52,"Rue Louis Marchand, Pleyel - Confluence, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93200, France",NO,12:00,6.73
+17,"14eme et dernier étage - 3 pieces ""Arty"" de 65 m2 avec vue panoramique !",8.6,439.178863636364,"École primaire Charles Péguy Le Palais A, Boulevard Pablo Picasso, Gizeh-Montaigut - Palais, Créteil, Val-de-Marne, Île-de-France, France métropolitaine, 94000, France",NO,12:00,11.61
+18,Residhome Nanterre La Défense,8.2,148.92,"Allée de l'Île-de-France, Quartier de l'Université, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92000, France",NO,12:00,9.95
+19,Appartements Caumartin 64,8.8,514.8,"Jaqk, Boutique ephemere, Rue de Caumartin, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",SI,10:30,1.72
+0,Résidence Louvre - Bellan,8.4,673.44,"Léopold Coiffure, Rue Léopold-Bellan, Quartier du Mail, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",NO,11:00,0.8
+1,Residhome Paris Clamart,8.3,167.68,"13, Place du Panorama, Panorama, Clamart, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92140, France",NO,12:00,9.04
+2,Plessis Parc Hôtel,8.5,186.04,"Le Parc Hotel, 10, Avenue Paul Langevin, Joliot Curie, Le Plessis-Robinson, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92350, France",NO,12:00,11.1
+3,"Radisson Blu Hotel, Paris Boulogne",7.9,437.6,"L'AOC, Avenue Édouard Vaillant, Point du Jour, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92100, France",NO,12:00,6.84
+4,Novotel Paris Vaugirard Montparnasse,8.1,445.62,"261, Rue de Vaugirard, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,3.48
+5,Hotel Madeleine De Senlis,,455.68,"7, Rue Malebranche, Quartier du Val-de-Grâce, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",NO,12:00,1.68
+6,Campanile Paris Est Bobigny,7.2,145.9,"Hôtel Campanile, Avenue Paul Vaillant-Couturier, Cité Hector Berlioz, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93000, France",NO,12:00,10.07
+7,Belle Maison de 5 pièces (150 m²),9.0,329.9,"Boulevard Colbert, Sceaux, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92330, France",SI,11:00,9.69
+8,Royal Regency Paris Vincennes,8.5,295.0,"69-71, Rue Defrance, Diderot, Vincennes, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94300, France",NO,10:00,8.36
+9,Le Grand Albert 1er,8.4,215.02,"Carrefour de la Résistance, Alfort, Maisons-Alfort, Nogent-sur-Marne, Val-de-Marne, Île-de-France, France métropolitaine, 94700, France",NO,11:30,7.88
+10,"Holiday Inn Express Paris-Canal De La Villette, an IHG Hotel",8.1,310.8,"Promenade Florence Arthaud, Quartier de la Villette, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France",NO,12:00,4.24
+11,Appartement Cosy and Quiet Villette Paris,8.8,242.2,"7, Rue de Stalingrad, Villa du Pré, Le Pré-Saint-Gervais, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93310, France",NO,12:00,5.36
+12,Splendid Etoile,8.8,651.52,"Splendid Étoile, 28, Avenue Carnot, Quartier des Ternes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,12:00,3.6
+13,Hotel Rivoli,8.0,342.022727272727,"2, Rue des Mauvais Garçons, Quartier Saint-Gervais, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France",NO,12:00,1.35
+14,easyHotel Paris Nord Aubervilliers,8.1,210.72,"34, Rue des Gardinoux, Parc Les Portes de Paris - ICADE, Landy-Plaine - Marcreus - Pressensé, Aubervilliers, Saint-Denis, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93300, France",NO,10:00,5.52
+15,Residhome Bois Colombes Monceau,7.7,164.92,"Residhome, 3, Place de la Renaissance, Bois-Colombes, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92270, France",NO,12:00,7.63
+16,Le Bellune Paris,8.7,406.92,"35, Boulevard Victor, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,12:00,4.9
+17,ibis Styles Clamart Gare Grand Paris,8.4,247.88,"44, Rue du Clos Montholon, Vanves, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92140, France",NO,12:00,7.01
+18,Hôtel Bellevue et du Chariot d'Or,7.5,303.0,"39, Rue de Turbigo, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France",NO,11:00,1.14
+19,Hôtel France d'Antin Opéra,8.8,621.12,"22, Rue d'Antin, Quartier Gaillon, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",NO,11:00,0.96
+0,Hôtel du Mont Blanc,7.6,476.68,"26, Rue de la Huchette, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",NO,12:00,1.03
+1,Séjours & Affaires Paris Bagneux,7.7,137.8,"Impasse Jeanne d'Arc, Résidence du Port Galand, Bagneux, Antony, Hauts-de-Seine, Île-de-France, France métropolitaine, 92220, France",NO,11:00,7.58
+2,Hôtel des Arcades de Cachan - Grand Paris Sud,7.9,219.02,"Comfort Hôtel, Rue Mirabeau, Cachan, L'Haÿ-les-Roses, Val-de-Marne, Île-de-France, France métropolitaine, 94230, France",NO,12:00,7.27
+3,ibis Clichy Centre Mairie,7.1,170.72,"4, Rue Marcelin Berthelot, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",SI,11:00,5.35
+4,Le Kleber,7.0,150.32,"12, Rue Kléber, Croix de Chavaux, Bobillot, Montreuil, Bobigny, Seine-Saint-Denis, Île-de-France, France métropolitaine, 93100, France",NO,11:00,7.23
+5,Opera Louvre Holiday Apartment,7.2,497.91625,"2, Rue de Mulhouse, Quartier du Mail, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France",NO,11:00,1.06
+6,OKKO Hotels Paris La Défense,8.5,240.2,"OKKO Hotels Paris La Défense, 2261, Boulevard de la Défense, La Défense 7, Quartier du Parc Nord, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92000, France",NO,12:00,8.82
+7,Tipi,7.1,271.0,"Tipi, Rue Daguerre, Quartier de Plaisance, Paris 14e Arrondissement, Paris, Île-de-France, France métropolitaine, 75014, France",SI,11:00,3.0
+8,ibis Paris Porte de Clichy Centre,7.6,212.25,"Place Jacques Chirac, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",NO,12:00,4.51
+9,Hotel Bootcamp,8.1,211.52,"Bootcamp, Rue Auguste Gervais, Quartier Centre-Ville / Corentin Celton / Les Varennes, Issy-les-Moulineaux, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92130, France",SI,11:00,6.35
+10,Aparthotel Adagio Porte de Versailles,7.6,284.03,"Adagio Porte de Versailles, 16, Rue Eliane Jeannin-Garreau, Quartier Saint-Lambert, Paris 15e Arrondissement, Paris, Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, France métropolitaine, 92130, France",NO,11:00,5.35
+11,Hotel Aida Opera,8.2,384.77,"Pho Bobun, 10, Rue Richer, Quartier du Faubourg-Montmartre, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France",NO,11:00,1.57
+12,Les Jardins de St Cloud,8.8,295.31,"15, Rue Dantan, Les Bureaux de la Colline, Saint-Cloud, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92210, France",NO,12:00,8.77
+13,Hôtel Aurore Paris Gare de Lyon,8.1,322.8,"Aurore Best Western, Rue Traversière, Quartier des Quinze-Vingts, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France",SI,11:00,2.94
+14,L'Imprimerie Hôtel,9.0,299.76,"15, Rue Victor Méric, Clichy, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92110, France",NO,12:00,5.07
+15,Cler Hotel,8.8,562.8,"24 bis, Rue Cler, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",NO,11:30,2.39
+16,Citadines Tour Eiffel Paris,7.9,384.52,"132, Boulevard de Grenelle, Quartier de Grenelle, Paris 15e Arrondissement, Paris, Île-de-France, France métropolitaine, 75015, France",NO,11:00,3.24
+17,Star Of Life,8.8,236.0,"Adagio Aparthotel La Défense Kleber, 73, Avenue Gambetta, La Défense 3, Quartier Gambetta, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France",NO,11:00,7.52
+18,TRIBE Paris Batignolles,8.5,272.9,"174;176;178, Rue Cardinet, Quartier des Épinettes, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",NO,12:00,3.59
+19,Hôtel Central Saint Germain,8.3,758.8,"3, Rue Champollion, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France",NO,12:00,1.3

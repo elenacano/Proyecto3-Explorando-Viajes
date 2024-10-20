@@ -1,0 +1,4024 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1729420258172,
+    "data": {
+        "count": 6925,
+        "has_low_availability": "",
+        "unfiltered_primary_count": 20127,
+        "unfiltered_count": 20127,
+        "page_loading_threshold": 10,
+        "primary_count": 6925,
+        "result": [
+            {
+                "hotel_id": 7053652,
+                "hotel_name": "My Maison In Paris - Champ de Mars",
+                "type": "property_card",
+                "review_nr": 217,
+                "children_not_allowed": 0,
+                "composite_price_breakdown": {
+                    "charges_details": {
+                        "translated_copy": "",
+                        "amount": {
+                            "value": 10,
+                            "currency": "EUR"
+                        },
+                        "mode": "extra_charges"
+                    },
+                    "gross_amount": {
+                        "amount_unrounded": "\u20ac\u00a01.605,60",
+                        "value": 1605.6,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a01.606"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a01.616",
+                        "value": 1616,
+                        "amount_rounded": "\u20ac\u00a01.616",
+                        "currency": "EUR"
+                    },
+                    "net_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a01.460",
+                        "amount_unrounded": "\u20ac\u00a01.459,64",
+                        "value": 1459.63636363636
+                    },
+                    "benefits": [],
+                    "has_long_stays_weekly_rate_price": 0,
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "value": 145.963636363636,
+                                "amount_unrounded": "\u20ac\u00a0145,96",
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a0146"
+                            },
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "details": "10% IVA",
+                            "name": "IVA",
+                            "kind": "charge"
+                        },
+                        {
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a010",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a010,40",
+                                "value": 10.4
+                            },
+                            "inclusion_type": "excluded",
+                            "base": {
+                                "base_amount": 2.6,
+                                "kind": "per_person_per_night"
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a01.616",
+                        "currency": "EUR",
+                        "value": 1616,
+                        "amount_unrounded": "\u20ac\u00a01.616"
+                    },
+                    "client_translations": {
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": "",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a010,40",
+                        "value": 10.4,
+                        "amount_rounded": "\u20ac\u00a010",
+                        "currency": "EUR"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a01.606",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a01.605,60",
+                        "value": 1605.6
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a0145,96",
+                        "value": 145.963636363636,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0146"
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0803",
+                        "value": 802.8,
+                        "amount_unrounded": "\u20ac\u00a0802,80"
+                    },
+                    "has_long_stays_monthly_rate_price": 0
+                },
+                "ufi": -1456928,
+                "city_in_trans": "en Par\u00eds",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.857678,
+                "id": "property_card_7053652",
+                "extended": 0,
+                "is_smart_deal": 0,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 219,
+                "preferred_plus": 0,
+                "block_ids": [
+                    "705365202_295355702_5_0_0"
+                ],
+                "default_language": "fr",
+                "currencycode": "EUR",
+                "unit_configuration_label": "<b>Apartamento entero \u2013 57\u00a0m\u00b2</b>: 3\u00a0camas \u2022 2\u00a0dormitorios \u2022 1\u00a0sala de estar \u2022 3\u00a0ba\u00f1os",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "booking_home": {
+                    "quality_class": 4,
+                    "is_single_unit_property": "",
+                    "is_booking_home": 1,
+                    "group": "apartment_like",
+                    "segment": 1
+                },
+                "badges": [],
+                "main_photo_id": 328517959,
+                "updated_checkin": null,
+                "checkout": {
+                    "until": "11:00",
+                    "from": "05:30"
+                },
+                "cant_book": 0,
+                "min_total_price": 1605.6,
+                "longitude": 2.306473,
+                "checkin": {
+                    "until": "00:00",
+                    "from": "16:00"
+                },
+                "countrycode": "fr",
+                "review_score_word": "Fant\u00e1stico",
+                "distances": [],
+                "default_wishlist_name": "Par\u00eds",
+                "class": 0,
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/328517959.jpg?k=085615b5e728dce0331af33c3bc01788fdf917d09b0bd3345bc03dbda1edea0b&o=",
+                "soldout": 0,
+                "review_score": 9.1,
+                "hotel_name_trans": "My Maison In Paris - Champ de Mars",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": 1,
+                "city": "Paris"
+            },
+            {
+                "hotel_id": 8338742,
+                "class": 0,
+                "default_wishlist_name": "Courbevoie",
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "review_score": 8.9,
+                "hotel_name_trans": "Staycity Aparthotels Paris La Defense",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/372024549.jpg?k=54124e825901d64a9b38e7a23859ae83462ae771978ece3ba34e2768f6b27246&o=",
+                "soldout": 0,
+                "city": "Courbevoie",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "updated_checkin": null,
+                "main_photo_id": 372024549,
+                "badges": [
+                    {
+                        "id": "Mobile Rate",
+                        "text": "Precio solo para m\u00f3vil",
+                        "badge_variant": "constructive"
+                    }
+                ],
+                "min_total_price": 182.2,
+                "checkout": {
+                    "from": "07:00",
+                    "until": "11:00"
+                },
+                "cant_book": 0,
+                "checkin": {
+                    "from": "15:00",
+                    "until": "00:00"
+                },
+                "countrycode": "fr",
+                "longitude": 2.2555253,
+                "distances": [],
+                "review_score_word": "Fabuloso",
+                "is_smart_deal": 0,
+                "preferred_plus": 0,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 219,
+                "default_language": "en",
+                "block_ids": [
+                    "833874201_349269117_1_2_0"
+                ],
+                "currencycode": "EUR",
+                "timezone": "Europe/Paris",
+                "booking_home": {
+                    "group": "apartment_like",
+                    "segment": 1,
+                    "is_booking_home": 1,
+                    "is_single_unit_property": "",
+                    "quality_class": 4
+                },
+                "is_free_cancellable": 0,
+                "hotel_include_breakfast": 0,
+                "unit_configuration_label": "<b>Estudio entero \u2013 18\u00a0m\u00b2</b>: Camas: 1 doble o 2 individuales \u2022 1\u00a0dormitorio \u2022 1\u00a0ba\u00f1o",
+                "is_no_prepayment_block": 0,
+                "children_not_allowed": 0,
+                "review_nr": 3388,
+                "hotel_name": "Staycity Aparthotels Paris La Defense",
+                "type": "property_card",
+                "ufi": -1422207,
+                "composite_price_breakdown": {
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a017",
+                                "amount_unrounded": "\u20ac\u00a016,56",
+                                "value": 16.5636363636364
+                            },
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA"
+                        },
+                        {
+                            "base": {
+                                "base_amount": 4.9,
+                                "kind": "per_person_per_night"
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a020",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a019,60",
+                                "value": 19.6
+                            },
+                            "kind": "charge",
+                            "name": "Impuesto municipal",
+                            "details": null
+                        },
+                        {
+                            "kind": "discount",
+                            "name": "Descuento extra",
+                            "details": "Te llevas una tarifa reducida porque este alojamiento ofrece un descuento.",
+                            "identifier": "basic-deal",
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a050,61",
+                                "value": 50.61,
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a051"
+                            }
+                        },
+                        {
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "kind": "discount",
+                            "name": "Precio solo para m\u00f3vil",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a020,24",
+                                "value": 20.24,
+                                "amount_rounded": "\u20ac\u00a020",
+                                "currency": "EUR"
+                            },
+                            "identifier": "mobile-discount",
+                            "base": {
+                                "kind": "rate"
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0202",
+                        "value": 201.8,
+                        "amount_unrounded": "\u20ac\u00a0201,80"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": ""
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a016,56",
+                        "value": 16.5636363636364,
+                        "amount_rounded": "\u20ac\u00a017",
+                        "currency": "EUR"
+                    },
+                    "discounted_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a071",
+                        "value": 70.85,
+                        "amount_unrounded": "\u20ac\u00a070,85"
+                    },
+                    "gross_amount_per_night": {
+                        "value": 91.1,
+                        "amount_unrounded": "\u20ac\u00a091,10",
+                        "amount_rounded": "\u20ac\u00a091",
+                        "currency": "EUR"
+                    },
+                    "excluded_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a020",
+                        "value": 19.6,
+                        "amount_unrounded": "\u20ac\u00a019,60"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0182,20",
+                        "value": 182.2,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0182"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "value": 20,
+                            "currency": "EUR"
+                        }
+                    },
+                    "gross_amount": {
+                        "value": 182.2,
+                        "amount_unrounded": "\u20ac\u00a0182,20",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0182"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0127",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0126,52",
+                        "value": 126.525
+                    },
+                    "strikethrough_amount": {
+                        "value": 253.05,
+                        "amount_unrounded": "\u20ac\u00a0253,05",
+                        "amount_rounded": "\u20ac\u00a0253",
+                        "currency": "EUR"
+                    },
+                    "benefits": [
+                        {
+                            "icon": null,
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "badge",
+                            "badge_variant": "constructive",
+                            "identifier": "mobile-rate"
+                        }
+                    ],
+                    "all_inclusive_amount": {
+                        "amount_rounded": "\u20ac\u00a0202",
+                        "currency": "EUR",
+                        "value": 201.8,
+                        "amount_unrounded": "\u20ac\u00a0201,80"
+                    },
+                    "net_amount": {
+                        "value": 165.636363636364,
+                        "amount_unrounded": "\u20ac\u00a0165,64",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0166"
+                    },
+                    "has_long_stays_weekly_rate_price": 0
+                },
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Courbevoie",
+                "extended": 0,
+                "id": "property_card_8338742",
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "latitude": 48.890686
+            },
+            {
+                "hotel_id": 57356,
+                "ufi": -1422819,
+                "composite_price_breakdown": {
+                    "has_long_stays_monthly_rate_price": 0,
+                    "included_taxes_and_charges_amount": {
+                        "amount_rounded": "\u20ac\u00a015",
+                        "currency": "EUR",
+                        "value": 14.5636363636364,
+                        "amount_unrounded": "\u20ac\u00a014,56"
+                    },
+                    "discounted_amount": {
+                        "amount_rounded": "\u20ac\u00a018",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a017,80",
+                        "value": 17.8
+                    },
+                    "gross_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a080",
+                        "currency": "EUR",
+                        "value": 80.1,
+                        "amount_unrounded": "\u20ac\u00a080,10"
+                    },
+                    "excluded_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a030",
+                        "amount_unrounded": "\u20ac\u00a029,92",
+                        "value": 29.92
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0160,20",
+                        "value": 160.2,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0160"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    },
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a0190",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0190,12",
+                        "value": 190.12
+                    },
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a015",
+                                "currency": "EUR",
+                                "value": 14.5636363636364,
+                                "amount_unrounded": "\u20ac\u00a014,56"
+                            },
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA"
+                        },
+                        {
+                            "details": null,
+                            "kind": "charge",
+                            "name": "Impuesto municipal",
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a029,92",
+                                "value": 29.92,
+                                "amount_rounded": "\u20ac\u00a030",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 7.48
+                            }
+                        },
+                        {
+                            "item_amount": {
+                                "value": 17.8,
+                                "amount_unrounded": "\u20ac\u00a017,80",
+                                "amount_rounded": "\u20ac\u00a018",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "mobile-discount",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "discount"
+                        }
+                    ],
+                    "has_long_stays_weekly_rate_price": 0,
+                    "benefits": [
+                        {
+                            "icon": null,
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "kind": "badge",
+                            "name": "Precio solo para m\u00f3vil",
+                            "badge_variant": "constructive",
+                            "identifier": "mobile-rate"
+                        }
+                    ],
+                    "net_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0146",
+                        "amount_unrounded": "\u20ac\u00a0145,64",
+                        "value": 145.636363636364
+                    },
+                    "all_inclusive_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0190",
+                        "amount_unrounded": "\u20ac\u00a0190,12",
+                        "value": 190.12
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_unrounded": "\u20ac\u00a089",
+                        "value": 89,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a089"
+                    },
+                    "strikethrough_amount": {
+                        "value": 178,
+                        "amount_unrounded": "\u20ac\u00a0178",
+                        "amount_rounded": "\u20ac\u00a0178",
+                        "currency": "EUR"
+                    },
+                    "gross_amount": {
+                        "amount_rounded": "\u20ac\u00a0160",
+                        "currency": "EUR",
+                        "value": 160.2,
+                        "amount_unrounded": "\u20ac\u00a0160,20"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 30
+                        }
+                    }
+                },
+                "has_swimming_pool": 1,
+                "children_not_allowed": 0,
+                "hotel_name": "Novotel Paris Cr\u00e9teil Le Lac",
+                "type": "property_card",
+                "review_nr": 1329,
+                "has_free_parking": 1,
+                "id": "property_card_57356",
+                "extended": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.7806346635147,
+                "city_in_trans": "en Cr\u00e9teil",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "preferred_plus": 0,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 204,
+                "is_smart_deal": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 2\u00a0camas",
+                "is_no_prepayment_block": 0,
+                "block_ids": [
+                    "5735610_94276900_2_42_0"
+                ],
+                "default_language": "en",
+                "currencycode": "EUR",
+                "min_total_price": 160.2,
+                "checkout": {
+                    "from": "",
+                    "until": "12:00"
+                },
+                "cant_book": 0,
+                "badges": [
+                    {
+                        "badge_variant": "constructive",
+                        "text": "Precio solo para m\u00f3vil",
+                        "id": "Mobile Rate"
+                    }
+                ],
+                "main_photo_id": 215146288,
+                "updated_checkin": null,
+                "review_score_word": "Agradable",
+                "distances": [],
+                "checkin": {
+                    "from": "14:00",
+                    "until": ""
+                },
+                "countrycode": "fr",
+                "longitude": 2.44726896286011,
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "class": 4,
+                "default_wishlist_name": "Cr\u00e9teil",
+                "city": "Cr\u00e9teil",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "review_score": 6.9,
+                "hotel_name_trans": "Novotel Paris Cr\u00e9teil Le Lac",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/215146288.jpg?k=0ca4844f8755398dcfe2511bd7eb21e02a69edba6cd2b89339b511e5ec140514&o=",
+                "soldout": 0
+            },
+            {
+                "hotel_id": 242482,
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "class": 2,
+                "default_wishlist_name": "Par\u00eds",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "city": "Paris",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/274025990.jpg?k=42d5b1d5743de8207eb3b60beaddac3de3399cc73c4f942fa43185198ab5183d&o=",
+                "soldout": 0,
+                "review_score": 7.5,
+                "hotel_name_trans": "H\u00f4tel Clauzel Paris",
+                "checkout": {
+                    "from": "00:00",
+                    "until": "11:00"
+                },
+                "cant_book": 0,
+                "min_total_price": 248,
+                "main_photo_id": 274025990,
+                "badges": [],
+                "updated_checkin": null,
+                "review_score_word": "Bien",
+                "distances": [],
+                "longitude": 2.33970522875097,
+                "checkin": {
+                    "until": "00:00",
+                    "from": "15:00"
+                },
+                "countrycode": "fr",
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 204,
+                "preferred_plus": 0,
+                "is_smart_deal": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "block_ids": [
+                    "24248202_91913959_0_2_0"
+                ],
+                "default_language": "en",
+                "currencycode": "EUR",
+                "composite_price_breakdown": {
+                    "has_long_stays_monthly_rate_price": 0,
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a022,55",
+                        "value": 22.5454545454545,
+                        "amount_rounded": "\u20ac\u00a023",
+                        "currency": "EUR"
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0124",
+                        "value": 124,
+                        "amount_unrounded": "\u20ac\u00a0124"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0248",
+                        "amount_unrounded": "\u20ac\u00a0248",
+                        "value": 248
+                    },
+                    "excluded_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a013",
+                        "value": 13,
+                        "amount_unrounded": "\u20ac\u00a013"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": "",
+                        "total_text": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "amount_per_night_suffix": ""
+                    },
+                    "items": [
+                        {
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a023",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a022,55",
+                                "value": 22.5454545454545
+                            },
+                            "inclusion_type": "included",
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            }
+                        },
+                        {
+                            "base": {
+                                "base_amount": 3.25,
+                                "kind": "per_person_per_night"
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "value": 13,
+                                "amount_unrounded": "\u20ac\u00a013",
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a013"
+                            },
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "details": null
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a0261",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0261",
+                        "value": 261
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "benefits": [],
+                    "all_inclusive_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0261",
+                        "amount_unrounded": "\u20ac\u00a0261",
+                        "value": 261
+                    },
+                    "net_amount": {
+                        "amount_unrounded": "\u20ac\u00a0225,45",
+                        "value": 225.454545454545,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0225"
+                    },
+                    "charges_details": {
+                        "amount": {
+                            "value": 13,
+                            "currency": "EUR"
+                        },
+                        "mode": "extra_charges",
+                        "translated_copy": ""
+                    },
+                    "gross_amount": {
+                        "value": 248,
+                        "amount_unrounded": "\u20ac\u00a0248",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0248"
+                    }
+                },
+                "ufi": -1456928,
+                "hotel_name": "H\u00f4tel Clauzel Paris",
+                "type": "property_card",
+                "review_nr": 3412,
+                "children_not_allowed": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.8787394866241,
+                "id": "property_card_242482",
+                "extended": 0,
+                "city_in_trans": "en Par\u00eds",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                }
+            },
+            {
+                "hotel_id": 1827698,
+                "is_smart_deal": 0,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 219,
+                "preferred_plus": 0,
+                "default_language": "fr",
+                "block_ids": [
+                    "182769804_395856772_2_2_0"
+                ],
+                "currencycode": "EUR",
+                "unit_configuration_label": "<b>Apartamento entero \u2013 30\u00a0m\u00b2</b>: 1\u00a0cama \u2022 1\u00a0dormitorio \u2022 1\u00a0ba\u00f1o",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "is_free_cancellable": 1,
+                "booking_home": {
+                    "group": "apartment_like",
+                    "segment": 1,
+                    "is_booking_home": 1,
+                    "is_single_unit_property": "",
+                    "quality_class": 3
+                },
+                "hotel_include_breakfast": 0,
+                "review_nr": 934,
+                "hotel_name": "M\u00e9dicis Home Puteaux",
+                "type": "property_card",
+                "children_not_allowed": 0,
+                "composite_price_breakdown": {
+                    "has_long_stays_monthly_rate_price": 0,
+                    "excluded_amount": {
+                        "amount_rounded": "\u20ac\u00a039",
+                        "currency": "EUR",
+                        "value": 39,
+                        "amount_unrounded": "\u20ac\u00a039"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0210",
+                        "value": 209.7,
+                        "amount_unrounded": "\u20ac\u00a0209,70"
+                    },
+                    "gross_amount_per_night": {
+                        "amount_unrounded": "\u20ac\u00a0104,85",
+                        "value": 104.85,
+                        "amount_rounded": "\u20ac\u00a0105",
+                        "currency": "EUR"
+                    },
+                    "discounted_amount": {
+                        "amount_unrounded": "\u20ac\u00a023,30",
+                        "value": 23.3,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a023"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a019,06",
+                        "value": 19.0636363636364,
+                        "amount_rounded": "\u20ac\u00a019",
+                        "currency": "EUR"
+                    },
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total"
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "items": [
+                        {
+                            "name": "IVA",
+                            "kind": "charge",
+                            "details": "10% IVA",
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "value": 19.0636363636364,
+                                "amount_unrounded": "\u20ac\u00a019,06",
+                                "amount_rounded": "\u20ac\u00a019",
+                                "currency": "EUR"
+                            }
+                        },
+                        {
+                            "kind": "charge",
+                            "name": "Impuesto municipal",
+                            "details": null,
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 9.75
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a039",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a039",
+                                "value": 39
+                            }
+                        },
+                        {
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "mobile-discount",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a023",
+                                "currency": "EUR",
+                                "value": 23.3,
+                                "amount_unrounded": "\u20ac\u00a023,30"
+                            },
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "discount",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador."
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "value": 248.7,
+                        "amount_unrounded": "\u20ac\u00a0248,70",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0249"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "net_amount": {
+                        "amount_unrounded": "\u20ac\u00a0190,64",
+                        "value": 190.636363636364,
+                        "amount_rounded": "\u20ac\u00a0191",
+                        "currency": "EUR"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0248,70",
+                        "value": 248.7,
+                        "amount_rounded": "\u20ac\u00a0249",
+                        "currency": "EUR"
+                    },
+                    "benefits": [
+                        {
+                            "kind": "badge",
+                            "name": "Precio solo para m\u00f3vil",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "icon": null,
+                            "identifier": "mobile-rate",
+                            "badge_variant": "constructive"
+                        }
+                    ],
+                    "strikethrough_amount": {
+                        "amount_unrounded": "\u20ac\u00a0233",
+                        "value": 233,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0233"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0117",
+                        "amount_unrounded": "\u20ac\u00a0116,50",
+                        "value": 116.5
+                    },
+                    "gross_amount": {
+                        "value": 209.7,
+                        "amount_unrounded": "\u20ac\u00a0209,70",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0210"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 39
+                        }
+                    }
+                },
+                "ufi": -1460415,
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Puteaux",
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "latitude": 48.8836291,
+                "extended": 0,
+                "id": "property_card_1827698",
+                "default_wishlist_name": "Puteaux",
+                "class": 0,
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/106714817.jpg?k=c8652bbcecf5c7ceb02beeeaf7b1b0f6c1675d139438faf20c5fa1e898fb41cc&o=",
+                "soldout": 0,
+                "review_score": 8.4,
+                "hotel_name_trans": "M\u00e9dicis Home Puteaux",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "city": "Puteaux",
+                "updated_checkin": null,
+                "badges": [
+                    {
+                        "id": "Mobile Rate",
+                        "text": "Precio solo para m\u00f3vil",
+                        "badge_variant": "constructive"
+                    }
+                ],
+                "main_photo_id": 106714817,
+                "checkout": {
+                    "from": "07:00",
+                    "until": "10:00"
+                },
+                "cant_book": 0,
+                "min_total_price": 209.7,
+                "longitude": 2.22487669999998,
+                "checkin": {
+                    "until": "20:00",
+                    "from": "16:00"
+                },
+                "countrycode": "fr",
+                "distances": [],
+                "review_score_word": "Muy bien"
+            },
+            {
+                "hotel_id": 7417670,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "block_ids": [
+                    "741767001_329183759_2_2_0"
+                ],
+                "default_language": "fr",
+                "currencycode": "EUR",
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 204,
+                "preferred_plus": 0,
+                "is_smart_deal": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.904881,
+                "id": "property_card_7417670",
+                "extended": 0,
+                "city_in_trans": "en Saint-Ouen",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "composite_price_breakdown": {
+                    "has_long_stays_weekly_rate_price": 0,
+                    "benefits": [],
+                    "net_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0219",
+                        "amount_unrounded": "\u20ac\u00a0218,76",
+                        "value": 218.763636363636
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0271,84",
+                        "value": 271.84,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0272"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0142",
+                        "value": 141.55,
+                        "amount_unrounded": "\u20ac\u00a0141,55"
+                    },
+                    "strikethrough_amount": {
+                        "value": 283.1,
+                        "amount_unrounded": "\u20ac\u00a0283,10",
+                        "amount_rounded": "\u20ac\u00a0283",
+                        "currency": "EUR"
+                    },
+                    "gross_amount": {
+                        "amount_rounded": "\u20ac\u00a0241",
+                        "currency": "EUR",
+                        "value": 240.64,
+                        "amount_unrounded": "\u20ac\u00a0240,64"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "value": 31,
+                            "currency": "EUR"
+                        }
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "discounted_amount": {
+                        "value": 42.46,
+                        "amount_unrounded": "\u20ac\u00a042,46",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a042"
+                    },
+                    "gross_amount_per_night": {
+                        "value": 120.32,
+                        "amount_unrounded": "\u20ac\u00a0120,32",
+                        "amount_rounded": "\u20ac\u00a0120",
+                        "currency": "EUR"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_rounded": "\u20ac\u00a022",
+                        "currency": "EUR",
+                        "value": 21.8763636363636,
+                        "amount_unrounded": "\u20ac\u00a021,88"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0241",
+                        "amount_unrounded": "\u20ac\u00a0240,64",
+                        "value": 240.64
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a031,20",
+                        "value": 31.2,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a031"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "amount_per_night_suffix": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "total_text": ""
+                    },
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0272",
+                        "value": 271.84,
+                        "amount_unrounded": "\u20ac\u00a0271,84"
+                    },
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "value": 21.8763636363636,
+                                "amount_unrounded": "\u20ac\u00a021,88",
+                                "amount_rounded": "\u20ac\u00a022",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "details": "10% IVA",
+                            "name": "IVA",
+                            "kind": "charge"
+                        },
+                        {
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a031",
+                                "value": 31.2,
+                                "amount_unrounded": "\u20ac\u00a031,20"
+                            },
+                            "base": {
+                                "base_amount": 7.8,
+                                "kind": "per_person_per_night"
+                            },
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge"
+                        },
+                        {
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a042",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a042,46",
+                                "value": 42.46
+                            },
+                            "identifier": "early-booker-deal",
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "details": "Te llevas una tarifa reducida porque este alojamiento ofrece un descuento.",
+                            "kind": "discount",
+                            "name": "Oferta para reservas anticipadas"
+                        }
+                    ]
+                },
+                "ufi": -1467640,
+                "hotel_name": "MOB House",
+                "type": "property_card",
+                "review_nr": 1860,
+                "has_swimming_pool": 1,
+                "children_not_allowed": 0,
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": 1,
+                "city": "Saint-Ouen",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/346726950.jpg?k=5ec731d77bd1eb9da6216aa1d8d8be3695b7d6de9ef10ced2cb1ab8fb7ec6ff6&o=",
+                "soldout": 0,
+                "review_score": 8.4,
+                "hotel_name_trans": "MOB House",
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "default_wishlist_name": "Saint-Ouen",
+                "class": 4,
+                "review_score_word": "Muy bien",
+                "distances": [],
+                "longitude": 2.33762,
+                "checkin": {
+                    "until": "",
+                    "from": "15:00"
+                },
+                "countrycode": "fr",
+                "checkout": {
+                    "until": "12:00",
+                    "from": ""
+                },
+                "cant_book": 0,
+                "min_total_price": 240.64,
+                "badges": [],
+                "main_photo_id": 346726950,
+                "updated_checkin": null
+            },
+            {
+                "hotel_id": 228216,
+                "city": "Paris",
+                "is_geo_rate": "",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "hotel_name_trans": "Grand H\u00f4tel De Paris",
+                "review_score": 7.3,
+                "soldout": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/592934735.jpg?k=6f643a52ef73a891b7b7edb02a86cb7dac04ce90c629f4fe974a5b220b1a4799&o=",
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "default_wishlist_name": "Par\u00eds",
+                "class": 2,
+                "distances": [],
+                "review_score_word": "Bien",
+                "countrycode": "fr",
+                "checkin": {
+                    "until": "",
+                    "from": "14:00"
+                },
+                "longitude": 2.3579902946949,
+                "min_total_price": 257.4,
+                "cant_book": 0,
+                "checkout": {
+                    "from": "",
+                    "until": "11:00"
+                },
+                "updated_checkin": null,
+                "main_photo_id": 592934735,
+                "badges": [
+                    {
+                        "text": "Precio solo para m\u00f3vil",
+                        "id": "Mobile Rate",
+                        "badge_variant": "constructive"
+                    }
+                ],
+                "is_free_cancellable": 0,
+                "hotel_include_breakfast": 0,
+                "timezone": "Europe/Paris",
+                "is_no_prepayment_block": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: Camas: 1 doble o 2 individuales",
+                "currencycode": "EUR",
+                "default_language": "en",
+                "block_ids": [
+                    "79680_88551087_0_2_0"
+                ],
+                "preferred_plus": 0,
+                "accommodation_type": 204,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "is_smart_deal": 0,
+                "extended": 0,
+                "id": "property_card_228216",
+                "latitude": 48.8753551021158,
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Par\u00eds",
+                "ufi": -1456928,
+                "composite_price_breakdown": {
+                    "has_long_stays_weekly_rate_price": 0,
+                    "net_amount": {
+                        "amount_rounded": "\u20ac\u00a0234",
+                        "currency": "EUR",
+                        "value": 234,
+                        "amount_unrounded": "\u20ac\u00a0234"
+                    },
+                    "all_inclusive_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0270",
+                        "amount_unrounded": "\u20ac\u00a0270,40",
+                        "value": 270.4
+                    },
+                    "benefits": [
+                        {
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "badge",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "icon": null,
+                            "identifier": "mobile-rate",
+                            "badge_variant": "constructive"
+                        }
+                    ],
+                    "strikethrough_amount": {
+                        "amount_unrounded": "\u20ac\u00a0286",
+                        "value": 286,
+                        "amount_rounded": "\u20ac\u00a0286",
+                        "currency": "EUR"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0143",
+                        "currency": "EUR",
+                        "value": 143,
+                        "amount_unrounded": "\u20ac\u00a0143"
+                    },
+                    "gross_amount": {
+                        "value": 257.4,
+                        "amount_unrounded": "\u20ac\u00a0257,40",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0257"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 13
+                        }
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "gross_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a0257",
+                        "currency": "EUR",
+                        "value": 257.4,
+                        "amount_unrounded": "\u20ac\u00a0257,40"
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a013",
+                        "value": 13,
+                        "amount_rounded": "\u20ac\u00a013",
+                        "currency": "EUR"
+                    },
+                    "discounted_amount": {
+                        "value": 28.6,
+                        "amount_unrounded": "\u20ac\u00a028,60",
+                        "amount_rounded": "\u20ac\u00a029",
+                        "currency": "EUR"
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0129",
+                        "value": 128.7,
+                        "amount_unrounded": "\u20ac\u00a0128,70"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a023",
+                        "value": 23.4,
+                        "amount_unrounded": "\u20ac\u00a023,40"
+                    },
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": ""
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a023",
+                                "currency": "EUR",
+                                "value": 23.4,
+                                "amount_unrounded": "\u20ac\u00a023,40"
+                            },
+                            "inclusion_type": "included",
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA"
+                        },
+                        {
+                            "details": null,
+                            "kind": "charge",
+                            "name": "Impuesto municipal",
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a013",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a013",
+                                "value": 13
+                            },
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 3.25
+                            }
+                        },
+                        {
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "discount",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a028,60",
+                                "value": 28.6,
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a029"
+                            },
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "mobile-discount"
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a0270",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0270,40",
+                        "value": 270.4
+                    }
+                },
+                "children_not_allowed": 0,
+                "review_nr": 4036,
+                "hotel_name": "Grand H\u00f4tel De Paris",
+                "type": "property_card"
+            },
+            {
+                "hotel_id": 7117961,
+                "block_ids": [
+                    "711796101_296613557_2_2_0"
+                ],
+                "default_language": "en",
+                "currencycode": "EUR",
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "is_smart_deal": 0,
+                "preferred_plus": 0,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 204,
+                "city_in_trans": "en Par\u00eds",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "id": "property_card_7117961",
+                "extended": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.871048,
+                "children_not_allowed": 0,
+                "hotel_name": "citizenM Paris Champs-\u00c9lys\u00e9es",
+                "type": "property_card",
+                "review_nr": 3593,
+                "ufi": -1456928,
+                "composite_price_breakdown": {
+                    "benefits": [],
+                    "all_inclusive_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0517",
+                        "amount_unrounded": "\u20ac\u00a0516,72",
+                        "value": 516.72
+                    },
+                    "net_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0440",
+                        "amount_unrounded": "\u20ac\u00a0440,18",
+                        "value": 440.181818181818
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "charges_details": {
+                        "mode": "extra_charges",
+                        "amount": {
+                            "value": 33,
+                            "currency": "EUR"
+                        },
+                        "translated_copy": ""
+                    },
+                    "gross_amount": {
+                        "amount_unrounded": "\u20ac\u00a0484,20",
+                        "value": 484.2,
+                        "amount_rounded": "\u20ac\u00a0484",
+                        "currency": "EUR"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0269",
+                        "currency": "EUR",
+                        "value": 269,
+                        "amount_unrounded": "\u20ac\u00a0269"
+                    },
+                    "strikethrough_amount": {
+                        "amount_rounded": "\u20ac\u00a0538",
+                        "currency": "EUR",
+                        "value": 538,
+                        "amount_unrounded": "\u20ac\u00a0538"
+                    },
+                    "gross_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0242",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0242,10",
+                        "value": 242.1
+                    },
+                    "discounted_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a054",
+                        "value": 53.8000000000001,
+                        "amount_unrounded": "\u20ac\u00a053,80"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a044,02",
+                        "value": 44.0181818181818,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a044"
+                    },
+                    "excluded_amount": {
+                        "value": 32.52,
+                        "amount_unrounded": "\u20ac\u00a032,52",
+                        "amount_rounded": "\u20ac\u00a033",
+                        "currency": "EUR"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0484,20",
+                        "value": 484.2,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0484"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "items": [
+                        {
+                            "name": "IVA",
+                            "kind": "charge",
+                            "details": "10% IVA",
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a044",
+                                "amount_unrounded": "\u20ac\u00a044,02",
+                                "value": 44.0181818181818
+                            }
+                        },
+                        {
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "value": 32.52,
+                                "amount_unrounded": "\u20ac\u00a032,52",
+                                "amount_rounded": "\u20ac\u00a033",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "base_amount": 8.13,
+                                "kind": "per_person_per_night"
+                            }
+                        },
+                        {
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "basic-deal",
+                            "item_amount": {
+                                "value": 53.8000000000001,
+                                "amount_unrounded": "\u20ac\u00a053,80",
+                                "amount_rounded": "\u20ac\u00a054",
+                                "currency": "EUR"
+                            },
+                            "name": "Descuento extra",
+                            "kind": "discount",
+                            "details": "Te llevas una tarifa reducida porque este alojamiento ofrece un descuento."
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "value": 516.72,
+                        "amount_unrounded": "\u20ac\u00a0516,72",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0517"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    }
+                },
+                "review_score": 8.6,
+                "hotel_name_trans": "citizenM Paris Champs-\u00c9lys\u00e9es",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/318948597.jpg?k=36a059eceb5dc4a5565900011d03c44a6ce3c572c3307f89fa82a19a56840deb&o=",
+                "soldout": 0,
+                "city": "Paris",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "class": 4,
+                "default_wishlist_name": "Par\u00eds",
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "checkin": {
+                    "until": "",
+                    "from": "14:00"
+                },
+                "countrycode": "fr",
+                "longitude": 2.305767,
+                "review_score_word": "Fabuloso",
+                "distances": [],
+                "badges": [],
+                "main_photo_id": 318948597,
+                "updated_checkin": null,
+                "min_total_price": 484.2,
+                "checkout": {
+                    "until": "11:00",
+                    "from": "07:00"
+                },
+                "cant_book": 0
+            },
+            {
+                "hotel_id": 59190,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 204,
+                "preferred_plus": 0,
+                "is_smart_deal": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "is_free_cancellable": 1,
+                "hotel_include_breakfast": 0,
+                "default_language": "en",
+                "block_ids": [
+                    "5919002_116667222_0_2_0"
+                ],
+                "currencycode": "EUR",
+                "composite_price_breakdown": {
+                    "has_long_stays_monthly_rate_price": 0,
+                    "gross_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0290",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0290",
+                        "value": 290
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a052,73",
+                        "value": 52.7272727272727,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a053"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0580",
+                        "amount_unrounded": "\u20ac\u00a0580",
+                        "value": 580
+                    },
+                    "excluded_amount": {
+                        "value": 13,
+                        "amount_unrounded": "\u20ac\u00a013",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a013"
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total"
+                    },
+                    "items": [
+                        {
+                            "item_amount": {
+                                "value": 52.7272727272727,
+                                "amount_unrounded": "\u20ac\u00a052,73",
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a053"
+                            },
+                            "inclusion_type": "included",
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA"
+                        },
+                        {
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a013",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a013",
+                                "value": 13
+                            },
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 3.25
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "value": 593,
+                        "amount_unrounded": "\u20ac\u00a0593",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0593"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "benefits": [],
+                    "net_amount": {
+                        "amount_rounded": "\u20ac\u00a0527",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0527,27",
+                        "value": 527.272727272727
+                    },
+                    "all_inclusive_amount": {
+                        "value": 593,
+                        "amount_unrounded": "\u20ac\u00a0593",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0593"
+                    },
+                    "gross_amount": {
+                        "amount_rounded": "\u20ac\u00a0580",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0580",
+                        "value": 580
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "amount": {
+                            "value": 13,
+                            "currency": "EUR"
+                        },
+                        "mode": "extra_charges"
+                    }
+                },
+                "ufi": -1456928,
+                "review_nr": 1574,
+                "hotel_name": "Hotel Opera Maintenon",
+                "type": "property_card",
+                "children_not_allowed": 0,
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "latitude": 48.8668479511701,
+                "extended": 0,
+                "id": "property_card_59190",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Par\u00eds",
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "class": 2,
+                "default_wishlist_name": "Par\u00eds",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "city": "Paris",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/121893443.jpg?k=6b25fce65d333c6701a70f4385315cee26aa53726238f75070855409b0b1db45&o=",
+                "soldout": 0,
+                "review_score": 8.3,
+                "hotel_name_trans": "Hotel Opera Maintenon",
+                "checkout": {
+                    "until": "12:00",
+                    "from": ""
+                },
+                "cant_book": 0,
+                "min_total_price": 580,
+                "updated_checkin": null,
+                "badges": [],
+                "main_photo_id": 121893443,
+                "distances": [],
+                "review_score_word": "Muy bien",
+                "longitude": 2.33587615191936,
+                "checkin": {
+                    "from": "15:00",
+                    "until": ""
+                },
+                "countrycode": "fr"
+            },
+            {
+                "hotel_id": 57206,
+                "accommodation_type": 204,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "preferred_plus": 0,
+                "is_smart_deal": 0,
+                "is_no_prepayment_block": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_free_cancellable": 0,
+                "timezone": "Europe/Paris",
+                "currencycode": "EUR",
+                "default_language": "en",
+                "block_ids": [
+                    "5720623_110737271_2_1_0"
+                ],
+                "composite_price_breakdown": {
+                    "benefits": [],
+                    "net_amount": {
+                        "amount_unrounded": "\u20ac\u00a0406,47",
+                        "value": 406.472727272727,
+                        "amount_rounded": "\u20ac\u00a0406",
+                        "currency": "EUR"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0467,92",
+                        "value": 467.92,
+                        "amount_rounded": "\u20ac\u00a0468",
+                        "currency": "EUR"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "gross_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0447",
+                        "value": 447.12,
+                        "amount_unrounded": "\u20ac\u00a0447,12"
+                    },
+                    "charges_details": {
+                        "mode": "extra_charges",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 21
+                        },
+                        "translated_copy": ""
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_unrounded": "\u20ac\u00a0248,40",
+                        "value": 248.4,
+                        "amount_rounded": "\u20ac\u00a0248",
+                        "currency": "EUR"
+                    },
+                    "strikethrough_amount": {
+                        "amount_unrounded": "\u20ac\u00a0496,80",
+                        "value": 496.8,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0497"
+                    },
+                    "discounted_amount": {
+                        "amount_rounded": "\u20ac\u00a050",
+                        "currency": "EUR",
+                        "value": 49.6800000000001,
+                        "amount_unrounded": "\u20ac\u00a049,68"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a041",
+                        "value": 40.6472727272727,
+                        "amount_unrounded": "\u20ac\u00a040,65"
+                    },
+                    "gross_amount_per_night": {
+                        "amount_unrounded": "\u20ac\u00a0223,56",
+                        "value": 223.56,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0224"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "value": 447.12,
+                        "amount_unrounded": "\u20ac\u00a0447,12",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0447"
+                    },
+                    "excluded_amount": {
+                        "value": 20.8,
+                        "amount_unrounded": "\u20ac\u00a020,80",
+                        "amount_rounded": "\u20ac\u00a021",
+                        "currency": "EUR"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "items": [
+                        {
+                            "name": "IVA",
+                            "kind": "charge",
+                            "details": "10% IVA",
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a041",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a040,65",
+                                "value": 40.6472727272727
+                            },
+                            "inclusion_type": "included"
+                        },
+                        {
+                            "details": null,
+                            "kind": "charge",
+                            "name": "Impuesto municipal",
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a021",
+                                "currency": "EUR",
+                                "value": 20.8,
+                                "amount_unrounded": "\u20ac\u00a020,80"
+                            },
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 5.2
+                            }
+                        },
+                        {
+                            "item_amount": {
+                                "value": 49.6800000000001,
+                                "amount_unrounded": "\u20ac\u00a049,68",
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a050"
+                            },
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "basic-deal",
+                            "details": "Te llevas una tarifa reducida porque este alojamiento ofrece un descuento.",
+                            "name": "Descuento extra",
+                            "kind": "discount"
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0468",
+                        "value": 467.92,
+                        "amount_unrounded": "\u20ac\u00a0467,92"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": "",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    }
+                },
+                "ufi": -1456928,
+                "review_nr": 4909,
+                "type": "property_card",
+                "hotel_name": "Best Western Empire Elysees",
+                "children_not_allowed": 0,
+                "latitude": 48.8780084146741,
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "extended": 0,
+                "id": "property_card_57206",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Par\u00eds",
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "default_wishlist_name": "Par\u00eds",
+                "class": 3,
+                "ribbon_text": "Desayuno incluido",
+                "is_geo_rate": "",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "city": "Paris",
+                "soldout": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/267850556.jpg?k=78e730e3d95265e39425bf5e19725a682fcc0bd353bf3f672d6f13a0c6b6c05f&o=",
+                "hotel_name_trans": "Best Western Empire Elysees",
+                "review_score": 8.2,
+                "cant_book": 0,
+                "checkout": {
+                    "from": "00:00",
+                    "until": "12:00"
+                },
+                "min_total_price": 447.12,
+                "updated_checkin": null,
+                "main_photo_id": 267850556,
+                "badges": [],
+                "distances": [],
+                "review_score_word": "Muy bien",
+                "longitude": 2.29554489244038,
+                "countrycode": "fr",
+                "checkin": {
+                    "until": "00:00",
+                    "from": "14:00"
+                }
+            },
+            {
+                "hotel_id": 57204,
+                "is_smart_deal": 0,
+                "accommodation_type": 204,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "preferred_plus": 0,
+                "currencycode": "EUR",
+                "default_language": "en",
+                "block_ids": [
+                    "5720411_94275781_2_42_0"
+                ],
+                "is_no_prepayment_block": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 2\u00a0camas",
+                "is_free_cancellable": 0,
+                "hotel_include_breakfast": 0,
+                "timezone": "Europe/Paris",
+                "review_nr": 2283,
+                "type": "property_card",
+                "hotel_name": "Novotel Paris Charenton le Pont",
+                "children_not_allowed": 0,
+                "composite_price_breakdown": {
+                    "strikethrough_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0228",
+                        "value": 227.96,
+                        "amount_unrounded": "\u20ac\u00a0227,96"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_unrounded": "\u20ac\u00a0113,98",
+                        "value": 113.98,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0114"
+                    },
+                    "gross_amount": {
+                        "value": 205.16,
+                        "amount_unrounded": "\u20ac\u00a0205,16",
+                        "amount_rounded": "\u20ac\u00a0205",
+                        "currency": "EUR"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "value": 31,
+                            "currency": "EUR"
+                        }
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "net_amount": {
+                        "amount_rounded": "\u20ac\u00a0187",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0186,51",
+                        "value": 186.509090909091
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0236,36",
+                        "value": 236.36,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0236"
+                    },
+                    "benefits": [
+                        {
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "badge",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "icon": null,
+                            "identifier": "mobile-rate",
+                            "badge_variant": "constructive"
+                        }
+                    ],
+                    "client_translations": {
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "amount_per_night_suffix": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "total_text": ""
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0236",
+                        "amount_unrounded": "\u20ac\u00a0236,36",
+                        "value": 236.36
+                    },
+                    "items": [
+                        {
+                            "kind": "charge",
+                            "name": "IVA",
+                            "details": "10% IVA",
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "item_amount": {
+                                "value": 18.6509090909091,
+                                "amount_unrounded": "\u20ac\u00a018,65",
+                                "amount_rounded": "\u20ac\u00a019",
+                                "currency": "EUR"
+                            },
+                            "inclusion_type": "included"
+                        },
+                        {
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "details": null,
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 7.8
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a031,20",
+                                "value": 31.2,
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a031"
+                            }
+                        },
+                        {
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a023",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a022,80",
+                                "value": 22.8
+                            },
+                            "identifier": "mobile-discount",
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "kind": "discount",
+                            "name": "Precio solo para m\u00f3vil"
+                        }
+                    ],
+                    "has_long_stays_monthly_rate_price": 0,
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a031,20",
+                        "value": 31.2,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a031"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0205,16",
+                        "value": 205.16,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0205"
+                    },
+                    "discounted_amount": {
+                        "value": 22.8,
+                        "amount_unrounded": "\u20ac\u00a022,80",
+                        "amount_rounded": "\u20ac\u00a023",
+                        "currency": "EUR"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a019",
+                        "amount_unrounded": "\u20ac\u00a018,65",
+                        "value": 18.6509090909091
+                    },
+                    "gross_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0103",
+                        "currency": "EUR",
+                        "value": 102.58,
+                        "amount_unrounded": "\u20ac\u00a0102,58"
+                    }
+                },
+                "ufi": -1418709,
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Charenton-le-Pont",
+                "latitude": 48.8265158922804,
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "extended": 0,
+                "id": "property_card_57204",
+                "class": 4,
+                "default_wishlist_name": "Charenton-le-Pont",
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "soldout": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/570046345.jpg?k=0e2fe9d09505033cf4d903c4093a3926326462500bf9e801d5416fafe9f7cf86&o=",
+                "hotel_name_trans": "Novotel Paris Charenton le Pont",
+                "review_score": 7.5,
+                "is_geo_rate": "",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "city": "Charenton Le Pont",
+                "updated_checkin": null,
+                "badges": [
+                    {
+                        "badge_variant": "constructive",
+                        "text": "Precio solo para m\u00f3vil",
+                        "id": "Mobile Rate"
+                    }
+                ],
+                "main_photo_id": 570046345,
+                "cant_book": 0,
+                "checkout": {
+                    "until": "12:00",
+                    "from": ""
+                },
+                "min_total_price": 205.16,
+                "longitude": 2.40537483928676,
+                "countrycode": "fr",
+                "checkin": {
+                    "from": "14:00",
+                    "until": "00:00"
+                },
+                "distances": [],
+                "review_score_word": "Bien"
+            },
+            {
+                "hotel_id": 57738,
+                "review_score": 8.5,
+                "hotel_name_trans": "Passy Eiffel",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/576452905.jpg?k=bdb569c149e280dba1f00d2aec78f3ef92cbbb6428f358795f2afffcce8f9ef3&o=",
+                "soldout": 0,
+                "city": "Paris",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "class": 3,
+                "default_wishlist_name": "Par\u00eds",
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "checkin": {
+                    "from": "15:00",
+                    "until": ""
+                },
+                "countrycode": "fr",
+                "longitude": 2.28346578776836,
+                "review_score_word": "Muy bien",
+                "distances": [],
+                "main_photo_id": 576452905,
+                "badges": [],
+                "updated_checkin": null,
+                "min_total_price": 434,
+                "checkout": {
+                    "until": "11:00",
+                    "from": ""
+                },
+                "cant_book": 0,
+                "block_ids": [
+                    "5773801_90587722_2_2_0"
+                ],
+                "default_language": "en",
+                "currencycode": "EUR",
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "is_smart_deal": 0,
+                "preferred_plus": 0,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 204,
+                "city_in_trans": "en Par\u00eds",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "id": "property_card_57738",
+                "extended": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.8583997942168,
+                "children_not_allowed": 0,
+                "hotel_name": "Passy Eiffel",
+                "type": "property_card",
+                "review_nr": 1507,
+                "ufi": -1456928,
+                "composite_price_breakdown": {
+                    "net_amount": {
+                        "value": 394.545454545455,
+                        "amount_unrounded": "\u20ac\u00a0394,55",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0395"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_rounded": "\u20ac\u00a0455",
+                        "currency": "EUR",
+                        "value": 454.8,
+                        "amount_unrounded": "\u20ac\u00a0454,80"
+                    },
+                    "benefits": [],
+                    "has_long_stays_weekly_rate_price": 0,
+                    "gross_amount": {
+                        "value": 434,
+                        "amount_unrounded": "\u20ac\u00a0434",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0434"
+                    },
+                    "charges_details": {
+                        "mode": "extra_charges",
+                        "amount": {
+                            "value": 21,
+                            "currency": "EUR"
+                        },
+                        "translated_copy": ""
+                    },
+                    "gross_amount_hotel_currency": {
+                        "value": 434,
+                        "amount_unrounded": "\u20ac\u00a0434",
+                        "amount_rounded": "\u20ac\u00a0434",
+                        "currency": "EUR"
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a020,80",
+                        "value": 20.8,
+                        "amount_rounded": "\u20ac\u00a021",
+                        "currency": "EUR"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a039",
+                        "amount_unrounded": "\u20ac\u00a039,45",
+                        "value": 39.4545454545455
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0217",
+                        "amount_unrounded": "\u20ac\u00a0217",
+                        "value": 217
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a039",
+                                "value": 39.4545454545455,
+                                "amount_unrounded": "\u20ac\u00a039,45"
+                            },
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "details": "10% IVA",
+                            "name": "IVA",
+                            "kind": "charge"
+                        },
+                        {
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "details": null,
+                            "base": {
+                                "base_amount": 5.2,
+                                "kind": "per_person_per_night"
+                            },
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a021",
+                                "currency": "EUR",
+                                "value": 20.8,
+                                "amount_unrounded": "\u20ac\u00a020,80"
+                            },
+                            "inclusion_type": "excluded"
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0455",
+                        "amount_unrounded": "\u20ac\u00a0454,80",
+                        "value": 454.8
+                    },
+                    "client_translations": {
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ]
+                }
+            },
+            {
+                "hotel_id": 9760900,
+                "children_not_allowed": 0,
+                "review_nr": 592,
+                "type": "property_card",
+                "hotel_name": "Mode Paris Aparthotel",
+                "ufi": -1456928,
+                "composite_price_breakdown": {
+                    "included_taxes_and_charges_amount": {
+                        "value": 42.3218181818182,
+                        "amount_unrounded": "\u20ac\u00a042,32",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a042"
+                    },
+                    "discounted_amount": {
+                        "amount_rounded": "\u20ac\u00a0310",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0310,36",
+                        "value": 310.36
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0233",
+                        "value": 232.77,
+                        "amount_unrounded": "\u20ac\u00a0232,77"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "value": 465.54,
+                        "amount_unrounded": "\u20ac\u00a0465,54",
+                        "amount_rounded": "\u20ac\u00a0466",
+                        "currency": "EUR"
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a032,52",
+                        "value": 32.52,
+                        "amount_rounded": "\u20ac\u00a033",
+                        "currency": "EUR"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "items": [
+                        {
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "value": 42.3218181818182,
+                                "amount_unrounded": "\u20ac\u00a042,32",
+                                "amount_rounded": "\u20ac\u00a042",
+                                "currency": "EUR"
+                            },
+                            "name": "IVA",
+                            "kind": "charge",
+                            "details": "10% IVA"
+                        },
+                        {
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "details": null,
+                            "base": {
+                                "kind": "per_person_per_night",
+                                "base_amount": 8.13
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a033",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a032,52",
+                                "value": 32.52
+                            }
+                        },
+                        {
+                            "name": "Oferta de finales de a\u00f1o",
+                            "kind": "discount",
+                            "details": "Tienes precio reducido porque este alojamiento ofrece un descuento.",
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "campaign_35",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a0310",
+                                "value": 310.36,
+                                "amount_unrounded": "\u20ac\u00a0310,36"
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0498,06",
+                        "value": 498.06,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0498"
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "client_translations": {
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": "",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    },
+                    "benefits": [
+                        {
+                            "badge_variant": "constructive",
+                            "identifier": "late-escape-campaign",
+                            "icon": null,
+                            "details": "Este alojamiento ofrece un descuento en estancias entre el 1 de octubre de 2024 y el 7 de enero de 2025.",
+                            "kind": "badge",
+                            "name": "Oferta de finales de a\u00f1o"
+                        }
+                    ],
+                    "all_inclusive_amount": {
+                        "value": 498.06,
+                        "amount_unrounded": "\u20ac\u00a0498,06",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0498"
+                    },
+                    "net_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0423",
+                        "amount_unrounded": "\u20ac\u00a0423,22",
+                        "value": 423.218181818182
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "charges_details": {
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 33
+                        },
+                        "mode": "extra_charges",
+                        "translated_copy": ""
+                    },
+                    "gross_amount": {
+                        "amount_unrounded": "\u20ac\u00a0465,54",
+                        "value": 465.54,
+                        "amount_rounded": "\u20ac\u00a0466",
+                        "currency": "EUR"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0388",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0387,95",
+                        "value": 387.95
+                    },
+                    "strikethrough_amount": {
+                        "amount_rounded": "\u20ac\u00a0776",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0775,90",
+                        "value": 775.9
+                    }
+                },
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Par\u00eds",
+                "extended": 0,
+                "id": "property_card_9760900",
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "latitude": 48.8711983,
+                "is_smart_deal": 0,
+                "preferred_plus": 1,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 219,
+                "default_language": "fr",
+                "block_ids": [
+                    "976090001_369967052_0_0_0"
+                ],
+                "currencycode": "EUR",
+                "timezone": "Europe/Paris",
+                "booking_home": {
+                    "is_single_unit_property": "",
+                    "quality_class": 0,
+                    "segment": 1,
+                    "group": "apartment_like",
+                    "is_booking_home": 1
+                },
+                "is_free_cancellable": 0,
+                "hotel_include_breakfast": 0,
+                "unit_configuration_label": "<b>Estudio entero \u2013 23\u00a0m\u00b2</b>: 1\u00a0cama \u2022 1\u00a0dormitorio \u2022 1\u00a0ba\u00f1o",
+                "is_no_prepayment_block": 0,
+                "updated_checkin": null,
+                "main_photo_id": 535615945,
+                "badges": [
+                    {
+                        "badge_variant": "constructive",
+                        "id": "Late Escape Campaign",
+                        "text": "Oferta de finales de a\u00f1o"
+                    }
+                ],
+                "min_total_price": 465.54,
+                "checkout": {
+                    "from": "00:00",
+                    "until": "11:00"
+                },
+                "cant_book": 0,
+                "checkin": {
+                    "until": "00:00",
+                    "from": "15:00"
+                },
+                "countrycode": "fr",
+                "longitude": 2.2872901,
+                "distances": [],
+                "review_score_word": "Fant\u00e1stico",
+                "class": 4,
+                "default_wishlist_name": "Par\u00eds",
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "review_score": 9.2,
+                "hotel_name_trans": "Mode Paris Aparthotel",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/535615945.jpg?k=404dd3ef014ca48aa24f97aff401b6adb508248fa29279067987696d268a14b8&o=",
+                "soldout": 0,
+                "city": "Paris",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": ""
+            },
+            {
+                "hotel_id": 242327,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.9027800164663,
+                "id": "property_card_242327",
+                "extended": 0,
+                "city_in_trans": "en Saint-Ouen",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "composite_price_breakdown": {
+                    "client_translations": {
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a013",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a013,35",
+                                "value": 13.3536363636364
+                            },
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA"
+                        },
+                        {
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a031",
+                                "currency": "EUR",
+                                "value": 31.2,
+                                "amount_unrounded": "\u20ac\u00a031,20"
+                            },
+                            "base": {
+                                "base_amount": 7.8,
+                                "kind": "per_person_per_night"
+                            },
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge"
+                        },
+                        {
+                            "kind": "discount",
+                            "name": "Precio solo para m\u00f3vil",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "identifier": "mobile-discount",
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a016,32",
+                                "value": 16.32,
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a016"
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0178,09",
+                        "value": 178.09,
+                        "amount_rounded": "\u20ac\u00a0178",
+                        "currency": "EUR"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "excluded_amount": {
+                        "value": 31.2,
+                        "amount_unrounded": "\u20ac\u00a031,20",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a031"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0146,89",
+                        "value": 146.89,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0147"
+                    },
+                    "discounted_amount": {
+                        "amount_rounded": "\u20ac\u00a016",
+                        "currency": "EUR",
+                        "value": 16.32,
+                        "amount_unrounded": "\u20ac\u00a016,32"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "value": 13.3536363636364,
+                        "amount_unrounded": "\u20ac\u00a013,35",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a013"
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a073",
+                        "value": 73.445,
+                        "amount_unrounded": "\u20ac\u00a073,44"
+                    },
+                    "strikethrough_amount": {
+                        "value": 163.21,
+                        "amount_unrounded": "\u20ac\u00a0163,21",
+                        "amount_rounded": "\u20ac\u00a0163",
+                        "currency": "EUR"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "value": 81.605,
+                        "amount_unrounded": "\u20ac\u00a081,61",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a082"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "mode": "extra_charges",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 31
+                        }
+                    },
+                    "gross_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0147",
+                        "value": 146.89,
+                        "amount_unrounded": "\u20ac\u00a0146,89"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "all_inclusive_amount": {
+                        "value": 178.09,
+                        "amount_unrounded": "\u20ac\u00a0178,09",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0178"
+                    },
+                    "net_amount": {
+                        "value": 133.536363636364,
+                        "amount_unrounded": "\u20ac\u00a0133,54",
+                        "amount_rounded": "\u20ac\u00a0134",
+                        "currency": "EUR"
+                    },
+                    "benefits": [
+                        {
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "badge",
+                            "icon": null,
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "identifier": "mobile-rate",
+                            "badge_variant": "constructive"
+                        }
+                    ]
+                },
+                "ufi": -1467640,
+                "hotel_name": "Mercure Paris Saint-Ouen",
+                "type": "property_card",
+                "review_nr": 1456,
+                "children_not_allowed": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "block_ids": [
+                    "24232708_93266550_2_34_0"
+                ],
+                "default_language": "en",
+                "currencycode": "EUR",
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 204,
+                "preferred_plus": 0,
+                "is_smart_deal": 0,
+                "review_score_word": "Bien",
+                "distances": [],
+                "longitude": 2.33091473579407,
+                "checkin": {
+                    "from": "14:00",
+                    "until": ""
+                },
+                "countrycode": "fr",
+                "checkout": {
+                    "until": "12:00",
+                    "from": ""
+                },
+                "cant_book": 0,
+                "min_total_price": 146.89,
+                "badges": [
+                    {
+                        "badge_variant": "constructive",
+                        "text": "Precio solo para m\u00f3vil",
+                        "id": "Mobile Rate"
+                    }
+                ],
+                "main_photo_id": 598058086,
+                "updated_checkin": null,
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "city": "Saint-Ouen",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/598058086.jpg?k=314e59887e86b8ba47d01bc1e57996ca4a18e030dd911947e026c25727c9738f&o=",
+                "soldout": 0,
+                "review_score": 7.8,
+                "hotel_name_trans": "Mercure Paris Saint-Ouen",
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "default_wishlist_name": "Saint-Ouen",
+                "class": 4
+            },
+            {
+                "hotel_id": 275809,
+                "extended": 0,
+                "id": "property_card_275809",
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "latitude": 48.8462343434027,
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Saint-Mand\u00e9",
+                "ufi": -1466843,
+                "composite_price_breakdown": {
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "client_translations": {
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "total_text": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "amount_per_night_suffix": ""
+                    },
+                    "all_inclusive_amount_hotel_currency": {
+                        "value": 200.9,
+                        "amount_unrounded": "\u20ac\u00a0200,90",
+                        "amount_rounded": "\u20ac\u00a0201",
+                        "currency": "EUR"
+                    },
+                    "items": [
+                        {
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "value": 17.6018181818182,
+                                "amount_unrounded": "\u20ac\u00a017,60",
+                                "amount_rounded": "\u20ac\u00a018",
+                                "currency": "EUR"
+                            },
+                            "name": "IVA",
+                            "kind": "charge",
+                            "details": "10% IVA"
+                        },
+                        {
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a07,28",
+                                "value": 7.28,
+                                "amount_rounded": "\u20ac\u00a07",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "base_amount": 1.82,
+                                "kind": "per_person_per_night"
+                            }
+                        }
+                    ],
+                    "has_long_stays_monthly_rate_price": 0,
+                    "gross_amount_per_night": {
+                        "value": 96.81,
+                        "amount_unrounded": "\u20ac\u00a096,81",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a097"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "value": 17.6018181818182,
+                        "amount_unrounded": "\u20ac\u00a017,60",
+                        "amount_rounded": "\u20ac\u00a018",
+                        "currency": "EUR"
+                    },
+                    "excluded_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a07",
+                        "value": 7.28,
+                        "amount_unrounded": "\u20ac\u00a07,28"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0194",
+                        "amount_unrounded": "\u20ac\u00a0193,62",
+                        "value": 193.62
+                    },
+                    "gross_amount": {
+                        "amount_rounded": "\u20ac\u00a0194",
+                        "currency": "EUR",
+                        "value": 193.62,
+                        "amount_unrounded": "\u20ac\u00a0193,62"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 7
+                        },
+                        "mode": "extra_charges"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "benefits": [],
+                    "net_amount": {
+                        "value": 176.018181818182,
+                        "amount_unrounded": "\u20ac\u00a0176,02",
+                        "amount_rounded": "\u20ac\u00a0176",
+                        "currency": "EUR"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_rounded": "\u20ac\u00a0201",
+                        "currency": "EUR",
+                        "value": 200.9,
+                        "amount_unrounded": "\u20ac\u00a0200,90"
+                    }
+                },
+                "children_not_allowed": 0,
+                "review_nr": 760,
+                "type": "property_card",
+                "hotel_name": "Le Ruisseau",
+                "timezone": "Europe/Paris",
+                "is_free_cancellable": 0,
+                "hotel_include_breakfast": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "default_language": "en",
+                "block_ids": [
+                    "27580902_88548274_2_2_0"
+                ],
+                "currencycode": "EUR",
+                "preferred_plus": 0,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 204,
+                "is_smart_deal": 0,
+                "distances": [],
+                "review_score_word": "Bien",
+                "checkin": {
+                    "until": "23:00",
+                    "from": "14:00"
+                },
+                "countrycode": "fr",
+                "longitude": 2.41632767021656,
+                "min_total_price": 193.62,
+                "checkout": {
+                    "until": "12:00",
+                    "from": "06:30"
+                },
+                "cant_book": 0,
+                "updated_checkin": null,
+                "badges": [],
+                "main_photo_id": 7546810,
+                "city": "Saint Mand\u00e9",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "review_score": 7.7,
+                "hotel_name_trans": "Le Ruisseau",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/7546810.jpg?k=2a95289d1928caefd3114382aa5e61081b0440e584f3b20c2358c95ddc4dc3d3&o=",
+                "soldout": 0,
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "class": 3,
+                "default_wishlist_name": "Saint-Mand\u00e9"
+            },
+            {
+                "hotel_id": 497260,
+                "default_language": "en",
+                "block_ids": [
+                    "49726003_397716781_0_2_0"
+                ],
+                "currencycode": "EUR",
+                "timezone": "Europe/Paris",
+                "is_free_cancellable": 1,
+                "hotel_include_breakfast": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_no_prepayment_block": 0,
+                "is_smart_deal": 0,
+                "preferred_plus": 0,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 204,
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Par\u00eds",
+                "extended": 0,
+                "id": "property_card_497260",
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "latitude": 48.869751606852,
+                "children_not_allowed": 0,
+                "review_nr": 2626,
+                "type": "property_card",
+                "hotel_name": "Hotel Mimosa Paris",
+                "ufi": -1456928,
+                "composite_price_breakdown": {
+                    "has_long_stays_weekly_rate_price": 0,
+                    "benefits": [],
+                    "net_amount": {
+                        "amount_unrounded": "\u20ac\u00a0279,82",
+                        "value": 279.818181818182,
+                        "amount_rounded": "\u20ac\u00a0280",
+                        "currency": "EUR"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0318,20",
+                        "value": 318.2,
+                        "amount_rounded": "\u20ac\u00a0318",
+                        "currency": "EUR"
+                    },
+                    "gross_amount": {
+                        "value": 307.8,
+                        "amount_unrounded": "\u20ac\u00a0307,80",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0308"
+                    },
+                    "charges_details": {
+                        "translated_copy": "",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 10
+                        },
+                        "mode": "extra_charges"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "gross_amount_per_night": {
+                        "value": 153.9,
+                        "amount_unrounded": "\u20ac\u00a0153,90",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0154"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_rounded": "\u20ac\u00a028",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a027,98",
+                        "value": 27.9818181818182
+                    },
+                    "gross_amount_hotel_currency": {
+                        "value": 307.8,
+                        "amount_unrounded": "\u20ac\u00a0307,80",
+                        "amount_rounded": "\u20ac\u00a0308",
+                        "currency": "EUR"
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a010,40",
+                        "value": 10.4,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a010"
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": ""
+                    },
+                    "all_inclusive_amount_hotel_currency": {
+                        "value": 318.2,
+                        "amount_unrounded": "\u20ac\u00a0318,20",
+                        "amount_rounded": "\u20ac\u00a0318",
+                        "currency": "EUR"
+                    },
+                    "items": [
+                        {
+                            "details": "10% IVA",
+                            "kind": "charge",
+                            "name": "IVA",
+                            "item_amount": {
+                                "amount_rounded": "\u20ac\u00a028",
+                                "currency": "EUR",
+                                "amount_unrounded": "\u20ac\u00a027,98",
+                                "value": 27.9818181818182
+                            },
+                            "inclusion_type": "included",
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            }
+                        },
+                        {
+                            "base": {
+                                "base_amount": 2.6,
+                                "kind": "per_person_per_night"
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a010,40",
+                                "value": 10.4,
+                                "amount_rounded": "\u20ac\u00a010",
+                                "currency": "EUR"
+                            },
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "details": null
+                        }
+                    ]
+                },
+                "review_score": 7.4,
+                "hotel_name_trans": "Hotel Mimosa Paris",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/359713728.jpg?k=d6bcac3245e42f716b705485d9e3b0534d6aaca173bc3c7c8659c256e26c7953&o=",
+                "soldout": 0,
+                "city": "Paris",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "default_wishlist_name": "Par\u00eds",
+                "class": 1,
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "checkin": {
+                    "until": "00:00",
+                    "from": "16:00"
+                },
+                "countrycode": "fr",
+                "longitude": 2.35605977475643,
+                "distances": [],
+                "review_score_word": "Bien",
+                "updated_checkin": null,
+                "badges": [],
+                "main_photo_id": 359713728,
+                "min_total_price": 307.8,
+                "checkout": {
+                    "from": "07:30",
+                    "until": "12:00"
+                },
+                "cant_book": 0
+            },
+            {
+                "hotel_id": 665694,
+                "distances": [],
+                "review_score_word": "Bien",
+                "longitude": 2.34327735581974,
+                "countrycode": "fr",
+                "checkin": {
+                    "until": "",
+                    "from": "14:00"
+                },
+                "cant_book": 0,
+                "checkout": {
+                    "until": "12:00",
+                    "from": ""
+                },
+                "min_total_price": 152,
+                "updated_checkin": null,
+                "main_photo_id": 187065885,
+                "badges": [],
+                "is_geo_rate": "",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "city": "Saint-Denis",
+                "soldout": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/187065885.jpg?k=5a8579336dea14816fe163fbc96289ea838b33f7f817df29f60467701ed5c361&o=",
+                "hotel_name_trans": "B&B HOTEL Paris Saint-Denis Pleyel",
+                "review_score": 7.7,
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "default_wishlist_name": "Saint-Denis",
+                "class": 3,
+                "latitude": 48.9216022070345,
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "extended": 0,
+                "id": "property_card_665694",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Saint-Denis",
+                "composite_price_breakdown": {
+                    "charges_details": {
+                        "mode": "extra_charges",
+                        "amount": {
+                            "value": 20,
+                            "currency": "EUR"
+                        },
+                        "translated_copy": ""
+                    },
+                    "gross_amount": {
+                        "amount_rounded": "\u20ac\u00a0152",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0152",
+                        "value": 152
+                    },
+                    "benefits": [],
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0171,52",
+                        "value": 171.52,
+                        "amount_rounded": "\u20ac\u00a0172",
+                        "currency": "EUR"
+                    },
+                    "net_amount": {
+                        "amount_rounded": "\u20ac\u00a0138",
+                        "currency": "EUR",
+                        "value": 138.181818181818,
+                        "amount_unrounded": "\u20ac\u00a0138,18"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "items": [
+                        {
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a013,82",
+                                "value": 13.8181818181818,
+                                "amount_rounded": "\u20ac\u00a014",
+                                "currency": "EUR"
+                            },
+                            "kind": "charge",
+                            "name": "IVA",
+                            "details": "10% IVA"
+                        },
+                        {
+                            "name": "Impuesto municipal",
+                            "kind": "charge",
+                            "details": null,
+                            "base": {
+                                "base_amount": 4.88,
+                                "kind": "per_person_per_night"
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a020",
+                                "value": 19.52,
+                                "amount_unrounded": "\u20ac\u00a019,52"
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0172",
+                        "amount_unrounded": "\u20ac\u00a0171,52",
+                        "value": 171.52
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": ""
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a076",
+                        "value": 76,
+                        "amount_unrounded": "\u20ac\u00a076"
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_rounded": "\u20ac\u00a014",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a013,82",
+                        "value": 13.8181818181818
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a019,52",
+                        "value": 19.52,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a020"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a0152",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0152",
+                        "value": 152
+                    },
+                    "has_long_stays_monthly_rate_price": 0
+                },
+                "ufi": -1464547,
+                "review_nr": 4332,
+                "type": "property_card",
+                "hotel_name": "B&B HOTEL Paris Saint-Denis Pleyel",
+                "children_not_allowed": 0,
+                "is_no_prepayment_block": 0,
+                "unit_configuration_label": "<b>Habitaci\u00f3n de hotel</b>: 1\u00a0cama",
+                "is_free_cancellable": 0,
+                "hotel_include_breakfast": 0,
+                "timezone": "Europe/Paris",
+                "currencycode": "EUR",
+                "default_language": "en",
+                "block_ids": [
+                    "66569401_158561321_2_0_0"
+                ],
+                "accommodation_type": 204,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "preferred_plus": 0,
+                "is_smart_deal": 0
+            },
+            {
+                "hotel_id": 9505423,
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "city": "creteil",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/421664402.jpg?k=88c223885ff85c305da42cc60f342ce1c32258b2297b6a2d6e3354bf3986d88f&o=",
+                "soldout": 0,
+                "review_score": 8.6,
+                "hotel_name_trans": "14eme et dernier \u00e9tage - 3 pieces \"Arty\" de 65 m2 avec vue panoramique !",
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "default_wishlist_name": "Cr\u00e9teil",
+                "class": 0,
+                "review_score_word": "Fabuloso",
+                "distances": [],
+                "longitude": 2.446325810416,
+                "checkin": {
+                    "until": "21:00",
+                    "from": "18:30"
+                },
+                "countrycode": "fr",
+                "checkout": {
+                    "from": "08:00",
+                    "until": "12:00"
+                },
+                "cant_book": 0,
+                "min_total_price": 387.18,
+                "badges": [
+                    {
+                        "badge_variant": "constructive",
+                        "text": "Precio solo para m\u00f3vil",
+                        "id": "Mobile Rate"
+                    }
+                ],
+                "main_photo_id": 421664402,
+                "updated_checkin": null,
+                "unit_configuration_label": "<b>Apartamento entero \u2013 64\u00a0m\u00b2</b>: 3\u00a0camas \u2022 2\u00a0dormitorios \u2022 1\u00a0sala de estar \u2022 1\u00a0ba\u00f1o",
+                "is_no_prepayment_block": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "booking_home": {
+                    "quality_class": 3,
+                    "is_single_unit_property": 1,
+                    "group": "apartment_like",
+                    "segment": 2,
+                    "is_booking_home": 1
+                },
+                "is_free_cancellable": 0,
+                "block_ids": [
+                    "950542301_367689849_4_0_0"
+                ],
+                "default_language": "fr",
+                "currencycode": "EUR",
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "accommodation_type": 201,
+                "preferred_plus": 1,
+                "is_smart_deal": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.785129665186,
+                "id": "property_card_9505423",
+                "extended": 0,
+                "city_in_trans": "en Cr\u00e9teil",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "composite_price_breakdown": {
+                    "client_translations": {
+                        "total_text": "",
+                        "tooltip_total_text": "Total",
+                        "per_night_amount_prefix": "",
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ]
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ],
+                    "items": [
+                        {
+                            "details": "10% IVA",
+                            "name": "IVA",
+                            "kind": "charge",
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a035,20",
+                                "value": 35.1981818181818,
+                                "amount_rounded": "\u20ac\u00a035",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            }
+                        },
+                        {
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 6.25
+                            },
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a022",
+                                "value": 21.9988636363636,
+                                "amount_rounded": "\u20ac\u00a022",
+                                "currency": "EUR"
+                            },
+                            "inclusion_type": "excluded",
+                            "kind": "charge",
+                            "name": "Impuesto municipal",
+                            "details": "6.25% Impuesto municipal"
+                        },
+                        {
+                            "base": {
+                                "base_amount": 30,
+                                "kind": "per_stay"
+                            },
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a030",
+                                "value": 30,
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a030"
+                            },
+                            "name": "suplemento de limpieza",
+                            "kind": "charge",
+                            "details": "No pagas el suplemento de limpieza por estar en Genius"
+                        },
+                        {
+                            "name": "Precio solo para m\u00f3vil",
+                            "kind": "discount",
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "base": {
+                                "kind": "rate"
+                            },
+                            "identifier": "mobile-discount",
+                            "item_amount": {
+                                "amount_unrounded": "\u20ac\u00a043,02",
+                                "value": 43.02,
+                                "amount_rounded": "\u20ac\u00a043",
+                                "currency": "EUR"
+                            }
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0439,18",
+                        "value": 439.178863636364,
+                        "amount_rounded": "\u20ac\u00a0439",
+                        "currency": "EUR"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0387",
+                        "amount_unrounded": "\u20ac\u00a0387,18",
+                        "value": 387.18
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a052",
+                        "value": 51.9988636363636,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a052"
+                    },
+                    "gross_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0194",
+                        "value": 193.59,
+                        "amount_unrounded": "\u20ac\u00a0193,59"
+                    },
+                    "discounted_amount": {
+                        "amount_rounded": "\u20ac\u00a043",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a043,02",
+                        "value": 43.02
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_rounded": "\u20ac\u00a035",
+                        "currency": "EUR",
+                        "value": 35.1981818181818,
+                        "amount_unrounded": "\u20ac\u00a035,20"
+                    },
+                    "strikethrough_amount": {
+                        "value": 430.2,
+                        "amount_unrounded": "\u20ac\u00a0430,20",
+                        "amount_rounded": "\u20ac\u00a0430",
+                        "currency": "EUR"
+                    },
+                    "strikethrough_amount_per_night": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0215",
+                        "value": 215.1,
+                        "amount_unrounded": "\u20ac\u00a0215,10"
+                    },
+                    "gross_amount": {
+                        "amount_unrounded": "\u20ac\u00a0387,18",
+                        "value": 387.18,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0387"
+                    },
+                    "charges_details": {
+                        "mode": "extra_charges",
+                        "amount": {
+                            "currency": "EUR",
+                            "value": 52
+                        },
+                        "translated_copy": ""
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "net_amount": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0352",
+                        "amount_unrounded": "\u20ac\u00a0351,98",
+                        "value": 351.981818181818
+                    },
+                    "all_inclusive_amount": {
+                        "amount_rounded": "\u20ac\u00a0439",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0439,18",
+                        "value": 439.178863636364
+                    },
+                    "benefits": [
+                        {
+                            "icon": null,
+                            "details": "Consigues una tarifa reducida en comparaci\u00f3n con la tarifa disponible en un ordenador.",
+                            "kind": "badge",
+                            "name": "Precio solo para m\u00f3vil",
+                            "badge_variant": "constructive",
+                            "identifier": "mobile-rate"
+                        }
+                    ]
+                },
+                "ufi": -1422819,
+                "type": "property_card",
+                "hotel_name": "14eme et dernier \u00e9tage - 3 pieces \"Arty\" de 65 m2 avec vue panoramique !",
+                "review_nr": 47,
+                "has_free_parking": 1,
+                "children_not_allowed": 0
+            },
+            {
+                "hotel_id": 1314467,
+                "ufi": -1454459,
+                "composite_price_breakdown": {
+                    "net_amount": {
+                        "value": 120,
+                        "amount_unrounded": "\u20ac\u00a0120",
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0120"
+                    },
+                    "all_inclusive_amount": {
+                        "amount_unrounded": "\u20ac\u00a0148,92",
+                        "value": 148.92,
+                        "amount_rounded": "\u20ac\u00a0149",
+                        "currency": "EUR"
+                    },
+                    "benefits": [],
+                    "has_long_stays_weekly_rate_price": 0,
+                    "gross_amount": {
+                        "amount_unrounded": "\u20ac\u00a0132",
+                        "value": 132,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0132"
+                    },
+                    "charges_details": {
+                        "amount": {
+                            "value": 17,
+                            "currency": "EUR"
+                        },
+                        "mode": "extra_charges",
+                        "translated_copy": ""
+                    },
+                    "gross_amount_hotel_currency": {
+                        "amount_unrounded": "\u20ac\u00a0132",
+                        "value": 132,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0132"
+                    },
+                    "excluded_amount": {
+                        "amount_unrounded": "\u20ac\u00a016,92",
+                        "value": 16.92,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a017"
+                    },
+                    "gross_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a066",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a066",
+                        "value": 66
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_unrounded": "\u20ac\u00a012",
+                        "value": 12,
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a012"
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "items": [
+                        {
+                            "kind": "charge",
+                            "name": "IVA",
+                            "details": "10% IVA",
+                            "base": {
+                                "kind": "percentage",
+                                "percentage": 10
+                            },
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a012",
+                                "value": 12,
+                                "amount_unrounded": "\u20ac\u00a012"
+                            }
+                        },
+                        {
+                            "inclusion_type": "excluded",
+                            "item_amount": {
+                                "value": 16.92,
+                                "amount_unrounded": "\u20ac\u00a016,92",
+                                "amount_rounded": "\u20ac\u00a017",
+                                "currency": "EUR"
+                            },
+                            "base": {
+                                "base_amount": 4.23,
+                                "kind": "per_person_per_night"
+                            },
+                            "details": null,
+                            "name": "Impuesto municipal",
+                            "kind": "charge"
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "amount_rounded": "\u20ac\u00a0149",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0148,92",
+                        "value": 148.92
+                    },
+                    "client_translations": {
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total",
+                        "total_text": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "amount_per_night_suffix": ""
+                    },
+                    "price_display_config": [
+                        {
+                            "key": "use_nightly_prices",
+                            "value": 0
+                        }
+                    ]
+                },
+                "children_not_allowed": 0,
+                "type": "property_card",
+                "hotel_name": "Residhome Nanterre La D\u00e9fense",
+                "review_nr": 1521,
+                "id": "property_card_1314467",
+                "extended": 0,
+                "preferred": 1,
+                "is_genius_deal": 0,
+                "latitude": 48.9010199673439,
+                "city_in_trans": "en Nanterre",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "preferred_plus": 0,
+                "updated_checkout": null,
+                "genius_discount_percentage": 0,
+                "accommodation_type": 219,
+                "is_smart_deal": 0,
+                "timezone": "Europe/Paris",
+                "hotel_include_breakfast": 0,
+                "is_free_cancellable": 0,
+                "booking_home": {
+                    "group": "apartment_like",
+                    "segment": 1,
+                    "is_booking_home": 1,
+                    "is_single_unit_property": "",
+                    "quality_class": 0
+                },
+                "unit_configuration_label": "<b>Estudio entero \u2013 22\u00a0m\u00b2</b>: 1\u00a0cama \u2022 1\u00a0dormitorio \u2022 1\u00a0ba\u00f1o",
+                "is_no_prepayment_block": 0,
+                "block_ids": [
+                    "131446701_85581253_2_2_0"
+                ],
+                "default_language": "fr",
+                "currencycode": "EUR",
+                "min_total_price": 132,
+                "checkout": {
+                    "until": "12:00",
+                    "from": ""
+                },
+                "cant_book": 0,
+                "badges": [],
+                "main_photo_id": 244384354,
+                "updated_checkin": null,
+                "review_score_word": "Muy bien",
+                "distances": [],
+                "checkin": {
+                    "until": "",
+                    "from": "15:00"
+                },
+                "countrycode": "fr",
+                "longitude": 2.2166505423279,
+                "class_is_estimated": 0,
+                "hotel_has_vb_boost": 0,
+                "default_wishlist_name": "Nanterre",
+                "class": 3,
+                "city": "Nanterre",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "is_geo_rate": "",
+                "review_score": 8.2,
+                "hotel_name_trans": "Residhome Nanterre La D\u00e9fense",
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/244384354.jpg?k=d8d4f09e636b8c27be5d12f7c06594e95a70ea30e37e69e3c9771a90487651e8&o=",
+                "soldout": 0
+            },
+            {
+                "hotel_id": 383622,
+                "latitude": 48.8752642515506,
+                "is_genius_deal": 0,
+                "preferred": 1,
+                "extended": 0,
+                "id": "property_card_383622",
+                "bwallet": {
+                    "hotel_eligibility": 0
+                },
+                "city_in_trans": "en Par\u00eds",
+                "composite_price_breakdown": {
+                    "charges_details": {
+                        "translated_copy": "",
+                        "amount": {
+                            "value": 0,
+                            "currency": "EUR"
+                        },
+                        "mode": "all_included"
+                    },
+                    "gross_amount": {
+                        "amount_unrounded": "\u20ac\u00a0514,80",
+                        "value": 514.8,
+                        "amount_rounded": "\u20ac\u00a0515",
+                        "currency": "EUR"
+                    },
+                    "has_long_stays_weekly_rate_price": 0,
+                    "all_inclusive_amount": {
+                        "amount_rounded": "\u20ac\u00a0515",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0514,80",
+                        "value": 514.8
+                    },
+                    "net_amount": {
+                        "amount_rounded": "\u20ac\u00a0468",
+                        "currency": "EUR",
+                        "value": 468,
+                        "amount_unrounded": "\u20ac\u00a0468"
+                    },
+                    "benefits": [],
+                    "client_translations": {
+                        "amount_per_night_suffix": "",
+                        "tooltip_footnote_text": [
+                            ""
+                        ],
+                        "total_text": "",
+                        "per_night_amount_prefix": "",
+                        "tooltip_total_text": "Total"
+                    },
+                    "price_display_config": [
+                        {
+                            "value": 0,
+                            "key": "use_nightly_prices"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "inclusion_type": "included",
+                            "item_amount": {
+                                "currency": "EUR",
+                                "amount_rounded": "\u20ac\u00a047",
+                                "amount_unrounded": "\u20ac\u00a046,80",
+                                "value": 46.8
+                            },
+                            "base": {
+                                "percentage": 10,
+                                "kind": "percentage"
+                            },
+                            "details": "10% IVA",
+                            "name": "IVA",
+                            "kind": "charge"
+                        }
+                    ],
+                    "all_inclusive_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0515",
+                        "amount_unrounded": "\u20ac\u00a0514,80",
+                        "value": 514.8
+                    },
+                    "has_long_stays_monthly_rate_price": 0,
+                    "excluded_amount": {
+                        "amount_rounded": "\u20ac\u00a00",
+                        "currency": "EUR",
+                        "value": 0,
+                        "amount_unrounded": "\u20ac\u00a00"
+                    },
+                    "gross_amount_hotel_currency": {
+                        "currency": "EUR",
+                        "amount_rounded": "\u20ac\u00a0515",
+                        "value": 514.8,
+                        "amount_unrounded": "\u20ac\u00a0514,80"
+                    },
+                    "gross_amount_per_night": {
+                        "amount_rounded": "\u20ac\u00a0257",
+                        "currency": "EUR",
+                        "amount_unrounded": "\u20ac\u00a0257,40",
+                        "value": 257.4
+                    },
+                    "included_taxes_and_charges_amount": {
+                        "amount_rounded": "\u20ac\u00a047",
+                        "currency": "EUR",
+                        "value": 46.8,
+                        "amount_unrounded": "\u20ac\u00a046,80"
+                    }
+                },
+                "ufi": -1456928,
+                "review_nr": 535,
+                "hotel_name": "Appartements Caumartin 64",
+                "type": "property_card",
+                "children_not_allowed": 0,
+                "is_no_prepayment_block": 0,
+                "unit_configuration_label": "<b>Apartamento entero \u2013 35\u00a0m\u00b2</b>: 2\u00a0camas \u2022 1\u00a0dormitorio \u2022 1\u00a0sala de estar \u2022 1\u00a0ba\u00f1o",
+                "booking_home": {
+                    "is_booking_home": 1,
+                    "segment": 1,
+                    "group": "apartment_like",
+                    "quality_class": 4,
+                    "is_single_unit_property": ""
+                },
+                "is_free_cancellable": 1,
+                "hotel_include_breakfast": 0,
+                "timezone": "Europe/Paris",
+                "currencycode": "EUR",
+                "default_language": "en",
+                "block_ids": [
+                    "38362205_369854983_0_0_0"
+                ],
+                "accommodation_type": 201,
+                "genius_discount_percentage": 0,
+                "updated_checkout": null,
+                "preferred_plus": 0,
+                "is_smart_deal": 0,
+                "distances": [],
+                "review_score_word": "Fabuloso",
+                "longitude": 2.32855103909969,
+                "countrycode": "fr",
+                "checkin": {
+                    "until": "22:00",
+                    "from": "15:00"
+                },
+                "cant_book": 0,
+                "checkout": {
+                    "until": "10:30",
+                    "from": "10:00"
+                },
+                "min_total_price": 514.8,
+                "updated_checkin": null,
+                "main_photo_id": 7999902,
+                "badges": [],
+                "is_geo_rate": "",
+                "last_reservation_data": {
+                    "last_reservation_ellapsed_months": 1
+                },
+                "city": "Paris",
+                "soldout": 0,
+                "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/7999902.jpg?k=88f99b48db2b474e4c19173f217bed6cb376e7f2c475645cb18142795d0d5f88&o=",
+                "hotel_name_trans": "Appartements Caumartin 64",
+                "review_score": 8.8,
+                "hotel_has_vb_boost": 0,
+                "class_is_estimated": 0,
+                "default_wishlist_name": "Par\u00eds",
+                "class": 0
+            }
+        ],
+        "room_distribution": [
+            {
+                "children": [
+                    0
+                ],
+                "adults": "1"
+            }
+        ],
+        "b_max_los_data": {
+            "extended_los": 90,
+            "max_allowed_los": 90,
+            "default_los": 30,
+            "has_extended_los": 1,
+            "experiment": "long_stays_ios_extend_los_3",
+            "is_fullon": 0
+        },
+        "extended_count": 0,
+        "applied_filters": []
+    }
+}
